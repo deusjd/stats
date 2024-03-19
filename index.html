@@ -114,8 +114,8 @@
         }
 
         function detalhesImpressao(impressao) {
-            var html = '<table><caption>Impressoes</caption><tr><th>Pessoas</th><th>Impressões</th><th>Conversão</th></tr>';
-            html += `<tr><td>${impressao?.pessoas ?? 'N/A'}</td><td>${impressao?.impressoes ?? 'N/A'}</td><td>${impressao?.conversao ?? 'N/A'}%</td></tr>`;
+            var html = '<table><caption>Impressoes</caption><tr><th>Pessoas</th><th>Impressões</th><th>Conversão Impressões</th><th>Conversão Pessoas</th></tr>';
+            html += `<tr><td>${impressao?.pessoas ?? 'N/A'}</td><td>${impressao?.impressoes ?? 'N/A'}</td><td>${impressao?.conversaoImpressoes ?? 'N/A'}%</td><td>${impressao?.conversaoPessoas ?? 'N/A'}%</td></tr>`;
             html += '</table>';
             return html;
         }  

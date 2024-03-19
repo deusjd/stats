@@ -1,11 +1,11 @@
 {
     "main": {
         "regiao": "florianopolis",
-        "acessos": 58754,
+        "acessos": 58755,
         "downloads": 15656,
         "acessosUltimos7Dias": {
             "dia": {
-                "0 - Tuesday  ": 19,
+                "0 - Tuesday  ": 20,
                 "1 - Monday   ": 117,
                 "2 - Sunday   ": 189,
                 "3 - Saturday ": 213,
@@ -14,7 +14,7 @@
                 "6 - Wednesday": 125,
                 "7 - Tuesday  ": 98
             },
-            "quantidade": 1106
+            "quantidade": 1107
         },
         "downloadsUltimos7Dias": {
             "dia": {
@@ -53,10 +53,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9725,
-                "conversao": 7.37,
-                "impressoes": 40413
+                "impressoes": 40420,
+                "conversaoPessoas": 30.61,
+                "conversaoImpressoes": 7.37
             },
             "interacoes": {
                 "acao": [
@@ -102,10 +103,11 @@
                 "quantidade": 2,
                 "quantidadePessoas": 6
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 10399,
-                "conversao": 5.24,
-                "impressoes": 45266
+                "impressoes": 45273,
+                "conversaoPessoas": 22.81,
+                "conversaoImpressoes": 5.24
             },
             "interacoes": {
                 "acao": [
@@ -149,10 +151,11 @@
                 "quantidade": 14,
                 "quantidadePessoas": 37
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 10667,
-                "conversao": 3.97,
-                "impressoes": 58496
+                "impressoes": 58500,
+                "conversaoPessoas": 21.77,
+                "conversaoImpressoes": 3.97
             },
             "interacoes": {
                 "acao": [
@@ -178,12 +181,12 @@
         {
             "cliques": {
                 "pessoas": 1313,
-                "diasAtivos": 251,
-                "quantidade": 2052,
-                "cliquesPorDia": 8.18,
-                "pessoasPorDia": 5.23,
-                "pessoasUltimos7dias": 20,
-                "quantidadeUltimos7dias": 26
+                "diasAtivos": 252,
+                "quantidade": 2053,
+                "cliquesPorDia": 8.15,
+                "pessoasPorDia": 5.21,
+                "pessoasUltimos7dias": 21,
+                "quantidadeUltimos7dias": 27
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -201,10 +204,11 @@
                 "quantidade": 5,
                 "quantidadePessoas": 12
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9653,
-                "conversao": 5.01,
-                "impressoes": 40948
+                "impressoes": 40954,
+                "conversaoPessoas": 21.27,
+                "conversaoImpressoes": 5.01
             },
             "interacoes": {
                 "acao": [
@@ -246,10 +250,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9846,
-                "conversao": 4.64,
-                "impressoes": 41790
+                "impressoes": 41794,
+                "conversaoPessoas": 19.69,
+                "conversaoImpressoes": 4.64
             },
             "interacoes": {
                 "acao": [
@@ -285,10 +290,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 10528,
-                "conversao": 3.87,
-                "impressoes": 45448
+                "impressoes": 45453,
+                "conversaoPessoas": 16.72,
+                "conversaoImpressoes": 3.87
             },
             "interacoes": {
                 "acao": [
@@ -322,10 +328,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9999,
-                "conversao": 4.07,
-                "impressoes": 41073
+                "impressoes": 41079,
+                "conversaoPessoas": 16.71,
+                "conversaoImpressoes": 4.07
             },
             "interacoes": {
                 "acao": [
@@ -362,10 +369,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 10425,
-                "conversao": 3.82,
-                "impressoes": 43034
+                "impressoes": 43039,
+                "conversaoPessoas": 15.77,
+                "conversaoImpressoes": 3.82
             },
             "interacoes": {
                 "acao": [
@@ -400,10 +408,11 @@
                 "quantidade": 2,
                 "quantidadePessoas": 12
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9262,
-                "conversao": 4.50,
-                "impressoes": 33642
+                "impressoes": 33646,
+                "conversaoPessoas": 16.36,
+                "conversaoImpressoes": 4.50
             },
             "interacoes": {
                 "acao": [
@@ -449,10 +458,11 @@
                 "quantidade": 2,
                 "quantidadePessoas": 8
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9486,
-                "conversao": 3.84,
-                "impressoes": 33323
+                "impressoes": 33327,
+                "conversaoPessoas": 13.47,
+                "conversaoImpressoes": 3.83
             },
             "interacoes": {
                 "acao": [
@@ -488,10 +498,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 10
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 10198,
-                "conversao": 3.04,
-                "impressoes": 40229
+                "impressoes": 40237,
+                "conversaoPessoas": 11.99,
+                "conversaoImpressoes": 3.04
             },
             "interacoes": {
                 "acao": [
@@ -523,10 +534,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 5658,
-                "conversao": 6.70,
-                "impressoes": 17406
+                "impressoes": 17410,
+                "conversaoPessoas": 20.63,
+                "conversaoImpressoes": 6.70
             },
             "interacoes": {
                 "acao": [
@@ -549,12 +561,12 @@
         {
             "cliques": {
                 "pessoas": 836,
-                "diasAtivos": 191,
-                "quantidade": 1351,
-                "cliquesPorDia": 7.07,
-                "pessoasPorDia": 4.38,
-                "pessoasUltimos7dias": 26,
-                "quantidadeUltimos7dias": 38
+                "diasAtivos": 192,
+                "quantidade": 1352,
+                "cliquesPorDia": 7.04,
+                "pessoasPorDia": 4.35,
+                "pessoasUltimos7dias": 27,
+                "quantidadeUltimos7dias": 39
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -568,10 +580,11 @@
                 "quantidade": 5,
                 "quantidadePessoas": 17
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 8446,
-                "conversao": 3.62,
-                "impressoes": 37313
+                "impressoes": 37321,
+                "conversaoPessoas": 16.01,
+                "conversaoImpressoes": 3.62
             },
             "interacoes": {
                 "acao": [
@@ -607,10 +620,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9454,
-                "conversao": 2.84,
-                "impressoes": 36294
+                "impressoes": 36298,
+                "conversaoPessoas": 10.91,
+                "conversaoImpressoes": 2.84
             },
             "interacoes": {
                 "acao": [
@@ -641,10 +655,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9506,
-                "conversao": 3.14,
-                "impressoes": 33376
+                "impressoes": 33383,
+                "conversaoPessoas": 11.04,
+                "conversaoImpressoes": 3.14
             },
             "interacoes": {
                 "acao": [
@@ -679,10 +694,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 2866,
-                "conversao": 13.33,
-                "impressoes": 7692
+                "impressoes": 7695,
+                "conversaoPessoas": 35.76,
+                "conversaoImpressoes": 13.32
             },
             "interacoes": {
                 "acao": [
@@ -722,10 +738,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 8257,
-                "conversao": 3.08,
-                "impressoes": 33912
+                "impressoes": 33916,
+                "conversaoPessoas": 12.66,
+                "conversaoImpressoes": 3.08
             },
             "interacoes": {
                 "acao": [
@@ -764,10 +781,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 5586,
-                "conversao": 5.43,
-                "impressoes": 16111
+                "impressoes": 16117,
+                "conversaoPessoas": 15.66,
+                "conversaoImpressoes": 5.43
             },
             "interacoes": {
                 "acao": [
@@ -802,10 +820,11 @@
                 "quantidade": 6,
                 "quantidadePessoas": 18
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9227,
-                "conversao": 2.56,
-                "impressoes": 33655
+                "impressoes": 33659,
+                "conversaoPessoas": 9.34,
+                "conversaoImpressoes": 2.56
             },
             "interacoes": {
                 "acao": [
@@ -836,10 +855,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 5046,
-                "conversao": 5.88,
-                "impressoes": 12554
+                "impressoes": 12556,
+                "conversaoPessoas": 14.63,
+                "conversaoImpressoes": 5.88
             },
             "interacoes": {
                 "acao": [
@@ -862,12 +882,12 @@
         {
             "cliques": {
                 "pessoas": 594,
-                "diasAtivos": 269,
-                "quantidade": 835,
+                "diasAtivos": 270,
+                "quantidade": 836,
                 "cliquesPorDia": 3.10,
-                "pessoasPorDia": 2.21,
+                "pessoasPorDia": 2.20,
                 "pessoasUltimos7dias": 10,
-                "quantidadeUltimos7dias": 13
+                "quantidadeUltimos7dias": 14
             },
             "reviews": {
                 "estrelas": 4.67,
@@ -879,10 +899,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 9570,
-                "conversao": 2.46,
-                "impressoes": 33914
+                "impressoes": 33918,
+                "conversaoPessoas": 8.74,
+                "conversaoImpressoes": 2.46
             },
             "interacoes": {
                 "acao": [
@@ -911,10 +932,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 5751,
-                "conversao": 3.92,
-                "impressoes": 20614
+                "impressoes": 20617,
+                "conversaoPessoas": 14.07,
+                "conversaoImpressoes": 3.92
             },
             "interacoes": {
                 "acao": [
@@ -943,10 +965,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 7152,
-                "conversao": 3.69,
-                "impressoes": 19543
+                "impressoes": 19546,
+                "conversaoPessoas": 10.08,
+                "conversaoImpressoes": 3.69
             },
             "interacoes": {
                 "acao": [
@@ -980,10 +1003,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 8482,
-                "conversao": 2.87,
-                "impressoes": 27519
+                "impressoes": 27523,
+                "conversaoPessoas": 9.33,
+                "conversaoImpressoes": 2.87
             },
             "interacoes": {
                 "acao": [
@@ -1016,10 +1040,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 8991,
-                "conversao": 2.18,
-                "impressoes": 31403
+                "impressoes": 31407,
+                "conversaoPessoas": 7.62,
+                "conversaoImpressoes": 2.18
             },
             "interacoes": {
                 "acao": [
@@ -1054,10 +1079,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 7863,
-                "conversao": 2.70,
-                "impressoes": 22791
+                "impressoes": 22794,
+                "conversaoPessoas": 7.82,
+                "conversaoImpressoes": 2.70
             },
             "interacoes": {
                 "acao": [
@@ -1096,10 +1122,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 3819,
-                "conversao": 6.40,
-                "impressoes": 8890
+                "impressoes": 8893,
+                "conversaoPessoas": 14.90,
+                "conversaoImpressoes": 6.40
             },
             "interacoes": {
                 "acao": [
@@ -1135,10 +1162,11 @@
                 "quantidade": 41,
                 "quantidadePessoas": 545
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 5332,
-                "conversao": 3.18,
-                "impressoes": 18066
+                "impressoes": 18070,
+                "conversaoPessoas": 10.78,
+                "conversaoImpressoes": 3.18
             },
             "interacoes": {
                 "acao": [
@@ -1160,22 +1188,23 @@
         {
             "cliques": {
                 "pessoas": 391,
-                "diasAtivos": 189,
-                "quantidade": 542,
-                "cliquesPorDia": 2.87,
-                "pessoasPorDia": 2.07,
-                "pessoasUltimos7dias": 13,
-                "quantidadeUltimos7dias": 14
+                "diasAtivos": 190,
+                "quantidade": 543,
+                "cliquesPorDia": 2.86,
+                "pessoasPorDia": 2.06,
+                "pessoasUltimos7dias": 14,
+                "quantidadeUltimos7dias": 15
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 3,
                 "quantidadePessoas": 9
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 7095,
-                "conversao": 2.11,
-                "impressoes": 25722
+                "impressoes": 25727,
+                "conversaoPessoas": 7.65,
+                "conversaoImpressoes": 2.11
             },
             "interacoes": {
                 "acao": [
@@ -1213,10 +1242,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 7884,
-                "conversao": 1.88,
-                "impressoes": 24100
+                "impressoes": 24103,
+                "conversaoPessoas": 5.73,
+                "conversaoImpressoes": 1.88
             },
             "interacoes": {
                 "acao": [
@@ -1255,10 +1285,11 @@
                 "quantidade": 4,
                 "quantidadePessoas": 15
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 3551,
-                "conversao": 3.56,
-                "impressoes": 13502
+                "impressoes": 13510,
+                "conversaoPessoas": 13.55,
+                "conversaoImpressoes": 3.56
             },
             "interacoes": {
                 "acao": [
@@ -1278,22 +1309,23 @@
         {
             "cliques": {
                 "pessoas": 331,
-                "diasAtivos": 152,
-                "quantidade": 425,
-                "cliquesPorDia": 2.80,
-                "pessoasPorDia": 2.18,
+                "diasAtivos": 153,
+                "quantidade": 426,
+                "cliquesPorDia": 2.78,
+                "pessoasPorDia": 2.16,
                 "pessoasUltimos7dias": 16,
-                "quantidadeUltimos7dias": 19
+                "quantidadeUltimos7dias": 20
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 5,
                 "quantidadePessoas": 20
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 5130,
-                "conversao": 2.37,
-                "impressoes": 17924
+                "impressoes": 17931,
+                "conversaoPessoas": 8.30,
+                "conversaoImpressoes": 2.38
             },
             "interacoes": {
                 "acao": [
@@ -1325,10 +1357,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 4004,
-                "conversao": 4.75,
-                "impressoes": 9100
+                "impressoes": 9103,
+                "conversaoPessoas": 10.79,
+                "conversaoImpressoes": 4.75
             },
             "interacoes": {
                 "acao": [
@@ -1356,10 +1389,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 6944,
-                "conversao": 2.20,
-                "impressoes": 19815
+                "impressoes": 19820,
+                "conversaoPessoas": 6.28,
+                "conversaoImpressoes": 2.20
             },
             "interacoes": {
                 "acao": [
@@ -1390,10 +1424,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 3883,
-                "conversao": 3.01,
-                "impressoes": 11114
+                "impressoes": 11118,
+                "conversaoPessoas": 8.60,
+                "conversaoImpressoes": 3.00
             },
             "interacoes": {
                 "acao": [
@@ -1424,10 +1459,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 2655,
-                "conversao": 3.79,
-                "impressoes": 9621
+                "impressoes": 9625,
+                "conversaoPessoas": 13.75,
+                "conversaoImpressoes": 3.79
             },
             "interacoes": {
                 "acao": [
@@ -1459,10 +1495,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 2700,
-                "conversao": 3.84,
-                "impressoes": 7836
+                "impressoes": 7839,
+                "conversaoPessoas": 11.15,
+                "conversaoImpressoes": 3.84
             },
             "interacoes": {
                 "acao": [
@@ -1494,10 +1531,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 5298,
-                "conversao": 2.00,
-                "impressoes": 13372
+                "impressoes": 13374,
+                "conversaoPessoas": 5.04,
+                "conversaoImpressoes": 2.00
             },
             "interacoes": {
                 "acao": [
@@ -1531,10 +1569,11 @@
                 "quantidade": 6,
                 "quantidadePessoas": 21
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 3491,
-                "conversao": 2.24,
-                "impressoes": 12066
+                "impressoes": 12070,
+                "conversaoPessoas": 7.73,
+                "conversaoImpressoes": 2.24
             },
             "interacoes": {
                 "acao": [
@@ -1565,10 +1604,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 435,
-                "conversao": 31.85,
-                "impressoes": 719
+                "impressoes": 721,
+                "conversaoPessoas": 52.64,
+                "conversaoImpressoes": 31.76
             },
             "interacoes": {
                 "acao": [
@@ -1600,10 +1640,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 5029,
-                "conversao": 1.78,
-                "impressoes": 11933
+                "impressoes": 11935,
+                "conversaoPessoas": 4.24,
+                "conversaoImpressoes": 1.78
             },
             "interacoes": {
                 "acao": [
@@ -1634,10 +1675,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 4627,
-                "conversao": 1.87,
-                "impressoes": 10360
+                "impressoes": 10362,
+                "conversaoPessoas": 4.19,
+                "conversaoImpressoes": 1.87
             },
             "interacoes": {
                 "acao": [
@@ -1670,10 +1712,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1770,
-                "conversao": 4.73,
-                "impressoes": 5012
+                "impressoes": 5016,
+                "conversaoPessoas": 13.39,
+                "conversaoImpressoes": 4.72
             },
             "interacoes": {
                 "acao": [
@@ -1709,10 +1752,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 5
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1884,
-                "conversao": 3.44,
-                "impressoes": 4852
+                "impressoes": 4855,
+                "conversaoPessoas": 8.86,
+                "conversaoImpressoes": 3.44
             },
             "interacoes": {
                 "acao": [
@@ -1747,10 +1791,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1965,
-                "conversao": 2.45,
-                "impressoes": 5643
+                "impressoes": 5648,
+                "conversaoPessoas": 7.02,
+                "conversaoImpressoes": 2.44
             },
             "interacoes": {
                 "acao": [
@@ -1786,10 +1831,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 2024,
-                "conversao": 2.34,
-                "impressoes": 4911
+                "impressoes": 4915,
+                "conversaoPessoas": 5.68,
+                "conversaoImpressoes": 2.34
             },
             "interacoes": {
                 "acao": [
@@ -1818,10 +1864,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 2024,
-                "conversao": 2.26,
-                "impressoes": 5404
+                "impressoes": 5407,
+                "conversaoPessoas": 6.03,
+                "conversaoImpressoes": 2.26
             },
             "interacoes": {
                 "acao": [
@@ -1847,10 +1894,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1710,
-                "conversao": 2.93,
-                "impressoes": 3648
+                "impressoes": 3650,
+                "conversaoPessoas": 6.26,
+                "conversaoImpressoes": 2.93
             },
             "interacoes": {
                 "acao": [
@@ -1868,12 +1916,12 @@
         {
             "cliques": {
                 "pessoas": 88,
-                "diasAtivos": 143,
-                "quantidade": 105,
-                "cliquesPorDia": 0.73,
-                "pessoasPorDia": 0.62,
-                "pessoasUltimos7dias": 8,
-                "quantidadeUltimos7dias": 10
+                "diasAtivos": 144,
+                "quantidade": 106,
+                "cliquesPorDia": 0.74,
+                "pessoasPorDia": 0.61,
+                "pessoasUltimos7dias": 9,
+                "quantidadeUltimos7dias": 11
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1883,10 +1931,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 3425,
-                "conversao": 1.24,
-                "impressoes": 8462
+                "impressoes": 8466,
+                "conversaoPessoas": 3.09,
+                "conversaoImpressoes": 1.25
             },
             "interacoes": {
                 "acao": [
@@ -1919,10 +1968,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 2419,
-                "conversao": 1.83,
-                "impressoes": 5835
+                "impressoes": 5838,
+                "conversaoPessoas": 4.42,
+                "conversaoImpressoes": 1.83
             },
             "interacoes": {
                 "acao": [
@@ -1952,10 +2002,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
-            "impressao": {
+            "impressoes": {
                 "pessoas": 3197,
-                "conversao": 1.39,
-                "impressoes": 7618
+                "impressoes": 7621,
+                "conversaoPessoas": 3.32,
+                "conversaoImpressoes": 1.39
             },
             "interacoes": {
                 "acao": [
@@ -1981,10 +2032,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1495,
-                "conversao": 2.96,
-                "impressoes": 3954
+                "impressoes": 3958,
+                "conversaoPessoas": 7.83,
+                "conversaoImpressoes": 2.96
             },
             "interacoes": {
                 "acao": [
@@ -2022,10 +2074,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1793,
-                "conversao": 2.43,
-                "impressoes": 4120
+                "impressoes": 4123,
+                "conversaoPessoas": 5.58,
+                "conversaoImpressoes": 2.43
             },
             "interacoes": {
                 "acao": [
@@ -2060,10 +2113,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 839,
-                "conversao": 4.66,
-                "impressoes": 1975
+                "impressoes": 1979,
+                "conversaoPessoas": 10.97,
+                "conversaoImpressoes": 4.65
             },
             "interacoes": {
                 "acao": [
@@ -2100,10 +2154,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1231,
-                "conversao": 2.33,
-                "impressoes": 3303
+                "impressoes": 3307,
+                "conversaoPessoas": 6.26,
+                "conversaoImpressoes": 2.33
             },
             "interacoes": {
                 "acao": [
@@ -2138,10 +2193,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1675,
-                "conversao": 1.26,
-                "impressoes": 4051
+                "impressoes": 4055,
+                "conversaoPessoas": 3.04,
+                "conversaoImpressoes": 1.26
             },
             "interacoes": {
                 "acao": [
@@ -2169,10 +2225,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1043,
-                "conversao": 2.22,
-                "impressoes": 2563
+                "impressoes": 2566,
+                "conversaoPessoas": 5.47,
+                "conversaoImpressoes": 2.22
             },
             "interacoes": {
                 "acao": [
@@ -2206,10 +2263,11 @@
                 ]
             },
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 995,
-                "conversao": 2.01,
-                "impressoes": 1990
+                "impressoes": 1993,
+                "conversaoPessoas": 4.02,
+                "conversaoImpressoes": 2.01
             },
             "interacoes": {
                 "acao": [
@@ -2237,10 +2295,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 1192,
-                "conversao": 1.43,
-                "impressoes": 2664
+                "impressoes": 2667,
+                "conversaoPessoas": 3.19,
+                "conversaoImpressoes": 1.42
             },
             "interacoes": {
                 "acao": [
@@ -2266,10 +2325,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 320,
-                "conversao": 4.04,
-                "impressoes": 520
+                "impressoes": 523,
+                "conversaoPessoas": 6.56,
+                "conversaoImpressoes": 4.02
             },
             "interacoes": {
                 "acao": [
@@ -2292,10 +2352,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 704,
-                "conversao": 1.30,
-                "impressoes": 1230
+                "impressoes": 1233,
+                "conversaoPessoas": 2.27,
+                "conversaoImpressoes": 1.30
             },
             "interacoes": {
                 "acao": [
@@ -2320,10 +2381,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 578,
-                "conversao": 2.00,
-                "impressoes": 1049
+                "impressoes": 1053,
+                "conversaoPessoas": 3.63,
+                "conversaoImpressoes": 1.99
             },
             "interacoes": {
                 "acao": [
@@ -2352,10 +2414,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 237,
-                "conversao": 3.07,
-                "impressoes": 456
+                "impressoes": 458,
+                "conversaoPessoas": 5.91,
+                "conversaoImpressoes": 3.06
             },
             "interacoes": {
                 "acao": [
@@ -2381,10 +2444,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 129,
-                "conversao": 5.03,
-                "impressoes": 199
+                "impressoes": 201,
+                "conversaoPessoas": 7.75,
+                "conversaoImpressoes": 4.98
             },
             "interacoes": {
                 "acao": [
@@ -2407,10 +2471,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 143,
-                "conversao": 1.81,
-                "impressoes": 221
+                "impressoes": 224,
+                "conversaoPessoas": 2.80,
+                "conversaoImpressoes": 1.79
             },
             "interacoes": null,
             "qtdFavoritados": 0,
@@ -2429,10 +2494,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 178,
-                "conversao": 1.47,
-                "impressoes": 272
+                "impressoes": 274,
+                "conversaoPessoas": 2.25,
+                "conversaoImpressoes": 1.46
             },
             "interacoes": null,
             "qtdFavoritados": 0,
@@ -2451,10 +2517,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressao": {
+            "impressoes": {
                 "pessoas": 14,
-                "conversao": 18.52,
-                "impressoes": 27
+                "impressoes": 29,
+                "conversaoPessoas": 35.71,
+                "conversaoImpressoes": 17.24
             },
             "interacoes": {
                 "acao": [
