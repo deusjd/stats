@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Informações dos Estabelecimentos</title>
+    <link rel="stylesheet" href="\css\style.css"> <!-- Adicione esta linha -->
+    <style>
+        .container { max-width: 800px; margin: auto; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid #ddd; padding: 8px; }
+        th { background-color: #f2f2f2; }
+        #estabelecimentoSelect { width: 100%; padding: 10px; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="\images\logo.png" alt="Logo da Empresa">
+    </header>
+    <div class="container">
+        <div id="infoMain"></div>
+        <select id="estabelecimentoSelect"></select>
+        <div id="infoEstabelecimento"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        fetch('json/json.json')
+            .then(response => response.json())
+            .then(dados => {
+                console.log(dados);
+                inicializarPagina(dados);
+            })
+            .catch(error => console.error("Erro ao carregar o JSON:", error));
+
+        function inicializarPagina(dados) {
+            mostrarInfoMain(dados.main);
+            popularSelectEstabelecimentos(dados.estabelecimento);
+
+            $('#estabelecimentoSelect').change(function() {
+                var selectedIndex = $(this).val();
+                if (selectedIndex !== "") {
+                    mostrarInfoEstabelecimento(dados.estabelecimento[selectedIndex]);
+                } else {
+                    $('#infoEstabelecimento').empty();
+                }
+            });
+        }
+
+        function mostrarInfoMain(main) {
+            var htmlMain = '<h2>Informações Gerais - ' + main.regiao + '</h2>';
+            htmlMain += '<table><tr><th>Total de Acessos</th><th>Total de Downloads</th></tr>';
+            htmlMain += `<tr><td>${main.acessos}</td><td>${main.downloads}</td></tr></table>`;
+            htmlMain += '<h4>Total nos últimos 7 dias</h4>';
+            htmlMain += '<table><tr><th>Acessos nos últimos 7 dias</th><th>Downloads nos últimos 7 dias</th></tr>';
+            htmlMain += `<tr><td>${main.acessosUltimos7Dias.quantidade}</td><td>${main.downloadsUltimos7Dias.quantidade}</td></tr></table>`;
+            htmlMain += detalhesAcessosDownloadsUltimos7Dias(main.acessosUltimos7Dias, main.downloadsUltimos7Dias);
+            $('#infoMain').html(htmlMain);
+        }
+
+        function detalhesAcessosDownloadsUltimos7Dias(acessosUltimos7Dias, downloadsUltimos7Dias) {
+            var html = '<h4>Acessos e Downloads nos últimos 7 dias</h4>';
+            html += '<table><tr><th>Dia</th><th>Acessos</th><th>Downloads</th></tr>';
+            Object.keys(acessosUltimos7Dias.dia).forEach((dia, index) => {
+                var acessos = acessosUltimos7Dias.dia[dia];
+                var downloads = downloadsUltimos7Dias.dia[dia] !== undefined ? downloadsUltimos7Dias.dia[dia] : 'N/A';
+                html += `<tr><td>${dia.trim()}</td><td>${acessos}</td><td>${downloads}</td></tr>`;
+            });
+            html += '</table>';
+            return html; 
+        }
+
+        function popularSelectEstabelecimentos(estabelecimentos) {
+            var select = $('#estabelecimentoSelect');
+            select.append('<option value="">Selecione um estabelecimento</option>');
+            estabelecimentos.forEach(function(estab, index) {
+                select.append('<option value="' + index + '">' + estab.estabelecimento + '</option>');
+            });
+        }
+
+        function mostrarInfoEstabelecimento(estab) {
+            var html = '<h2>Detalhes do Estabelecimento: ' + estab.estabelecimento + '</h2>';
+            html += detalhesCliques(estab.cliques);
+            html += detalhesReviews(estab.reviews);
+            html += detalhesReservas(estab.reservas);
+            html += detalhesInteracoes(estab.interacoes);
+            html += detalheFavoritados(estab.qtdFavoritados);
+            html += detalheValorInvestido(estab.valorInvestido);
+            $('#infoEstabelecimento').html(html);
+        }
+
+        function detalhesCliques(cliques) {
+            var html = '<tr><td>Cliques</td><td>';
+            html += `<table><tr><th>Quantidade</th><td>${cliques?.quantidade ?? 'N/A'}</td></tr>`;
+            html += `<tr><th>Pessoas</th><td>${cliques?.pessoas ?? 'N/A'}</td></tr>`;
+            html += `<tr><th>Dias Ativos</th><td>${cliques?.diasAtivos ?? 'N/A'}</td></tr>`;
+            html += `<tr><th>Cliques por Dia</th><td> ${cliques?.cliquesPorDia?.toFixed(2) ?? 'N/A'}</td></tr>`;
+            html += `<tr><th>Pessoas por Dia</th><td> ${cliques?.pessoasPorDia?.toFixed(2) ?? 'N/A'}</td></tr>`;
+            html += `<tr><th>Pessoas nos Últimos 7 Dias</th><td>${cliques?.pessoasUltimos7dias ?? 'N/A'}</td></tr>`;
+            html += `<tr><th>Quantidade nos Últimos 7 Dias</th><td>${cliques?.quantidadeUltimos7dias ?? 'N/A'}</td></tr></table>`;
+            html += `</td></tr>`;
+            return html;
+        }a
+
+        function detalhesReviews(reviews) {
+            if (!reviews) {
+                return '<table><caption>Reviews</caption><tr><td>N/A</td></tr></table>';
+            }
+            var comentarios = reviews.comentarios?.join(', ') ?? 'N/A';
+            var html = '<table><caption>Reviews</caption><tr><th>Estrelas</th><th>Quantidade</th><th>Comentários</th></tr>';
+            html += `<tr><td>${reviews.estrelas ?? 'N/A'}</td><td>${reviews.quantidade ?? 'N/A'}</td><td>${comentarios}</td></tr>`;
+            html += '</table>';
+            return html;
+        }
+
+        function detalhesReservas(reservas) {
+            var html = '<table><caption>Reservas</caption><tr><th>Quantidade</th><th>Quantidade Pessoas</th></tr>';
+            html += `<tr><td>${reservas?.quantidade ?? 'N/A'}</td><td>${reservas?.quantidadePessoas ?? 'N/A'}</td></tr>`;
+            html += '</table>';
+            return html;
+        }
+
+        function detalhesInteracoes(interacoes) {
+            var html = '<table><caption>Interações</caption><tr><th>Ações</th></tr>';
+            if (interacoes?.acao) {
+                interacoes.acao.forEach(acao => {
+                    html += `<tr><td>${acao}</td></tr>`;
+                });
+            } else {
+                html += '<tr><td>N/A</td></tr>';
+            }
+            html += '</table>';
+            return html;
+        }
+
+        function detalheFavoritados(qtdFavoritados) {
+            return `<table><tr><th>Favoritados</th><td>${qtdFavoritados ?? 'N/A'}</td></tr></table>`;
+        }
+
+        function detalheValorInvestido(valorInvestido) {
+            var valor = valorInvestido !== null ? valorInvestido : 'N/A';
+            return `<table><tr><th>Valor Investido</th><td>${valor}</td></tr></table>`;
+        }
+    </script>
+</body>
+</html>

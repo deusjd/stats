@@ -1,0 +1,59 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fonte moderna e legível */
+    background-color: #f0f2f5; /* Cor de fundo suave */
+    color: #333; /* Cor do texto */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff; /* Fundo branco para o conteúdo */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+header {
+    display: flex;
+    justify-content: center; /* Centraliza a logo */
+    margin-bottom: 20px; /* Espaçamento abaixo da logo */
+}
+
+header img {
+    max-width: 100%; /* Garante que a logo se ajuste ao container */
+    height: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #a2a7ac; /* Cor de fundo dos cabeçalhos da tabela */
+    color: #000000; /* Cor do texto dos cabeçalhos da tabela */
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2; /* Cor de fundo para linhas alternadas */
+}
+
+#estabelecimentoSelect {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px; /* Bordas arredondadas para o select */
+    border: 1px solid #ddd;
+}
+
+h2, h4 {
+    color: #000000; /* Cor para títulos */
+} 
