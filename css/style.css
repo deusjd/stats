@@ -1,59 +1,86 @@
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fonte moderna e legível */
-    background-color: #f0f2f5; /* Cor de fundo suave */
-    color: #333; /* Cor do texto */
+/* Reset básico para remover margens e paddings padrões */
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-.container {
-    max-width: 800px;
-    margin: auto;
-    background-color: #fff; /* Fundo branco para o conteúdo */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
-    padding: 20px;
-    margin-top: 30px;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
 }
 
 header {
-    display: flex;
-    justify-content: center; /* Centraliza a logo */
-    margin-bottom: 20px; /* Espaçamento abaixo da logo */
+    background-color: #720e49;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
 }
 
-header img {
-    max-width: 100%; /* Garante que a logo se ajuste ao container */
+img {
+    max-width: 100%;
     height: auto;
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-}
-
-th {
-    background-color: #a2a7ac; /* Cor de fundo dos cabeçalhos da tabela */
-    color: #000000; /* Cor do texto dos cabeçalhos da tabela */
-}
-
-tr:nth-child(even) {
-    background-color: #f2f2f2; /* Cor de fundo para linhas alternadas */
-}
-
-#estabelecimentoSelect {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 20px;
-    border-radius: 5px; /* Bordas arredondadas para o select */
-    border: 1px solid #ddd;
+.container {
+    padding: 20px;
 }
 
 h2, h4 {
-    color: #000000; /* Cor para títulos */
-} 
+    margin-bottom: 15px;
+}
+
+table {
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+th, td {
+    text-align: left;
+}
+
+/* Estilos para o select */
+#estabelecimentoSelect {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        margin: auto;
+    }
+
+    table, th, td {
+        font-size: 14px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 15px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 16px;
+    }
+
+    #estabelecimentoSelect {
+        font-size: 14px;
+    }
+}
