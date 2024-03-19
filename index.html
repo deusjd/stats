@@ -79,7 +79,24 @@
 
         function mostrarInfoEstabelecimento(estab) {
             var html = '<h2>Detalhes do Estabelecimento: ' + estab.estabelecimento + '</h2>';
-            html += detalhesImpressao(estab.impressao);
+
+        // Calcula a conversão de impressões
+        var impressoes = estab.impressao?.impressoes;
+        var impressoesPessoas = estab.impressao?.pessoas;
+        var cliquesQuantidade = estab.cliques?.quantidade;
+        var cliquesPessoas = estab.cliques?.pessoas;
+        var conversaoImpressoes = "N/A";
+        var conversaoPessoas = "N/A";
+
+        if (impressoes !== undefined && cliquesQuantidade !== undefined && cliquesQuantidade > 0) {
+            conversaoImpressoes = ((cliquesQuantidade / impressoes)*100).toFixed(2);
+        }
+
+        if (impressoesPessoas !== undefined && cliquesPessoas !== undefined && cliquesPessoas > 0) {
+            conversaoPessoas = ((cliquesPessoas / impressoesPessoas)*100).toFixed(2);
+        }
+
+            html += detalhesImpressao(estab.impressao, conversaoImpressoes, conversaoPessoas);
             html += detalhesCliques(estab.cliques);
             html += detalhesReviews(estab.reviews);
             html += detalhesReservas(estab.reservas);
@@ -113,12 +130,12 @@
             return html;
         }
 
-        function detalhesImpressao(impressao) {
-            var html = '<table><caption>Impressoes</caption><tr><th>Pessoas</th><th>Impressões</th><th>Conversão Impressões</th><th>Conversão Pessoas</th></tr>';
-            html += `<tr><td>${impressao?.pessoas ?? 'N/A'}</td><td>${impressao?.impressoes ?? 'N/A'}</td><td>${impressao?.conversaoImpressoes ?? 'N/A'}%</td><td>${impressao?.conversaoPessoas ?? 'N/A'}%</td></tr>`;
+        function detalhesImpressao(impressao, conversaoImpressoes, conversaoPessoas) {
+            var html = '<table><caption>Impressões</caption><tr><th>Pessoas</th><th>Impressões</th><th>Conversão Impressões</th><th>Conversão Pessoas</th></tr>';
+            html += `<tr><td>${impressao?.pessoas ?? 'N/A'}</td><td>${impressao?.impressoes ?? 'N/A'}</td><td>${conversaoImpressoes}%</td><td>${conversaoPessoas}%</td></tr>`;
             html += '</table>';
             return html;
-        }  
+} 
 
         function detalhesReservas(reservas) {
             var html = '<table><caption>Reservas</caption><tr><th>Quantidade</th><th>Quantidade Pessoas</th></tr>';
@@ -126,6 +143,7 @@
             html += '</table>';
             return html;
         }
+        
 
         function detalhesInteracoes(interacoes) {
             var html = '<table><caption>Interações</caption><tr><th>Ações</th></tr>';
