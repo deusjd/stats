@@ -75,10 +75,11 @@
             estabelecimentos.forEach(function(estab, index) {
                 select.append('<option value="' + index + '">' + estab.estabelecimento + '</option>');
             });
-        }
+        }    
 
         function mostrarInfoEstabelecimento(estab) {
             var html = '<h2>Detalhes do Estabelecimento: ' + estab.estabelecimento + '</h2>';
+            html += detalhesImpressao(estab.impressao);
             html += detalhesCliques(estab.cliques);
             html += detalhesReviews(estab.reviews);
             html += detalhesReservas(estab.reservas);
@@ -86,7 +87,7 @@
             html += detalheFavoritados(estab.qtdFavoritados);
             html += detalheValorInvestido(estab.valorInvestido);
             $('#infoEstabelecimento').html(html);
-        }
+        } 
 
         function detalhesCliques(cliques) {
             var html = '<tr><td>Cliques</td><td>';
@@ -99,7 +100,7 @@
             html += `<tr><th>Quantidade nos Últimos 7 Dias</th><td>${cliques?.quantidadeUltimos7dias ?? 'N/A'}</td></tr></table>`;
             html += `</td></tr>`;
             return html;
-        }a
+        }
 
         function detalhesReviews(reviews) {
             if (!reviews) {
@@ -111,6 +112,13 @@
             html += '</table>';
             return html;
         }
+
+        function detalhesImpressao(impressao) {
+            var html = '<table><caption>Impressoes</caption><tr><th>Pessoas</th><th>Impressões</th><th>Conversão</th></tr>';
+            html += `<tr><td>${impressao?.pessoas ?? 'N/A'}</td><td>${impressao?.impressoes ?? 'N/A'}</td><td>${impressao?.conversao ?? 'N/A'}%</td></tr>`;
+            html += '</table>';
+            return html;
+        }  
 
         function detalhesReservas(reservas) {
             var html = '<table><caption>Reservas</caption><tr><th>Quantidade</th><th>Quantidade Pessoas</th></tr>';

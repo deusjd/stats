@@ -1,11 +1,11 @@
 {
     "main": {
         "regiao": "florianopolis",
-        "acessos": 58749,
+        "acessos": 58754,
         "downloads": 15656,
         "acessosUltimos7Dias": {
             "dia": {
-                "0 - Tuesday  ": 14,
+                "0 - Tuesday  ": 19,
                 "1 - Monday   ": 117,
                 "2 - Sunday   ": 189,
                 "3 - Saturday ": 213,
@@ -14,7 +14,7 @@
                 "6 - Wednesday": 125,
                 "7 - Tuesday  ": 98
             },
-            "quantidade": 1101
+            "quantidade": 1106
         },
         "downloadsUltimos7Dias": {
             "dia": {
@@ -52,6 +52,11 @@
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 2
+            },
+            "impressao": {
+                "pessoas": 9725,
+                "conversao": 7.37,
+                "impressoes": 40413
             },
             "interacoes": {
                 "acao": [
@@ -97,6 +102,11 @@
                 "quantidade": 2,
                 "quantidadePessoas": 6
             },
+            "impressao": {
+                "pessoas": 10399,
+                "conversao": 5.24,
+                "impressoes": 45266
+            },
             "interacoes": {
                 "acao": [
                     "10 - Botão de ação Comprar Ingressos",
@@ -138,6 +148,11 @@
             "reservas": {
                 "quantidade": 14,
                 "quantidadePessoas": 37
+            },
+            "impressao": {
+                "pessoas": 10667,
+                "conversao": 3.97,
+                "impressoes": 58496
             },
             "interacoes": {
                 "acao": [
@@ -186,6 +201,11 @@
                 "quantidade": 5,
                 "quantidadePessoas": 12
             },
+            "impressao": {
+                "pessoas": 9653,
+                "conversao": 5.01,
+                "impressoes": 40948
+            },
             "interacoes": {
                 "acao": [
                     "11 - Brinde Aniversário",
@@ -226,6 +246,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 9846,
+                "conversao": 4.64,
+                "impressoes": 41790
+            },
             "interacoes": {
                 "acao": [
                     "01 - Botão de ação SORTEIO DE 1 CHOPP",
@@ -260,6 +285,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
+            "impressao": {
+                "pessoas": 10528,
+                "conversao": 3.87,
+                "impressoes": 45448
+            },
             "interacoes": {
                 "acao": [
                     "01 - Botão de ação Comprar Ingressos",
@@ -292,6 +322,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 9999,
+                "conversao": 4.07,
+                "impressoes": 41073
+            },
             "interacoes": {
                 "acao": [
                     "17 - Contato",
@@ -327,6 +362,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 10425,
+                "conversao": 3.82,
+                "impressoes": 43034
+            },
             "interacoes": {
                 "acao": [
                     "12 - Brinde Aniversário",
@@ -359,6 +399,11 @@
             "reservas": {
                 "quantidade": 2,
                 "quantidadePessoas": 12
+            },
+            "impressao": {
+                "pessoas": 9262,
+                "conversao": 4.50,
+                "impressoes": 33642
             },
             "interacoes": {
                 "acao": [
@@ -404,6 +449,11 @@
                 "quantidade": 2,
                 "quantidadePessoas": 8
             },
+            "impressao": {
+                "pessoas": 9486,
+                "conversao": 3.84,
+                "impressoes": 33323
+            },
             "interacoes": {
                 "acao": [
                     "22 - Brinde Aniversário",
@@ -438,6 +488,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 10
             },
+            "impressao": {
+                "pessoas": 10198,
+                "conversao": 3.04,
+                "impressoes": 40229
+            },
             "interacoes": {
                 "acao": [
                     "15 - Botão de ação Mais Informações",
@@ -468,6 +523,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 5658,
+                "conversao": 6.70,
+                "impressoes": 17406
+            },
             "interacoes": {
                 "acao": [
                     "18 - Botão de ação Comprar Ingressos",
@@ -508,6 +568,11 @@
                 "quantidade": 5,
                 "quantidadePessoas": 17
             },
+            "impressao": {
+                "pessoas": 8446,
+                "conversao": 3.62,
+                "impressoes": 37313
+            },
             "interacoes": {
                 "acao": [
                     "72 - Brinde Aniversário",
@@ -542,6 +607,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
+            "impressao": {
+                "pessoas": 9454,
+                "conversao": 2.84,
+                "impressoes": 36294
+            },
             "interacoes": {
                 "acao": [
                     "13 - Contato",
@@ -571,6 +641,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 9506,
+                "conversao": 3.14,
+                "impressoes": 33376
+            },
             "interacoes": {
                 "acao": [
                     "86 - Brinde Aniversário",
@@ -604,6 +679,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 2866,
+                "conversao": 13.33,
+                "impressoes": 7692
+            },
             "interacoes": {
                 "acao": [
                     "10 - Brinde Aniversário",
@@ -642,6 +722,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 8257,
+                "conversao": 3.08,
+                "impressoes": 33912
+            },
             "interacoes": {
                 "acao": [
                     "51 - Brinde Aniversário",
@@ -679,6 +764,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 5586,
+                "conversao": 5.43,
+                "impressoes": 16111
+            },
             "interacoes": {
                 "acao": [
                     "04 - Brinde Aniversário",
@@ -712,6 +802,11 @@
                 "quantidade": 6,
                 "quantidadePessoas": 18
             },
+            "impressao": {
+                "pessoas": 9227,
+                "conversao": 2.56,
+                "impressoes": 33655
+            },
             "interacoes": {
                 "acao": [
                     "06 - Contato",
@@ -741,6 +836,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 5046,
+                "conversao": 5.88,
+                "impressoes": 12554
+            },
             "interacoes": {
                 "acao": [
                     "05 - Contato",
@@ -779,6 +879,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 9570,
+                "conversao": 2.46,
+                "impressoes": 33914
+            },
             "interacoes": {
                 "acao": [
                     "17 - Contato",
@@ -797,15 +902,20 @@
         {
             "cliques": {
                 "pessoas": 593,
-                "diasAtivos": 152,
-                "quantidade": 808,
-                "cliquesPorDia": 5.32,
-                "pessoasPorDia": 3.90,
-                "pessoasUltimos7dias": 33,
-                "quantidadeUltimos7dias": 40
+                "diasAtivos": 153,
+                "quantidade": 809,
+                "cliquesPorDia": 5.29,
+                "pessoasPorDia": 3.88,
+                "pessoasUltimos7dias": 34,
+                "quantidadeUltimos7dias": 41
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 5751,
+                "conversao": 3.92,
+                "impressoes": 20614
+            },
             "interacoes": {
                 "acao": [
                     "03 - Contato",
@@ -833,6 +943,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 7152,
+                "conversao": 3.69,
+                "impressoes": 19543
+            },
             "interacoes": {
                 "acao": [
                     "91 - Brinde Aniversário",
@@ -865,6 +980,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
+            "impressao": {
+                "pessoas": 8482,
+                "conversao": 2.87,
+                "impressoes": 27519
+            },
             "interacoes": {
                 "acao": [
                     "10 - Botão de ação Conheça o Arroz Flonopx",
@@ -896,6 +1016,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 8991,
+                "conversao": 2.18,
+                "impressoes": 31403
+            },
             "interacoes": {
                 "acao": [
                     "10 - Contato",
@@ -929,6 +1054,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 7863,
+                "conversao": 2.70,
+                "impressoes": 22791
+            },
             "interacoes": {
                 "acao": [
                     "63 - Brinde Aniversário",
@@ -966,6 +1096,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 3819,
+                "conversao": 6.40,
+                "impressoes": 8890
+            },
             "interacoes": {
                 "acao": [
                     "67 - Brinde Aniversário",
@@ -1000,6 +1135,11 @@
                 "quantidade": 41,
                 "quantidadePessoas": 545
             },
+            "impressao": {
+                "pessoas": 5332,
+                "conversao": 3.18,
+                "impressoes": 18066
+            },
             "interacoes": {
                 "acao": [
                     "36 - Brinde Aniversário",
@@ -1031,6 +1171,11 @@
             "reservas": {
                 "quantidade": 3,
                 "quantidadePessoas": 9
+            },
+            "impressao": {
+                "pessoas": 7095,
+                "conversao": 2.11,
+                "impressoes": 25722
             },
             "interacoes": {
                 "acao": [
@@ -1068,6 +1213,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 7884,
+                "conversao": 1.88,
+                "impressoes": 24100
+            },
             "interacoes": {
                 "acao": [
                     "09 - Contato",
@@ -1105,6 +1255,11 @@
                 "quantidade": 4,
                 "quantidadePessoas": 15
             },
+            "impressao": {
+                "pessoas": 3551,
+                "conversao": 3.56,
+                "impressoes": 13502
+            },
             "interacoes": {
                 "acao": [
                     "11 - Contato",
@@ -1134,6 +1289,11 @@
             "reservas": {
                 "quantidade": 5,
                 "quantidadePessoas": 20
+            },
+            "impressao": {
+                "pessoas": 5130,
+                "conversao": 2.37,
+                "impressoes": 17924
             },
             "interacoes": {
                 "acao": [
@@ -1165,6 +1325,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 4004,
+                "conversao": 4.75,
+                "impressoes": 9100
+            },
             "interacoes": {
                 "acao": [
                     "04 - Contato",
@@ -1191,6 +1356,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 6944,
+                "conversao": 2.20,
+                "impressoes": 19815
+            },
             "interacoes": {
                 "acao": [
                     "33 - Botão de ação Participar do sorteio",
@@ -1220,6 +1390,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 3883,
+                "conversao": 3.01,
+                "impressoes": 11114
+            },
             "interacoes": {
                 "acao": [
                     "03 - Contato",
@@ -1249,6 +1424,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 2655,
+                "conversao": 3.79,
+                "impressoes": 9621
+            },
             "interacoes": {
                 "acao": [
                     "15 - Brinde Aniversário",
@@ -1279,6 +1459,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 2700,
+                "conversao": 3.84,
+                "impressoes": 7836
+            },
             "interacoes": {
                 "acao": [
                     "19 - Brinde Aniversário",
@@ -1308,6 +1493,11 @@
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 4
+            },
+            "impressao": {
+                "pessoas": 5298,
+                "conversao": 2.00,
+                "impressoes": 13372
             },
             "interacoes": {
                 "acao": [
@@ -1341,6 +1531,11 @@
                 "quantidade": 6,
                 "quantidadePessoas": 21
             },
+            "impressao": {
+                "pessoas": 3491,
+                "conversao": 2.24,
+                "impressoes": 12066
+            },
             "interacoes": {
                 "acao": [
                     "19 - Brinde Aniversário",
@@ -1370,6 +1565,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 435,
+                "conversao": 31.85,
+                "impressoes": 719
+            },
             "interacoes": {
                 "acao": [
                     "22 - Brinde Aniversário",
@@ -1400,6 +1600,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 5029,
+                "conversao": 1.78,
+                "impressoes": 11933
+            },
             "interacoes": {
                 "acao": [
                     "03 - Contato",
@@ -1429,6 +1634,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 4627,
+                "conversao": 1.87,
+                "impressoes": 10360
+            },
             "interacoes": {
                 "acao": [
                     "02 - Contato",
@@ -1460,6 +1670,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1770,
+                "conversao": 4.73,
+                "impressoes": 5012
+            },
             "interacoes": {
                 "acao": [
                     "14 - Brinde Aniversário",
@@ -1494,6 +1709,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 5
             },
+            "impressao": {
+                "pessoas": 1884,
+                "conversao": 3.44,
+                "impressoes": 4852
+            },
             "interacoes": {
                 "acao": [
                     "01 - Contato",
@@ -1527,6 +1747,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1965,
+                "conversao": 2.45,
+                "impressoes": 5643
+            },
             "interacoes": {
                 "acao": [
                     "11 - Brinde Aniversário",
@@ -1561,6 +1786,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 2024,
+                "conversao": 2.34,
+                "impressoes": 4911
+            },
             "interacoes": {
                 "acao": [
                     "01 - Contato",
@@ -1588,6 +1818,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 2024,
+                "conversao": 2.26,
+                "impressoes": 5404
+            },
             "interacoes": {
                 "acao": [
                     "36 - Instagram",
@@ -1612,6 +1847,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 1710,
+                "conversao": 2.93,
+                "impressoes": 3648
+            },
             "interacoes": {
                 "acao": [
                     "29 - Instagram",
@@ -1643,6 +1883,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 3425,
+                "conversao": 1.24,
+                "impressoes": 8462
+            },
             "interacoes": {
                 "acao": [
                     "02 - Contato",
@@ -1674,6 +1919,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 2419,
+                "conversao": 1.83,
+                "impressoes": 5835
+            },
             "interacoes": {
                 "acao": [
                     "07 - Instagram",
@@ -1702,6 +1952,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
+            "impressao": {
+                "pessoas": 3197,
+                "conversao": 1.39,
+                "impressoes": 7618
+            },
             "interacoes": {
                 "acao": [
                     "01 - Contato",
@@ -1726,6 +1981,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 1495,
+                "conversao": 2.96,
+                "impressoes": 3954
+            },
             "interacoes": {
                 "acao": [
                     "02 - Botão de ação Participar do sorteio",
@@ -1762,6 +2022,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1793,
+                "conversao": 2.43,
+                "impressoes": 4120
+            },
             "interacoes": {
                 "acao": [
                     "08 - Brinde Aniversário",
@@ -1795,6 +2060,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 839,
+                "conversao": 4.66,
+                "impressoes": 1975
+            },
             "interacoes": {
                 "acao": [
                     "05 - Brinde Aniversário",
@@ -1830,6 +2100,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1231,
+                "conversao": 2.33,
+                "impressoes": 3303
+            },
             "interacoes": {
                 "acao": [
                     "01 - Delivery",
@@ -1863,6 +2138,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1675,
+                "conversao": 1.26,
+                "impressoes": 4051
+            },
             "interacoes": {
                 "acao": [
                     "01 - Contato",
@@ -1889,6 +2169,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 1043,
+                "conversao": 2.22,
+                "impressoes": 2563
+            },
             "interacoes": {
                 "acao": [
                     "04 - Brinde Aniversário",
@@ -1921,6 +2206,11 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 995,
+                "conversao": 2.01,
+                "impressoes": 1990
+            },
             "interacoes": {
                 "acao": [
                     "02 - Contato",
@@ -1947,6 +2237,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 1192,
+                "conversao": 1.43,
+                "impressoes": 2664
+            },
             "interacoes": {
                 "acao": [
                     "01 - Contato",
@@ -1971,6 +2266,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 320,
+                "conversao": 4.04,
+                "impressoes": 520
+            },
             "interacoes": {
                 "acao": [
                     "10 - Cardápio"
@@ -1992,6 +2292,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 704,
+                "conversao": 1.30,
+                "impressoes": 1230
+            },
             "interacoes": {
                 "acao": [
                     "02 - Instagram",
@@ -2015,6 +2320,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 578,
+                "conversao": 2.00,
+                "impressoes": 1049
+            },
             "interacoes": {
                 "acao": [
                     "01 - Botão de ação Participar do sorteio",
@@ -2042,6 +2352,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 237,
+                "conversao": 3.07,
+                "impressoes": 456
+            },
             "interacoes": {
                 "acao": [
                     "01 - Contato",
@@ -2066,6 +2381,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 129,
+                "conversao": 5.03,
+                "impressoes": 199
+            },
             "interacoes": {
                 "acao": [
                     "01 - Endereço no Maps"
@@ -2087,6 +2407,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 143,
+                "conversao": 1.81,
+                "impressoes": 221
+            },
             "interacoes": null,
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2104,6 +2429,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 178,
+                "conversao": 1.47,
+                "impressoes": 272
+            },
             "interacoes": null,
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2121,6 +2451,11 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 14,
+                "conversao": 18.52,
+                "impressoes": 27
+            },
             "interacoes": {
                 "acao": [
                     "01 - Contato",
