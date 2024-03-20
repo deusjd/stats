@@ -1,45 +1,45 @@
 {
     "main": {
         "regiao": "florianopolis",
-        "acessos": 58909,
-        "downloads": 15692,
+        "acessos": 58755,
+        "downloads": 15656,
         "acessosUltimos7Dias": {
             "dia": {
-                "0 - Wednesday": 32,
-                "1 - Tuesday  ": 142,
-                "2 - Monday   ": 117,
-                "3 - Sunday   ": 189,
-                "4 - Saturday ": 213,
-                "5 - Friday   ": 179,
-                "6 - Thursday ": 166,
-                "7 - Wednesday": 125
+                "0 - Tuesday  ": 20,
+                "1 - Monday   ": 117,
+                "2 - Sunday   ": 189,
+                "3 - Saturday ": 213,
+                "4 - Friday   ": 179,
+                "5 - Thursday ": 166,
+                "6 - Wednesday": 125,
+                "7 - Tuesday  ": 98
             },
-            "quantidade": 1163
+            "quantidade": 1107
         },
         "downloadsUltimos7Dias": {
             "dia": {
-                "0 - Wednesday": 0,
-                "1 - Tuesday  ": 7,
-                "2 - Monday   ": 8,
-                "3 - Sunday   ": 11,
-                "4 - Saturday ": 13,
-                "5 - Friday   ": 18,
-                "6 - Thursday ": 11,
-                "7 - Wednesday": 16
+                "0 - Tuesday  ": 0,
+                "1 - Monday   ": 1,
+                "2 - Sunday   ": 9,
+                "3 - Saturday ": 12,
+                "4 - Friday   ": 17,
+                "5 - Thursday ": 10,
+                "6 - Wednesday": 15,
+                "7 - Tuesday  ": 18
             },
-            "quantidade": 84
+            "quantidade": 82
         }
     },
     "estabelecimento": [
         {
             "cliques": {
-                "pessoas": 1965,
-                "diasAtivos": 281,
-                "quantidade": 2982,
-                "cliquesPorDia": 10.61,
-                "pessoasPorDia": 6.99,
-                "pessoasUltimos7dias": 24,
-                "quantidadeUltimos7dias": 27
+                "pessoas": 1962,
+                "diasAtivos": 278,
+                "quantidade": 2977,
+                "cliquesPorDia": 10.71,
+                "pessoasPorDia": 7.06,
+                "pessoasUltimos7dias": 20,
+                "quantidadeUltimos7dias": 24
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -53,9 +53,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
-            "impressoes": {
-                "pessoas": 9753,
-                "impressoes": 40531
+            "impressao": {
+                "pessoas": 9725,
+                "impressoes": 40420,
+                "conversaoPessoas": 30.61,
+                "conversaoImpressoes": 7.37
             },
             "interacoes": {
                 "acao": [
@@ -63,7 +65,7 @@
                     "01 - Botão de ação Quero Participar do Sorteio!",
                     "03 - Botão de ação Reservar Mesa",
                     "33 - Contato",
-                    "42 - Instagram",
+                    "41 - Instagram",
                     "84 - Endereço no Maps",
                     "05 - Chamar Motorista - 99",
                     "03 - Chamar Motorista - Uber",
@@ -72,7 +74,7 @@
                     "10 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Nosso Quintal"
         },
@@ -83,8 +85,8 @@
                 "quantidade": 2372,
                 "cliquesPorDia": 9.64,
                 "pessoasPorDia": 6.08,
-                "pessoasUltimos7dias": 23,
-                "quantidadeUltimos7dias": 25
+                "pessoasUltimos7dias": 27,
+                "quantidadeUltimos7dias": 31
             },
             "reviews": {
                 "estrelas": 4.80,
@@ -101,9 +103,11 @@
                 "quantidade": 2,
                 "quantidadePessoas": 6
             },
-            "impressoes": {
-                "pessoas": 10434,
-                "impressoes": 45418
+            "impressao": {
+                "pessoas": 10399,
+                "impressoes": 45273,
+                "conversaoPessoas": 22.81,
+                "conversaoImpressoes": 5.24
             },
             "interacoes": {
                 "acao": [
@@ -122,19 +126,19 @@
                     "17 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 1,
+            "qtdFavoritados": 2,
             "valorInvestido": null,
             "estabelecimento": "Pull Beer"
         },
         {
             "cliques": {
                 "pessoas": 1459,
-                "diasAtivos": 225,
-                "quantidade": 2323,
-                "cliquesPorDia": 10.32,
-                "pessoasPorDia": 6.48,
-                "pessoasUltimos7dias": 45,
-                "quantidadeUltimos7dias": 56
+                "diasAtivos": 224,
+                "quantidade": 2322,
+                "cliquesPorDia": 10.37,
+                "pessoasPorDia": 6.51,
+                "pessoasUltimos7dias": 47,
+                "quantidadeUltimos7dias": 57
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -147,9 +151,11 @@
                 "quantidade": 14,
                 "quantidadePessoas": 37
             },
-            "impressoes": {
-                "pessoas": 10689,
-                "impressoes": 58595
+            "impressao": {
+                "pessoas": 10667,
+                "impressoes": 58500,
+                "conversaoPessoas": 21.77,
+                "conversaoImpressoes": 3.97
             },
             "interacoes": {
                 "acao": [
@@ -168,7 +174,7 @@
                     "60 - Tour"
                 ]
             },
-            "qtdFavoritados": 4,
+            "qtdFavoritados": 5,
             "valorInvestido": null,
             "estabelecimento": "Dk4 "
         },
@@ -176,11 +182,11 @@
             "cliques": {
                 "pessoas": 1313,
                 "diasAtivos": 252,
-                "quantidade": 2054,
+                "quantidade": 2053,
                 "cliquesPorDia": 8.15,
                 "pessoasPorDia": 5.21,
-                "pessoasUltimos7dias": 22,
-                "quantidadeUltimos7dias": 28
+                "pessoasUltimos7dias": 21,
+                "quantidadeUltimos7dias": 27
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -198,14 +204,16 @@
                 "quantidade": 5,
                 "quantidadePessoas": 12
             },
-            "impressoes": {
-                "pessoas": 9679,
-                "impressoes": 41063
+            "impressao": {
+                "pessoas": 9653,
+                "impressoes": 40954,
+                "conversaoPessoas": 21.27,
+                "conversaoImpressoes": 5.01
             },
             "interacoes": {
                 "acao": [
                     "11 - Brinde Aniversário",
-                    "20 - Contato",
+                    "18 - Contato",
                     "22 - Instagram",
                     "81 - Endereço no Maps",
                     "41 - Cardápio",
@@ -215,19 +223,19 @@
                     "70 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Jardim 410"
         },
         {
             "cliques": {
                 "pessoas": 1281,
-                "diasAtivos": 280,
-                "quantidade": 1940,
-                "cliquesPorDia": 6.93,
-                "pessoasPorDia": 4.58,
-                "pessoasUltimos7dias": 21,
-                "quantidadeUltimos7dias": 23
+                "diasAtivos": 279,
+                "quantidade": 1939,
+                "cliquesPorDia": 6.95,
+                "pessoasPorDia": 4.59,
+                "pessoasUltimos7dias": 24,
+                "quantidadeUltimos7dias": 26
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -242,9 +250,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 9870,
-                "impressoes": 41894
+            "impressao": {
+                "pessoas": 9846,
+                "impressoes": 41794,
+                "conversaoPessoas": 19.69,
+                "conversaoImpressoes": 4.64
             },
             "interacoes": {
                 "acao": [
@@ -261,28 +271,30 @@
                     "15 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Bar das Fábricas"
         },
         {
             "cliques": {
-                "pessoas": 1205,
-                "diasAtivos": 232,
-                "quantidade": 1763,
-                "cliquesPorDia": 7.60,
-                "pessoasPorDia": 5.19,
-                "pessoasUltimos7dias": 37,
-                "quantidadeUltimos7dias": 42
+                "pessoas": 1202,
+                "diasAtivos": 231,
+                "quantidade": 1760,
+                "cliquesPorDia": 7.62,
+                "pessoasPorDia": 5.20,
+                "pessoasUltimos7dias": 34,
+                "quantidadeUltimos7dias": 40
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
-            "impressoes": {
-                "pessoas": 10554,
-                "impressoes": 45574
+            "impressao": {
+                "pessoas": 10528,
+                "impressoes": 45453,
+                "conversaoPessoas": 16.72,
+                "conversaoImpressoes": 3.87
             },
             "interacoes": {
                 "acao": [
@@ -300,25 +312,27 @@
                     "09 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 1,
+            "qtdFavoritados": 2,
             "valorInvestido": null,
             "estabelecimento": "Capitão Gourmet"
         },
         {
             "cliques": {
-                "pessoas": 1180,
-                "diasAtivos": 281,
-                "quantidade": 1674,
-                "cliquesPorDia": 5.96,
-                "pessoasPorDia": 4.20,
-                "pessoasUltimos7dias": 24,
+                "pessoas": 1178,
+                "diasAtivos": 279,
+                "quantidade": 1671,
+                "cliquesPorDia": 5.99,
+                "pessoasPorDia": 4.22,
+                "pessoasUltimos7dias": 23,
                 "quantidadeUltimos7dias": 27
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 10029,
-                "impressoes": 41191
+            "impressao": {
+                "pessoas": 9999,
+                "impressoes": 41079,
+                "conversaoPessoas": 16.71,
+                "conversaoImpressoes": 4.07
             },
             "interacoes": {
                 "acao": [
@@ -333,19 +347,19 @@
                     "04 - Site"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "By Cuca"
         },
         {
             "cliques": {
-                "pessoas": 1125,
-                "diasAtivos": 229,
-                "quantidade": 1647,
-                "cliquesPorDia": 7.19,
-                "pessoasPorDia": 4.91,
-                "pessoasUltimos7dias": 24,
-                "quantidadeUltimos7dias": 25
+                "pessoas": 1122,
+                "diasAtivos": 228,
+                "quantidade": 1644,
+                "cliquesPorDia": 7.21,
+                "pessoasPorDia": 4.92,
+                "pessoasUltimos7dias": 22,
+                "quantidadeUltimos7dias": 23
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -355,9 +369,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 10453,
-                "impressoes": 43157
+            "impressao": {
+                "pessoas": 10425,
+                "impressoes": 43039,
+                "conversaoPessoas": 15.77,
+                "conversaoImpressoes": 3.82
             },
             "interacoes": {
                 "acao": [
@@ -373,28 +389,30 @@
                     "10 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Boteco da Ilha"
         },
         {
             "cliques": {
-                "pessoas": 985,
-                "diasAtivos": 270,
-                "quantidade": 1517,
-                "cliquesPorDia": 5.62,
+                "pessoas": 983,
+                "diasAtivos": 269,
+                "quantidade": 1515,
+                "cliquesPorDia": 5.63,
                 "pessoasPorDia": 3.65,
-                "pessoasUltimos7dias": 21,
-                "quantidadeUltimos7dias": 24
+                "pessoasUltimos7dias": 19,
+                "quantidadeUltimos7dias": 22
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 2,
                 "quantidadePessoas": 12
             },
-            "impressoes": {
-                "pessoas": 9286,
-                "impressoes": 33742
+            "impressao": {
+                "pessoas": 9262,
+                "impressoes": 33646,
+                "conversaoPessoas": 16.36,
+                "conversaoImpressoes": 4.50
             },
             "interacoes": {
                 "acao": [
@@ -413,19 +431,19 @@
                     "08 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 1,
+            "qtdFavoritados": 2,
             "valorInvestido": null,
             "estabelecimento": "BeCool Itacorubi"
         },
         {
             "cliques": {
-                "pessoas": 954,
+                "pessoas": 951,
                 "diasAtivos": 280,
-                "quantidade": 1281,
-                "cliquesPorDia": 4.58,
-                "pessoasPorDia": 3.41,
-                "pessoasUltimos7dias": 22,
-                "quantidadeUltimos7dias": 23
+                "quantidade": 1278,
+                "cliquesPorDia": 4.56,
+                "pessoasPorDia": 3.40,
+                "pessoasUltimos7dias": 24,
+                "quantidadeUltimos7dias": 27
             },
             "reviews": {
                 "estrelas": 4.67,
@@ -440,9 +458,11 @@
                 "quantidade": 2,
                 "quantidadePessoas": 8
             },
-            "impressoes": {
-                "pessoas": 9509,
-                "impressoes": 33403
+            "impressao": {
+                "pessoas": 9486,
+                "impressoes": 33327,
+                "conversaoPessoas": 13.47,
+                "conversaoImpressoes": 3.83
             },
             "interacoes": {
                 "acao": [
@@ -459,28 +479,30 @@
                     "33 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Parma Pizza Santa Mônica"
         },
         {
             "cliques": {
-                "pessoas": 902,
-                "diasAtivos": 281,
-                "quantidade": 1227,
-                "cliquesPorDia": 4.37,
-                "pessoasPorDia": 3.21,
-                "pessoasUltimos7dias": 15,
-                "quantidadeUltimos7dias": 15
+                "pessoas": 898,
+                "diasAtivos": 278,
+                "quantidade": 1223,
+                "cliquesPorDia": 4.40,
+                "pessoasPorDia": 3.23,
+                "pessoasUltimos7dias": 14,
+                "quantidadeUltimos7dias": 14
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 10
             },
-            "impressoes": {
-                "pessoas": 10231,
-                "impressoes": 40360
+            "impressao": {
+                "pessoas": 10198,
+                "impressoes": 40237,
+                "conversaoPessoas": 11.99,
+                "conversaoImpressoes": 3.04
             },
             "interacoes": {
                 "acao": [
@@ -496,25 +518,27 @@
                     "16 - Site"
                 ]
             },
-            "qtdFavoritados": 1,
+            "qtdFavoritados": 3,
             "valorInvestido": null,
             "estabelecimento": "Churrascaria Riosulense"
         },
         {
             "cliques": {
-                "pessoas": 900,
-                "diasAtivos": 278,
-                "quantidade": 1170,
+                "pessoas": 897,
+                "diasAtivos": 277,
+                "quantidade": 1167,
                 "cliquesPorDia": 4.21,
                 "pessoasPorDia": 3.24,
-                "pessoasUltimos7dias": 16,
-                "quantidadeUltimos7dias": 16
+                "pessoasUltimos7dias": 14,
+                "quantidadeUltimos7dias": 14
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 5675,
-                "impressoes": 17451
+            "impressao": {
+                "pessoas": 5658,
+                "impressoes": 17410,
+                "conversaoPessoas": 20.63,
+                "conversaoImpressoes": 6.70
             },
             "interacoes": {
                 "acao": [
@@ -536,13 +560,13 @@
         },
         {
             "cliques": {
-                "pessoas": 841,
-                "diasAtivos": 193,
-                "quantidade": 1360,
-                "cliquesPorDia": 7.05,
-                "pessoasPorDia": 4.36,
-                "pessoasUltimos7dias": 28,
-                "quantidadeUltimos7dias": 42
+                "pessoas": 836,
+                "diasAtivos": 192,
+                "quantidade": 1352,
+                "cliquesPorDia": 7.04,
+                "pessoasPorDia": 4.35,
+                "pessoasUltimos7dias": 27,
+                "quantidadeUltimos7dias": 39
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -556,47 +580,51 @@
                 "quantidade": 5,
                 "quantidadePessoas": 17
             },
-            "impressoes": {
-                "pessoas": 8473,
-                "impressoes": 37451
+            "impressao": {
+                "pessoas": 8446,
+                "impressoes": 37321,
+                "conversaoPessoas": 16.01,
+                "conversaoImpressoes": 3.62
             },
             "interacoes": {
                 "acao": [
-                    "73 - Brinde Aniversário",
+                    "72 - Brinde Aniversário",
                     "16 - Contato",
                     "09 - Delivery",
-                    "25 - Instagram",
-                    "63 - Endereço no Maps",
+                    "24 - Instagram",
+                    "62 - Endereço no Maps",
                     "01 - Chamar Motorista - 99",
                     "03 - Chamar Motorista - Uber",
-                    "26 - Horário",
+                    "25 - Horário",
                     "04 - Compartilhar",
-                    "46 - Tour",
+                    "45 - Tour",
                     "49 - Site"
                 ]
             },
-            "qtdFavoritados": 1,
+            "qtdFavoritados": 3,
             "valorInvestido": null,
             "estabelecimento": "Palicone Steak House"
         },
         {
             "cliques": {
-                "pessoas": 772,
-                "diasAtivos": 225,
-                "quantidade": 1032,
-                "cliquesPorDia": 4.59,
-                "pessoasPorDia": 3.43,
-                "pessoasUltimos7dias": 25,
-                "quantidadeUltimos7dias": 27
+                "pessoas": 771,
+                "diasAtivos": 224,
+                "quantidade": 1031,
+                "cliquesPorDia": 4.60,
+                "pessoasPorDia": 3.44,
+                "pessoasUltimos7dias": 26,
+                "quantidadeUltimos7dias": 28
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
-            "impressoes": {
-                "pessoas": 9478,
-                "impressoes": 36401
+            "impressao": {
+                "pessoas": 9454,
+                "impressoes": 36298,
+                "conversaoPessoas": 10.91,
+                "conversaoImpressoes": 2.84
             },
             "interacoes": {
                 "acao": [
@@ -611,25 +639,27 @@
                     "05 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Bunny Burger"
         },
         {
             "cliques": {
-                "pessoas": 758,
-                "diasAtivos": 273,
-                "quantidade": 1053,
+                "pessoas": 755,
+                "diasAtivos": 272,
+                "quantidade": 1049,
                 "cliquesPorDia": 3.86,
                 "pessoasPorDia": 2.78,
-                "pessoasUltimos7dias": 12,
-                "quantidadeUltimos7dias": 13
+                "pessoasUltimos7dias": 11,
+                "quantidadeUltimos7dias": 11
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 9534,
-                "impressoes": 33507
+            "impressao": {
+                "pessoas": 9506,
+                "impressoes": 33383,
+                "conversaoPessoas": 11.04,
+                "conversaoImpressoes": 3.14
             },
             "interacoes": {
                 "acao": [
@@ -648,7 +678,7 @@
                     "09 - Site"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Spaccio RAR Florianópolis"
         },
@@ -664,9 +694,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 2878,
-                "impressoes": 7718
+            "impressao": {
+                "pessoas": 2866,
+                "impressoes": 7695,
+                "conversaoPessoas": 35.76,
+                "conversaoImpressoes": 13.32
             },
             "interacoes": {
                 "acao": [
@@ -692,8 +724,8 @@
                 "quantidade": 1045,
                 "cliquesPorDia": 5.39,
                 "pessoasPorDia": 3.75,
-                "pessoasUltimos7dias": 17,
-                "quantidadeUltimos7dias": 22
+                "pessoasUltimos7dias": 20,
+                "quantidadeUltimos7dias": 26
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -706,9 +738,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 8283,
-                "impressoes": 34008
+            "impressao": {
+                "pessoas": 8257,
+                "impressoes": 33916,
+                "conversaoPessoas": 12.66,
+                "conversaoImpressoes": 3.08
             },
             "interacoes": {
                 "acao": [
@@ -721,19 +755,19 @@
                     "04 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 1,
+            "qtdFavoritados": 2,
             "valorInvestido": null,
             "estabelecimento": "Food Park Pedra Branca"
         },
         {
             "cliques": {
-                "pessoas": 656,
-                "diasAtivos": 14,
-                "quantidade": 876,
-                "cliquesPorDia": 62.57,
-                "pessoasPorDia": 46.86,
-                "pessoasUltimos7dias": 18,
-                "quantidadeUltimos7dias": 29
+                "pessoas": 655,
+                "diasAtivos": 12,
+                "quantidade": 875,
+                "cliquesPorDia": 72.92,
+                "pessoasPorDia": 54.58,
+                "pessoasUltimos7dias": 22,
+                "quantidadeUltimos7dias": 37
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -747,9 +781,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 5621,
-                "impressoes": 16219
+            "impressao": {
+                "pessoas": 5586,
+                "impressoes": 16117,
+                "conversaoPessoas": 15.66,
+                "conversaoImpressoes": 5.43
             },
             "interacoes": {
                 "acao": [
@@ -765,28 +801,30 @@
                     "05 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Boteco do Pingola"
         },
         {
             "cliques": {
-                "pessoas": 642,
-                "diasAtivos": 226,
-                "quantidade": 864,
-                "cliquesPorDia": 3.82,
-                "pessoasPorDia": 2.84,
-                "pessoasUltimos7dias": 23,
-                "quantidadeUltimos7dias": 28
+                "pessoas": 641,
+                "diasAtivos": 224,
+                "quantidade": 862,
+                "cliquesPorDia": 3.85,
+                "pessoasPorDia": 2.86,
+                "pessoasUltimos7dias": 22,
+                "quantidadeUltimos7dias": 26
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 6,
                 "quantidadePessoas": 18
             },
-            "impressoes": {
-                "pessoas": 9250,
-                "impressoes": 33764
+            "impressao": {
+                "pessoas": 9227,
+                "impressoes": 33659,
+                "conversaoPessoas": 9.34,
+                "conversaoImpressoes": 2.56
             },
             "interacoes": {
                 "acao": [
@@ -801,58 +839,27 @@
                     "17 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Coyote Taqueria"
         },
         {
             "cliques": {
-                "pessoas": 596,
-                "diasAtivos": 153,
-                "quantidade": 830,
-                "cliquesPorDia": 5.42,
-                "pessoasPorDia": 3.90,
-                "pessoasUltimos7dias": 35,
-                "quantidadeUltimos7dias": 58
+                "pessoas": 594,
+                "diasAtivos": 276,
+                "quantidade": 738,
+                "cliquesPorDia": 2.67,
+                "pessoasPorDia": 2.15,
+                "pessoasUltimos7dias": 3,
+                "quantidadeUltimos7dias": 3
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 5779,
-                "impressoes": 20733
-            },
-            "interacoes": {
-                "acao": [
-                    "01 - Brinde Aniversário",
-                    "03 - Contato",
-                    "89 - Instagram",
-                    "36 - Endereço no Maps",
-                    "12 - Cardápio",
-                    "03 - Chamar Motorista - Uber",
-                    "07 - Horário",
-                    "01 - Compartilhar",
-                    "26 - Tour"
-                ]
-            },
-            "qtdFavoritados": 1,
-            "valorInvestido": null,
-            "estabelecimento": "Janela Bar Floripa"
-        },
-        {
-            "cliques": {
-                "pessoas": 595,
-                "diasAtivos": 278,
-                "quantidade": 739,
-                "cliquesPorDia": 2.66,
-                "pessoasPorDia": 2.14,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
-            },
-            "reviews": null,
-            "reservas": null,
-            "impressoes": {
-                "pessoas": 5054,
-                "impressoes": 12565
+            "impressao": {
+                "pessoas": 5046,
+                "impressoes": 12556,
+                "conversaoPessoas": 14.63,
+                "conversaoImpressoes": 5.88
             },
             "interacoes": {
                 "acao": [
@@ -874,13 +881,13 @@
         },
         {
             "cliques": {
-                "pessoas": 595,
+                "pessoas": 594,
                 "diasAtivos": 270,
-                "quantidade": 837,
+                "quantidade": 836,
                 "cliquesPorDia": 3.10,
                 "pessoasPorDia": 2.20,
-                "pessoasUltimos7dias": 9,
-                "quantidadeUltimos7dias": 10
+                "pessoasUltimos7dias": 10,
+                "quantidadeUltimos7dias": 14
             },
             "reviews": {
                 "estrelas": 4.67,
@@ -892,9 +899,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 9594,
-                "impressoes": 34011
+            "impressao": {
+                "pessoas": 9570,
+                "impressoes": 33918,
+                "conversaoPessoas": 8.74,
+                "conversaoImpressoes": 2.46
             },
             "interacoes": {
                 "acao": [
@@ -907,25 +916,60 @@
                     "07 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Hora K Itacorubi"
         },
         {
             "cliques": {
-                "pessoas": 576,
-                "diasAtivos": 278,
-                "quantidade": 722,
-                "cliquesPorDia": 2.60,
-                "pessoasPorDia": 2.07,
+                "pessoas": 593,
+                "diasAtivos": 153,
+                "quantidade": 809,
+                "cliquesPorDia": 5.29,
+                "pessoasPorDia": 3.88,
+                "pessoasUltimos7dias": 34,
+                "quantidadeUltimos7dias": 41
+            },
+            "reviews": null,
+            "reservas": null,
+            "impressao": {
+                "pessoas": 5751,
+                "impressoes": 20617,
+                "conversaoPessoas": 14.07,
+                "conversaoImpressoes": 3.92
+            },
+            "interacoes": {
+                "acao": [
+                    "03 - Contato",
+                    "88 - Instagram",
+                    "36 - Endereço no Maps",
+                    "12 - Cardápio",
+                    "03 - Chamar Motorista - Uber",
+                    "06 - Horário",
+                    "26 - Tour"
+                ]
+            },
+            "qtdFavoritados": 2,
+            "valorInvestido": null,
+            "estabelecimento": "Janela Bar Floripa"
+        },
+        {
+            "cliques": {
+                "pessoas": 575,
+                "diasAtivos": 275,
+                "quantidade": 721,
+                "cliquesPorDia": 2.62,
+                "pessoasPorDia": 2.09,
                 "pessoasUltimos7dias": 4,
                 "quantidadeUltimos7dias": 4
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 7165,
-                "impressoes": 19574
+            "impressao": {
+                "pessoas": 7152,
+                "impressoes": 19546,
+                "conversaoPessoas": 10.08,
+                "conversaoImpressoes": 3.69
             },
             "interacoes": {
                 "acao": [
@@ -946,11 +990,11 @@
         },
         {
             "cliques": {
-                "pessoas": 551,
-                "diasAtivos": 281,
-                "quantidade": 793,
-                "cliquesPorDia": 2.82,
-                "pessoasPorDia": 1.96,
+                "pessoas": 549,
+                "diasAtivos": 279,
+                "quantidade": 791,
+                "cliquesPorDia": 2.84,
+                "pessoasPorDia": 1.97,
                 "pessoasUltimos7dias": 18,
                 "quantidadeUltimos7dias": 20
             },
@@ -959,9 +1003,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
-            "impressoes": {
-                "pessoas": 8505,
-                "impressoes": 27611
+            "impressao": {
+                "pessoas": 8482,
+                "impressoes": 27523,
+                "conversaoPessoas": 9.33,
+                "conversaoImpressoes": 2.87
             },
             "interacoes": {
                 "acao": [
@@ -978,25 +1024,27 @@
                     "16 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Taboas Bistro"
         },
         {
             "cliques": {
-                "pessoas": 530,
-                "diasAtivos": 225,
-                "quantidade": 686,
-                "cliquesPorDia": 3.05,
+                "pessoas": 529,
+                "diasAtivos": 224,
+                "quantidade": 685,
+                "cliquesPorDia": 3.06,
                 "pessoasPorDia": 2.36,
-                "pessoasUltimos7dias": 22,
-                "quantidadeUltimos7dias": 25
+                "pessoasUltimos7dias": 23,
+                "quantidadeUltimos7dias": 26
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 9014,
-                "impressoes": 31497
+            "impressao": {
+                "pessoas": 8991,
+                "impressoes": 31407,
+                "conversaoPessoas": 7.62,
+                "conversaoImpressoes": 2.18
             },
             "interacoes": {
                 "acao": [
@@ -1009,19 +1057,19 @@
                     "02 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Bangkok"
         },
         {
             "cliques": {
-                "pessoas": 493,
-                "diasAtivos": 71,
-                "quantidade": 618,
-                "cliquesPorDia": 8.70,
-                "pessoasPorDia": 6.94,
-                "pessoasUltimos7dias": 13,
-                "quantidadeUltimos7dias": 14
+                "pessoas": 491,
+                "diasAtivos": 70,
+                "quantidade": 615,
+                "cliquesPorDia": 8.79,
+                "pessoasPorDia": 7.01,
+                "pessoasUltimos7dias": 12,
+                "quantidadeUltimos7dias": 13
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1031,9 +1079,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 7891,
-                "impressoes": 22893
+            "impressao": {
+                "pessoas": 7863,
+                "impressoes": 22794,
+                "conversaoPessoas": 7.82,
+                "conversaoImpressoes": 2.70
             },
             "interacoes": {
                 "acao": [
@@ -1050,7 +1100,7 @@
                     "29 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Vodu Bar"
         },
@@ -1061,8 +1111,8 @@
                 "quantidade": 569,
                 "cliquesPorDia": 2.05,
                 "pessoasPorDia": 1.58,
-                "pessoasUltimos7dias": 12,
-                "quantidadeUltimos7dias": 14
+                "pessoasUltimos7dias": 13,
+                "quantidadeUltimos7dias": 15
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1072,9 +1122,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 3831,
-                "impressoes": 8915
+            "impressao": {
+                "pessoas": 3819,
+                "impressoes": 8893,
+                "conversaoPessoas": 14.90,
+                "conversaoImpressoes": 6.40
             },
             "interacoes": {
                 "acao": [
@@ -1097,22 +1149,24 @@
         },
         {
             "cliques": {
-                "pessoas": 406,
-                "diasAtivos": 154,
-                "quantidade": 577,
-                "cliquesPorDia": 3.75,
-                "pessoasPorDia": 2.64,
-                "pessoasUltimos7dias": 20,
-                "quantidadeUltimos7dias": 21
+                "pessoas": 404,
+                "diasAtivos": 152,
+                "quantidade": 575,
+                "cliquesPorDia": 3.78,
+                "pessoasPorDia": 2.66,
+                "pessoasUltimos7dias": 21,
+                "quantidadeUltimos7dias": 22
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 41,
                 "quantidadePessoas": 545
             },
-            "impressoes": {
-                "pessoas": 5355,
-                "impressoes": 18145
+            "impressao": {
+                "pessoas": 5332,
+                "impressoes": 18070,
+                "conversaoPessoas": 10.78,
+                "conversaoImpressoes": 3.18
             },
             "interacoes": {
                 "acao": [
@@ -1122,12 +1176,12 @@
                     "33 - Endereço no Maps",
                     "69 - Cardápio",
                     "03 - Chamar Motorista - Uber",
-                    "17 - Horário",
+                    "16 - Horário",
                     "04 - Compartilhar",
                     "18 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Central Food Park"
         },
@@ -1135,7 +1189,7 @@
             "cliques": {
                 "pessoas": 391,
                 "diasAtivos": 190,
-                "quantidade": 544,
+                "quantidade": 543,
                 "cliquesPorDia": 2.86,
                 "pessoasPorDia": 2.06,
                 "pessoasUltimos7dias": 14,
@@ -1146,9 +1200,11 @@
                 "quantidade": 3,
                 "quantidadePessoas": 9
             },
-            "impressoes": {
-                "pessoas": 7122,
-                "impressoes": 25811
+            "impressao": {
+                "pessoas": 7095,
+                "impressoes": 25727,
+                "conversaoPessoas": 7.65,
+                "conversaoImpressoes": 2.11
             },
             "interacoes": {
                 "acao": [
@@ -1163,7 +1219,7 @@
                     "19 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Pizzaria 4 Queijos - São José"
         },
@@ -1186,9 +1242,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 7892,
-                "impressoes": 24124
+            "impressao": {
+                "pessoas": 7884,
+                "impressoes": 24103,
+                "conversaoPessoas": 5.73,
+                "conversaoImpressoes": 1.88
             },
             "interacoes": {
                 "acao": [
@@ -1207,50 +1265,13 @@
         },
         {
             "cliques": {
-                "pessoas": 338,
-                "diasAtivos": 154,
-                "quantidade": 435,
-                "cliquesPorDia": 2.82,
-                "pessoasPorDia": 2.19,
-                "pessoasUltimos7dias": 24,
-                "quantidadeUltimos7dias": 29
-            },
-            "reviews": null,
-            "reservas": {
-                "quantidade": 5,
-                "quantidadePessoas": 20
-            },
-            "impressoes": {
-                "pessoas": 5156,
-                "impressoes": 18040
-            },
-            "interacoes": {
-                "acao": [
-                    "35 - Brinde Aniversário",
-                    "15 - Contato",
-                    "08 - Delivery",
-                    "57 - Instagram",
-                    "24 - Endereço no Maps",
-                    "01 - Chamar Motorista - 99",
-                    "02 - Chamar Motorista - Uber",
-                    "11 - Horário",
-                    "02 - Compartilhar",
-                    "13 - Tour"
-                ]
-            },
-            "qtdFavoritados": 1,
-            "valorInvestido": null,
-            "estabelecimento": "Nikô Sushi - Floripa"
-        },
-        {
-            "cliques": {
-                "pessoas": 335,
-                "diasAtivos": 98,
-                "quantidade": 483,
-                "cliquesPorDia": 4.93,
-                "pessoasPorDia": 3.42,
-                "pessoasUltimos7dias": 28,
-                "quantidadeUltimos7dias": 38
+                "pessoas": 334,
+                "diasAtivos": 97,
+                "quantidade": 481,
+                "cliquesPorDia": 4.96,
+                "pessoasPorDia": 3.44,
+                "pessoasUltimos7dias": 30,
+                "quantidadeUltimos7dias": 40
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1264,14 +1285,16 @@
                 "quantidade": 4,
                 "quantidadePessoas": 15
             },
-            "impressoes": {
-                "pessoas": 3578,
-                "impressoes": 13618
+            "impressao": {
+                "pessoas": 3551,
+                "impressoes": 13510,
+                "conversaoPessoas": 13.55,
+                "conversaoImpressoes": 3.56
             },
             "interacoes": {
                 "acao": [
                     "11 - Contato",
-                    "64 - Instagram",
+                    "63 - Instagram",
                     "35 - Endereço no Maps",
                     "03 - Chamar Motorista - 99",
                     "02 - Chamar Motorista - Uber",
@@ -1279,9 +1302,48 @@
                     "08 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Varanda Espetinhos"
+        },
+        {
+            "cliques": {
+                "pessoas": 331,
+                "diasAtivos": 153,
+                "quantidade": 426,
+                "cliquesPorDia": 2.78,
+                "pessoasPorDia": 2.16,
+                "pessoasUltimos7dias": 16,
+                "quantidadeUltimos7dias": 20
+            },
+            "reviews": null,
+            "reservas": {
+                "quantidade": 5,
+                "quantidadePessoas": 20
+            },
+            "impressao": {
+                "pessoas": 5130,
+                "impressoes": 17931,
+                "conversaoPessoas": 8.30,
+                "conversaoImpressoes": 2.38
+            },
+            "interacoes": {
+                "acao": [
+                    "35 - Brinde Aniversário",
+                    "15 - Contato",
+                    "08 - Delivery",
+                    "56 - Instagram",
+                    "24 - Endereço no Maps",
+                    "01 - Chamar Motorista - 99",
+                    "02 - Chamar Motorista - Uber",
+                    "11 - Horário",
+                    "02 - Compartilhar",
+                    "13 - Tour"
+                ]
+            },
+            "qtdFavoritados": 2,
+            "valorInvestido": null,
+            "estabelecimento": "Nikô Sushi - Floripa"
         },
         {
             "cliques": {
@@ -1290,14 +1352,16 @@
                 "quantidade": 432,
                 "cliquesPorDia": 1.56,
                 "pessoasPorDia": 1.16,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
+                "pessoasUltimos7dias": 5,
+                "quantidadeUltimos7dias": 5
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 4021,
-                "impressoes": 9132
+            "impressao": {
+                "pessoas": 4004,
+                "impressoes": 9103,
+                "conversaoPessoas": 10.79,
+                "conversaoImpressoes": 4.75
             },
             "interacoes": {
                 "acao": [
@@ -1315,19 +1379,21 @@
         },
         {
             "cliques": {
-                "pessoas": 320,
-                "diasAtivos": 211,
-                "quantidade": 438,
-                "cliquesPorDia": 2.08,
-                "pessoasPorDia": 1.52,
-                "pessoasUltimos7dias": 21,
-                "quantidadeUltimos7dias": 41
+                "pessoas": 318,
+                "diasAtivos": 207,
+                "quantidade": 436,
+                "cliquesPorDia": 2.11,
+                "pessoasPorDia": 1.54,
+                "pessoasUltimos7dias": 19,
+                "quantidadeUltimos7dias": 39
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 6965,
-                "impressoes": 19892
+            "impressao": {
+                "pessoas": 6944,
+                "impressoes": 19820,
+                "conversaoPessoas": 6.28,
+                "conversaoImpressoes": 2.20
             },
             "interacoes": {
                 "acao": [
@@ -1342,32 +1408,34 @@
                     "01 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 4,
+            "qtdFavoritados": 5,
             "valorInvestido": null,
             "estabelecimento": "Metrô Café "
         },
         {
             "cliques": {
-                "pessoas": 276,
-                "diasAtivos": 134,
-                "quantidade": 338,
-                "cliquesPorDia": 2.52,
+                "pessoas": 272,
+                "diasAtivos": 132,
+                "quantidade": 334,
+                "cliquesPorDia": 2.53,
                 "pessoasPorDia": 2.06,
-                "pessoasUltimos7dias": 19,
+                "pessoasUltimos7dias": 17,
                 "quantidadeUltimos7dias": 21
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 3900,
-                "impressoes": 11167
+            "impressao": {
+                "pessoas": 3883,
+                "impressoes": 11118,
+                "conversaoPessoas": 8.60,
+                "conversaoImpressoes": 3.00
             },
             "interacoes": {
                 "acao": [
                     "03 - Contato",
                     "19 - Instagram",
                     "15 - Endereço no Maps",
-                    "91 - Cardápio",
+                    "87 - Cardápio",
                     "01 - Chamar Motorista - 99",
                     "01 - Chamar Motorista - Uber",
                     "07 - Horário",
@@ -1375,25 +1443,27 @@
                     "08 - Tour"
                 ]
             },
-            "qtdFavoritados": 2,
+            "qtdFavoritados": 3,
             "valorInvestido": null,
             "estabelecimento": "Restaurante Caravela"
         },
         {
             "cliques": {
-                "pessoas": 264,
-                "diasAtivos": 70,
-                "quantidade": 367,
-                "cliquesPorDia": 5.24,
-                "pessoasPorDia": 3.77,
-                "pessoasUltimos7dias": 25,
-                "quantidadeUltimos7dias": 27
+                "pessoas": 262,
+                "diasAtivos": 67,
+                "quantidade": 365,
+                "cliquesPorDia": 5.45,
+                "pessoasPorDia": 3.91,
+                "pessoasUltimos7dias": 26,
+                "quantidadeUltimos7dias": 32
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 2692,
-                "impressoes": 9739
+            "impressao": {
+                "pessoas": 2655,
+                "impressoes": 9625,
+                "conversaoPessoas": 13.75,
+                "conversaoImpressoes": 3.79
             },
             "interacoes": {
                 "acao": [
@@ -1402,36 +1472,38 @@
                     "01 - Delivery",
                     "52 - Instagram",
                     "13 - Endereço no Maps",
-                    "75 - Cardápio",
+                    "74 - Cardápio",
                     "03 - Chamar Motorista - Uber",
                     "05 - Horário",
                     "01 - Compartilhar",
                     "10 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Melts Floripa"
         },
         {
             "cliques": {
-                "pessoas": 238,
-                "diasAtivos": 108,
-                "quantidade": 302,
-                "cliquesPorDia": 2.80,
-                "pessoasPorDia": 2.20,
-                "pessoasUltimos7dias": 10,
-                "quantidadeUltimos7dias": 11
+                "pessoas": 237,
+                "diasAtivos": 105,
+                "quantidade": 301,
+                "cliquesPorDia": 2.87,
+                "pessoasPorDia": 2.26,
+                "pessoasUltimos7dias": 9,
+                "quantidadeUltimos7dias": 10
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 2720,
-                "impressoes": 7878
+            "impressao": {
+                "pessoas": 2700,
+                "impressoes": 7839,
+                "conversaoPessoas": 11.15,
+                "conversaoImpressoes": 3.84
             },
             "interacoes": {
                 "acao": [
-                    "20 - Brinde Aniversário",
+                    "19 - Brinde Aniversário",
                     "02 - Contato",
                     "60 - Instagram",
                     "10 - Endereço no Maps",
@@ -1451,17 +1523,19 @@
                 "quantidade": 267,
                 "cliquesPorDia": 1.22,
                 "pessoasPorDia": 1.00,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
+                "pessoasUltimos7dias": 5,
+                "quantidadeUltimos7dias": 5
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
-            "impressoes": {
-                "pessoas": 5309,
-                "impressoes": 13395
+            "impressao": {
+                "pessoas": 5298,
+                "impressoes": 13374,
+                "conversaoPessoas": 5.04,
+                "conversaoImpressoes": 2.00
             },
             "interacoes": {
                 "acao": [
@@ -1482,22 +1556,24 @@
         },
         {
             "cliques": {
-                "pessoas": 208,
-                "diasAtivos": 153,
-                "quantidade": 271,
-                "cliquesPorDia": 1.77,
+                "pessoas": 207,
+                "diasAtivos": 152,
+                "quantidade": 270,
+                "cliquesPorDia": 1.78,
                 "pessoasPorDia": 1.36,
-                "pessoasUltimos7dias": 12,
-                "quantidadeUltimos7dias": 12
+                "pessoasUltimos7dias": 13,
+                "quantidadeUltimos7dias": 13
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 6,
                 "quantidadePessoas": 21
             },
-            "impressoes": {
-                "pessoas": 3509,
-                "impressoes": 12129
+            "impressao": {
+                "pessoas": 3491,
+                "impressoes": 12070,
+                "conversaoPessoas": 7.73,
+                "conversaoImpressoes": 2.24
             },
             "interacoes": {
                 "acao": [
@@ -1512,7 +1588,7 @@
                     "02 - Compartilhar"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Nikô Sushi - Palhoça"
         },
@@ -1528,9 +1604,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 448,
-                "impressoes": 743
+            "impressao": {
+                "pessoas": 435,
+                "impressoes": 721,
+                "conversaoPessoas": 52.64,
+                "conversaoImpressoes": 31.76
             },
             "interacoes": {
                 "acao": [
@@ -1562,9 +1640,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 5035,
-                "impressoes": 11943
+            "impressao": {
+                "pessoas": 5029,
+                "impressoes": 11935,
+                "conversaoPessoas": 4.24,
+                "conversaoImpressoes": 1.78
             },
             "interacoes": {
                 "acao": [
@@ -1595,9 +1675,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 4641,
-                "impressoes": 10385
+            "impressao": {
+                "pessoas": 4627,
+                "impressoes": 10362,
+                "conversaoPessoas": 4.19,
+                "conversaoImpressoes": 1.87
             },
             "interacoes": {
                 "acao": [
@@ -1608,19 +1690,19 @@
                     "10 - Horário"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Nefasta Cervejaria"
         },
         {
             "cliques": {
-                "pessoas": 150,
+                "pessoas": 146,
                 "diasAtivos": 26,
-                "quantidade": 245,
-                "cliquesPorDia": 9.42,
-                "pessoasPorDia": 5.77,
-                "pessoasUltimos7dias": 31,
-                "quantidadeUltimos7dias": 37
+                "quantidade": 237,
+                "cliquesPorDia": 9.12,
+                "pessoasPorDia": 5.62,
+                "pessoasUltimos7dias": 29,
+                "quantidadeUltimos7dias": 32
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1630,18 +1712,20 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1795,
-                "impressoes": 5089
+            "impressao": {
+                "pessoas": 1770,
+                "impressoes": 5016,
+                "conversaoPessoas": 13.39,
+                "conversaoImpressoes": 4.72
             },
             "interacoes": {
                 "acao": [
-                    "16 - Brinde Aniversário",
+                    "14 - Brinde Aniversário",
                     "03 - Contato",
                     "04 - Delivery",
                     "14 - Instagram",
                     "05 - Endereço no Maps",
-                    "40 - Cardápio",
+                    "37 - Cardápio",
                     "01 - Chamar Motorista - Uber",
                     "07 - Horário",
                     "03 - Compartilhar",
@@ -1649,7 +1733,7 @@
                     "02 - Site"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 2,
             "valorInvestido": null,
             "estabelecimento": "Temakin"
         },
@@ -1660,17 +1744,19 @@
                 "quantidade": 167,
                 "cliquesPorDia": 1.06,
                 "pessoasPorDia": 0.87,
-                "pessoasUltimos7dias": 8,
-                "quantidadeUltimos7dias": 9
+                "pessoasUltimos7dias": 10,
+                "quantidadeUltimos7dias": 12
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 5
             },
-            "impressoes": {
-                "pessoas": 1899,
-                "impressoes": 4890
+            "impressao": {
+                "pessoas": 1884,
+                "impressoes": 4855,
+                "conversaoPessoas": 8.86,
+                "conversaoImpressoes": 3.44
             },
             "interacoes": {
                 "acao": [
@@ -1689,11 +1775,11 @@
         },
         {
             "cliques": {
-                "pessoas": 115,
+                "pessoas": 112,
                 "diasAtivos": 57,
-                "quantidade": 142,
-                "cliquesPorDia": 2.49,
-                "pessoasPorDia": 2.02,
+                "quantidade": 138,
+                "cliquesPorDia": 2.42,
+                "pessoasPorDia": 1.96,
                 "pessoasUltimos7dias": 25,
                 "quantidadeUltimos7dias": 28
             },
@@ -1705,9 +1791,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1995,
-                "impressoes": 5761
+            "impressao": {
+                "pessoas": 1965,
+                "impressoes": 5648,
+                "conversaoPessoas": 7.02,
+                "conversaoImpressoes": 2.44
             },
             "interacoes": {
                 "acao": [
@@ -1720,15 +1808,15 @@
                     "04 - Horário"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Noir Sushi - Bewiki"
         },
         {
             "cliques": {
-                "pessoas": 96,
-                "diasAtivos": 100,
-                "quantidade": 116,
+                "pessoas": 95,
+                "diasAtivos": 99,
+                "quantidade": 115,
                 "cliquesPorDia": 1.16,
                 "pessoasPorDia": 0.96,
                 "pessoasUltimos7dias": 13,
@@ -1743,9 +1831,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 2038,
-                "impressoes": 4950
+            "impressao": {
+                "pessoas": 2024,
+                "impressoes": 4915,
+                "conversaoPessoas": 5.68,
+                "conversaoImpressoes": 2.34
             },
             "interacoes": {
                 "acao": [
@@ -1769,14 +1859,16 @@
                 "quantidade": 122,
                 "cliquesPorDia": 1.28,
                 "pessoasPorDia": 1.00,
-                "pessoasUltimos7dias": 3,
-                "quantidadeUltimos7dias": 3
+                "pessoasUltimos7dias": 4,
+                "quantidadeUltimos7dias": 4
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 2034,
-                "impressoes": 5432
+            "impressao": {
+                "pessoas": 2024,
+                "impressoes": 5407,
+                "conversaoPessoas": 6.03,
+                "conversaoImpressoes": 2.26
             },
             "interacoes": {
                 "acao": [
@@ -1802,9 +1894,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1716,
-                "impressoes": 3658
+            "impressao": {
+                "pessoas": 1710,
+                "impressoes": 3650,
+                "conversaoPessoas": 6.26,
+                "conversaoImpressoes": 2.93
             },
             "interacoes": {
                 "acao": [
@@ -1818,41 +1912,6 @@
             "qtdFavoritados": 0,
             "valorInvestido": null,
             "estabelecimento": "Casarão 318"
-        },
-        {
-            "cliques": {
-                "pessoas": 89,
-                "diasAtivos": 119,
-                "quantidade": 108,
-                "cliquesPorDia": 0.91,
-                "pessoasPorDia": 0.75,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
-            },
-            "reviews": {
-                "estrelas": 4.00,
-                "quantidade": 1,
-                "comentarios": [
-                    "4 - Pastel de camarão é top! As vezes que eu fui tinha promoção de Torre de Chopp em dobro, então me agradou muito. Gostei pq não cobram couver artístico."
-                ]
-            },
-            "reservas": null,
-            "impressoes": {
-                "pessoas": 2430,
-                "impressoes": 5863
-            },
-            "interacoes": {
-                "acao": [
-                    "08 - Instagram",
-                    "07 - Endereço no Maps",
-                    "39 - Cardápio",
-                    "05 - Horário",
-                    "01 - Compartilhar"
-                ]
-            },
-            "qtdFavoritados": 0,
-            "valorInvestido": null,
-            "estabelecimento": "Tuzzy - Kobrasol"
         },
         {
             "cliques": {
@@ -1872,9 +1931,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 3432,
-                "impressoes": 8488
+            "impressao": {
+                "pessoas": 3425,
+                "impressoes": 8466,
+                "conversaoPessoas": 3.09,
+                "conversaoImpressoes": 1.25
             },
             "interacoes": {
                 "acao": [
@@ -1891,6 +1952,43 @@
         },
         {
             "cliques": {
+                "pessoas": 88,
+                "diasAtivos": 116,
+                "quantidade": 107,
+                "cliquesPorDia": 0.92,
+                "pessoasPorDia": 0.76,
+                "pessoasUltimos7dias": 3,
+                "quantidadeUltimos7dias": 3
+            },
+            "reviews": {
+                "estrelas": 4.00,
+                "quantidade": 1,
+                "comentarios": [
+                    "4 - Pastel de camarão é top! As vezes que eu fui tinha promoção de Torre de Chopp em dobro, então me agradou muito. Gostei pq não cobram couver artístico."
+                ]
+            },
+            "reservas": null,
+            "impressao": {
+                "pessoas": 2419,
+                "impressoes": 5838,
+                "conversaoPessoas": 4.42,
+                "conversaoImpressoes": 1.83
+            },
+            "interacoes": {
+                "acao": [
+                    "07 - Instagram",
+                    "07 - Endereço no Maps",
+                    "39 - Cardápio",
+                    "05 - Horário",
+                    "01 - Compartilhar"
+                ]
+            },
+            "qtdFavoritados": 0,
+            "valorInvestido": null,
+            "estabelecimento": "Tuzzy - Kobrasol"
+        },
+        {
+            "cliques": {
                 "pessoas": 78,
                 "diasAtivos": 150,
                 "quantidade": 106,
@@ -1904,9 +2002,11 @@
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
-            "impressoes": {
-                "pessoas": 3202,
-                "impressoes": 7629
+            "impressao": {
+                "pessoas": 3197,
+                "impressoes": 7621,
+                "conversaoPessoas": 3.32,
+                "conversaoImpressoes": 1.39
             },
             "interacoes": {
                 "acao": [
@@ -1927,14 +2027,16 @@
                 "quantidade": 117,
                 "cliquesPorDia": 5.57,
                 "pessoasPorDia": 3.67,
-                "pessoasUltimos7dias": 13,
-                "quantidadeUltimos7dias": 15
+                "pessoasUltimos7dias": 14,
+                "quantidadeUltimos7dias": 18
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1523,
-                "impressoes": 4023
+            "impressao": {
+                "pessoas": 1495,
+                "impressoes": 3958,
+                "conversaoPessoas": 7.83,
+                "conversaoImpressoes": 2.96
             },
             "interacoes": {
                 "acao": [
@@ -1949,7 +2051,7 @@
                     "01 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 2,
             "valorInvestido": null,
             "estabelecimento": "Otto Gastro Bar"
         },
@@ -1960,8 +2062,8 @@
                 "quantidade": 100,
                 "cliquesPorDia": 1.06,
                 "pessoasPorDia": 0.81,
-                "pessoasUltimos7dias": 3,
-                "quantidadeUltimos7dias": 3
+                "pessoasUltimos7dias": 4,
+                "quantidadeUltimos7dias": 4
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1972,9 +2074,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1811,
-                "impressoes": 4157
+            "impressao": {
+                "pessoas": 1793,
+                "impressoes": 4123,
+                "conversaoPessoas": 5.58,
+                "conversaoImpressoes": 2.43
             },
             "interacoes": {
                 "acao": [
@@ -1993,11 +2097,11 @@
         },
         {
             "cliques": {
-                "pessoas": 69,
+                "pessoas": 68,
                 "diasAtivos": 13,
-                "quantidade": 93,
-                "cliquesPorDia": 7.15,
-                "pessoasPorDia": 5.31,
+                "quantidade": 92,
+                "cliquesPorDia": 7.08,
+                "pessoasPorDia": 5.23,
                 "pessoasUltimos7dias": 26,
                 "quantidadeUltimos7dias": 34
             },
@@ -2009,9 +2113,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 861,
-                "impressoes": 2028
+            "impressao": {
+                "pessoas": 839,
+                "impressoes": 1979,
+                "conversaoPessoas": 10.97,
+                "conversaoImpressoes": 4.65
             },
             "interacoes": {
                 "acao": [
@@ -2026,19 +2132,19 @@
                     "01 - Site"
                 ]
             },
-            "qtdFavoritados": 1,
+            "qtdFavoritados": 2,
             "valorInvestido": null,
             "estabelecimento": "Cine Bar Restaurante"
         },
         {
             "cliques": {
-                "pessoas": 64,
+                "pessoas": 63,
                 "diasAtivos": 36,
-                "quantidade": 78,
-                "cliquesPorDia": 2.17,
-                "pessoasPorDia": 1.78,
-                "pessoasUltimos7dias": 12,
-                "quantidadeUltimos7dias": 13
+                "quantidade": 77,
+                "cliquesPorDia": 2.14,
+                "pessoasPorDia": 1.75,
+                "pessoasUltimos7dias": 14,
+                "quantidadeUltimos7dias": 15
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -2048,34 +2154,36 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1253,
-                "impressoes": 3359
+            "impressao": {
+                "pessoas": 1231,
+                "impressoes": 3307,
+                "conversaoPessoas": 6.26,
+                "conversaoImpressoes": 2.33
             },
             "interacoes": {
                 "acao": [
                     "01 - Delivery",
                     "05 - Instagram",
                     "03 - Endereço no Maps",
-                    "18 - Cardápio",
+                    "17 - Cardápio",
                     "01 - Horário",
                     "01 - Compartilhar",
                     "01 - Tour"
                 ]
             },
-            "qtdFavoritados": 2,
+            "qtdFavoritados": 4,
             "valorInvestido": null,
             "estabelecimento": "Frittas & Cia"
         },
         {
             "cliques": {
-                "pessoas": 45,
-                "diasAtivos": 99,
-                "quantidade": 52,
+                "pessoas": 44,
+                "diasAtivos": 97,
+                "quantidade": 51,
                 "cliquesPorDia": 0.53,
                 "pessoasPorDia": 0.45,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 5
+                "pessoasUltimos7dias": 3,
+                "quantidadeUltimos7dias": 4
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -2085,9 +2193,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1683,
-                "impressoes": 4078
+            "impressao": {
+                "pessoas": 1675,
+                "impressoes": 4055,
+                "conversaoPessoas": 3.04,
+                "conversaoImpressoes": 1.26
             },
             "interacoes": {
                 "acao": [
@@ -2106,18 +2216,20 @@
         {
             "cliques": {
                 "pessoas": 37,
-                "diasAtivos": 25,
-                "quantidade": 58,
-                "cliquesPorDia": 2.32,
-                "pessoasPorDia": 1.48,
-                "pessoasUltimos7dias": 12,
-                "quantidadeUltimos7dias": 15
+                "diasAtivos": 23,
+                "quantidade": 57,
+                "cliquesPorDia": 2.48,
+                "pessoasPorDia": 1.61,
+                "pessoasUltimos7dias": 11,
+                "quantidadeUltimos7dias": 14
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1055,
-                "impressoes": 2595
+            "impressao": {
+                "pessoas": 1043,
+                "impressoes": 2566,
+                "conversaoPessoas": 5.47,
+                "conversaoImpressoes": 2.22
             },
             "interacoes": {
                 "acao": [
@@ -2129,19 +2241,19 @@
                     "02 - Tour"
                 ]
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Rancho da Ostra By Simone"
         },
         {
             "cliques": {
-                "pessoas": 36,
-                "diasAtivos": 102,
-                "quantidade": 41,
+                "pessoas": 35,
+                "diasAtivos": 99,
+                "quantidade": 40,
                 "cliquesPorDia": 0.40,
                 "pessoasPorDia": 0.35,
-                "pessoasUltimos7dias": 5,
-                "quantidadeUltimos7dias": 5
+                "pessoasUltimos7dias": 4,
+                "quantidadeUltimos7dias": 4
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -2151,9 +2263,11 @@
                 ]
             },
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1005,
-                "impressoes": 2015
+            "impressao": {
+                "pessoas": 995,
+                "impressoes": 1993,
+                "conversaoPessoas": 4.02,
+                "conversaoImpressoes": 2.01
             },
             "interacoes": {
                 "acao": [
@@ -2181,9 +2295,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 1201,
-                "impressoes": 2691
+            "impressao": {
+                "pessoas": 1192,
+                "impressoes": 2667,
+                "conversaoPessoas": 3.19,
+                "conversaoImpressoes": 1.42
             },
             "interacoes": {
                 "acao": [
@@ -2199,19 +2315,21 @@
         },
         {
             "cliques": {
-                "pessoas": 19,
-                "diasAtivos": 13,
-                "quantidade": 22,
-                "cliquesPorDia": 1.69,
-                "pessoasPorDia": 1.46,
-                "pessoasUltimos7dias": 7,
-                "quantidadeUltimos7dias": 7
+                "pessoas": 18,
+                "diasAtivos": 10,
+                "quantidade": 21,
+                "cliquesPorDia": 2.10,
+                "pessoasPorDia": 1.80,
+                "pessoasUltimos7dias": 6,
+                "quantidadeUltimos7dias": 6
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 330,
-                "impressoes": 543
+            "impressao": {
+                "pessoas": 320,
+                "impressoes": 523,
+                "conversaoPessoas": 6.56,
+                "conversaoImpressoes": 4.02
             },
             "interacoes": {
                 "acao": [
@@ -2229,14 +2347,16 @@
                 "quantidade": 16,
                 "cliquesPorDia": 0.39,
                 "pessoasPorDia": 0.37,
-                "pessoasUltimos7dias": 2,
-                "quantidadeUltimos7dias": 2
+                "pessoasUltimos7dias": 3,
+                "quantidadeUltimos7dias": 3
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 713,
-                "impressoes": 1254
+            "impressao": {
+                "pessoas": 704,
+                "impressoes": 1233,
+                "conversaoPessoas": 2.27,
+                "conversaoImpressoes": 1.30
             },
             "interacoes": {
                 "acao": [
@@ -2256,14 +2376,16 @@
                 "quantidade": 21,
                 "cliquesPorDia": 0.95,
                 "pessoasPorDia": 0.68,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
+                "pessoasUltimos7dias": 5,
+                "quantidadeUltimos7dias": 5
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 593,
-                "impressoes": 1085
+            "impressao": {
+                "pessoas": 578,
+                "impressoes": 1053,
+                "conversaoPessoas": 3.63,
+                "conversaoImpressoes": 1.99
             },
             "interacoes": {
                 "acao": [
@@ -2287,14 +2409,16 @@
                 "quantidade": 14,
                 "cliquesPorDia": 2.80,
                 "pessoasPorDia": 2.00,
-                "pessoasUltimos7dias": 7,
-                "quantidadeUltimos7dias": 8
+                "pessoasUltimos7dias": 8,
+                "quantidadeUltimos7dias": 11
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 253,
-                "impressoes": 479
+            "impressao": {
+                "pessoas": 237,
+                "impressoes": 458,
+                "conversaoPessoas": 5.91,
+                "conversaoImpressoes": 3.06
             },
             "interacoes": {
                 "acao": [
@@ -2315,14 +2439,16 @@
                 "quantidade": 10,
                 "cliquesPorDia": 2.50,
                 "pessoasPorDia": 1.75,
-                "pessoasUltimos7dias": 6,
-                "quantidadeUltimos7dias": 9
+                "pessoasUltimos7dias": 7,
+                "quantidadeUltimos7dias": 10
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 140,
-                "impressoes": 219
+            "impressao": {
+                "pessoas": 129,
+                "impressoes": 201,
+                "conversaoPessoas": 7.75,
+                "conversaoImpressoes": 4.98
             },
             "interacoes": {
                 "acao": [
@@ -2340,14 +2466,16 @@
                 "quantidade": 4,
                 "cliquesPorDia": 1.00,
                 "pessoasPorDia": 1.00,
-                "pessoasUltimos7dias": 3,
-                "quantidadeUltimos7dias": 3
+                "pessoasUltimos7dias": 4,
+                "quantidadeUltimos7dias": 4
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 156,
-                "impressoes": 244
+            "impressao": {
+                "pessoas": 143,
+                "impressoes": 224,
+                "conversaoPessoas": 2.80,
+                "conversaoImpressoes": 1.79
             },
             "interacoes": null,
             "qtdFavoritados": 0,
@@ -2366,9 +2494,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 187,
-                "impressoes": 283
+            "impressao": {
+                "pessoas": 178,
+                "impressoes": 274,
+                "conversaoPessoas": 2.25,
+                "conversaoImpressoes": 1.46
             },
             "interacoes": null,
             "qtdFavoritados": 0,
@@ -2387,9 +2517,11 @@
             },
             "reviews": null,
             "reservas": null,
-            "impressoes": {
-                "pessoas": 30,
-                "impressoes": 52
+            "impressao": {
+                "pessoas": 14,
+                "impressoes": 29,
+                "conversaoPessoas": 35.71,
+                "conversaoImpressoes": 17.24
             },
             "interacoes": {
                 "acao": [
