@@ -102,43 +102,43 @@
             html += detalhesReservas(estab.reservas);
             html += detalhesInteracoes(estab.interacoes);
             html += detalheFavoritados(estab.qtdFavoritados);
-            html += detalheValorInvestido(estab.valorInvestido);
+      //      html += detalheValorInvestido(estab.valorInvestido);
             $('#infoEstabelecimento').html(html);
         } 
 
         function detalhesCliques(cliques) {
-            var html = '<tr><td>Cliques</td><td>';
-            html += `<table><tr><th>Quantidade</th><td>${cliques?.quantidade ?? 'N/A'}</td></tr>`;
-            html += `<tr><th>Pessoas</th><td>${cliques?.pessoas ?? 'N/A'}</td></tr>`;
-            html += `<tr><th>Dias Ativos</th><td>${cliques?.diasAtivos ?? 'N/A'}</td></tr>`;
-            html += `<tr><th>Cliques por Dia</th><td> ${cliques?.cliquesPorDia?.toFixed(2) ?? 'N/A'}</td></tr>`;
-            html += `<tr><th>Pessoas por Dia</th><td> ${cliques?.pessoasPorDia?.toFixed(2) ?? 'N/A'}</td></tr>`;
-            html += `<tr><th>Pessoas nos Últimos 7 Dias</th><td>${cliques?.pessoasUltimos7dias ?? 'N/A'}</td></tr>`;
-            html += `<tr><th>Quantidade nos Últimos 7 Dias</th><td>${cliques?.quantidadeUltimos7dias ?? 'N/A'}</td></tr></table>`;
+            var html = '<table><caption><h2>Cliques</h2></caption><tr><th>Descricao</th><th>Quantidade</th></tr>';
+            html += `<tr><td>Quantidade</th><td>${cliques?.quantidade ?? 'N/A'}</td></tr>`;
+            html += `<tr><td>Pessoas</th><td>${cliques?.pessoas ?? 'N/A'}</td></tr>`;
+            html += `<tr><td>Dias Ativos</th><td>${cliques?.diasAtivos ?? 'N/A'}</td></tr>`;
+            html += `<tr><td>Cliques por Dia</th><td> ${cliques?.cliquesPorDia?.toFixed(2) ?? 'N/A'}</td></tr>`;
+            html += `<tr><td>Pessoas por Dia</th><td> ${cliques?.pessoasPorDia?.toFixed(2) ?? 'N/A'}</td></tr>`;
+            html += `<tr><td>Pessoas nos Últimos 7 Dias</th><td>${cliques?.pessoasUltimos7dias ?? 'N/A'}</td></tr>`;
+            html += `<tr><td>Quantidade nos Últimos 7 Dias</th><td>${cliques?.quantidadeUltimos7dias ?? 'N/A'}</td></tr></table>`;
             html += `</td></tr>`;
             return html;
         }
 
         function detalhesReviews(reviews) {
             if (!reviews) {
-                return '<table><caption>Reviews</caption><tr><td>N/A</td></tr></table>';
+                return '<table><caption><h2>Reviews</h2></caption><tr><td>N/A</td></tr></table>';
             }
             var comentarios = reviews.comentarios?.join(', ') ?? 'N/A';
-            var html = '<table><caption>Reviews</caption><tr><th>Estrelas</th><th>Quantidade</th><th>Comentários</th></tr>';
+            var html = '<table><caption><h2>Reviews</h2></caption><tr><th>Estrelas</th><th>Quantidade</th><th>Comentários</th></tr>';
             html += `<tr><td>${reviews.estrelas ?? 'N/A'}</td><td>${reviews.quantidade ?? 'N/A'}</td><td>${comentarios}</td></tr>`;
             html += '</table>';
             return html;
         }
 
         function detalhesImpressao(impressao, conversaoImpressoes, conversaoPessoas) {
-            var html = '<table><caption>Impressões</caption><tr><th>Pessoas</th><th>Impressões</th><th>Conversão Impressões</th><th>Conversão Pessoas</th></tr>';
+            var html = '<table><caption><h2>Impressões</h2></caption><tr><th>Pessoas</th><th>Impressões</th><th>Conversão Impressões</th><th>Conversão Pessoas</th></tr>';
             html += `<tr><td>${impressao?.pessoas ?? 'N/A'}</td><td>${impressao?.impressoes ?? 'N/A'}</td><td>${conversaoImpressoes}%</td><td>${conversaoPessoas}%</td></tr>`;
             html += '</table>';
             return html;
 } 
 
         function detalhesReservas(reservas) {
-            var html = '<table><caption>Reservas</caption><tr><th>Quantidade</th><th>Quantidade Pessoas</th></tr>';
+            var html = '<table><caption><h2>Reservas</h2></caption><tr><th>Quantidade</th><th>Quantidade Pessoas</th></tr>';
             html += `<tr><td>${reservas?.quantidade ?? 'N/A'}</td><td>${reservas?.quantidadePessoas ?? 'N/A'}</td></tr>`;
             html += '</table>';
             return html;
@@ -146,7 +146,7 @@
         
 
         function detalhesInteracoes(interacoes) {
-            var html = '<table><caption>Interações</caption><tr><th>Ações</th></tr>';
+            var html = '<table><caption><h2>Interações</h2></caption><tr><th>Ações</th></tr>';
             if (interacoes?.acao) {
                 interacoes.acao.forEach(acao => {
                     html += `<tr><td>${acao}</td></tr>`;
@@ -159,12 +159,12 @@
         }
 
         function detalheFavoritados(qtdFavoritados) {
-            return `<table><tr><th>Favoritados</th><td>${qtdFavoritados ?? 'N/A'}</td></tr></table>`;
+            return `<table><caption><h2>Favoritados</h2></caption><tr><td>${qtdFavoritados ?? 'N/A'}</td></tr></table>`;
         }
 
         function detalheValorInvestido(valorInvestido) {
             var valor = valorInvestido !== null ? valorInvestido : 'N/A';
-            return `<table><tr><th>Valor Investido</th><td>${valor}</td></tr></table>`;
+            return `<table><caption><h2>Valor Investido</h2></caption><tr><td>${valor}</td></tr></table>`;
         }
     </script>
 </body>
