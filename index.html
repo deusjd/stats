@@ -50,21 +50,20 @@
             var htmlMain = '<h2>Informações Gerais - ' + main.regiao + '</h2>';
             htmlMain += '<table><tr><th>Total de Acessos</th><th>Total de Downloads</th></tr>';
             htmlMain += `<tr><td>${main.acessos}</td><td>${main.downloads}</td></tr></table>`;
-            htmlMain += '<h4>Total nos últimos 7 dias</h4>';
-            htmlMain += '<table><tr><th>Acessos nos últimos 7 dias</th><th>Downloads nos últimos 7 dias</th></tr>';
-            htmlMain += `<tr><td>${main.acessosUltimos7Dias.quantidade}</td><td>${main.downloadsUltimos7Dias.quantidade}</td></tr></table>`;
+            htmlMain += `<tr><td></td><td></td></tr></table>`;
             htmlMain += detalhesAcessosDownloadsUltimos7Dias(main.acessosUltimos7Dias, main.downloadsUltimos7Dias);
             $('#infoMain').html(htmlMain);
         }
 
         function detalhesAcessosDownloadsUltimos7Dias(acessosUltimos7Dias, downloadsUltimos7Dias) {
             var html = '<h4>Acessos e Downloads nos últimos 7 dias</h4>';
-            html += '<table><tr><th>Dia</th><th>Acessos</th><th>Downloads</th></tr>';
+            html += '<table><tr><th>Dia</th><th>Acessos</th><th>Downloads</th></tr>';            
             Object.keys(acessosUltimos7Dias.dia).forEach((dia, index) => {
                 var acessos = acessosUltimos7Dias.dia[dia];
                 var downloads = downloadsUltimos7Dias.dia[dia] !== undefined ? downloadsUltimos7Dias.dia[dia] : 'N/A';
                 html += `<tr><td>${dia.trim()}</td><td>${acessos}</td><td>${downloads}</td></tr>`;
             });
+            html += `<tr><th>Total</td><th>${acessosUltimos7Dias.quantidade}</td><th>${downloadsUltimos7Dias.quantidade}</td></tr>`;
             html += '</table>';
             return html; 
         }
@@ -98,9 +97,9 @@
 
             html += detalhesImpressao(estab.impressao, conversaoImpressoes, conversaoPessoas);
             html += detalhesCliques(estab.cliques);
-            html += detalhesReviews(estab.reviews);
-            html += detalhesReservas(estab.reservas);
             html += detalhesInteracoes(estab.interacoes);
+            html += detalhesReviews(estab.reviews);
+            html += detalhesReservas(estab.reservas);            
             html += detalheFavoritados(estab.qtdFavoritados);
       //      html += detalheValorInvestido(estab.valorInvestido);
             $('#infoEstabelecimento').html(html);
@@ -108,14 +107,14 @@
 
         function detalhesCliques(cliques) {
             var html = '<table><caption><h2>Cliques</h2></caption><tr><th>Descricao</th><th>Quantidade</th></tr>';
-            html += `<tr><td>Quantidade</th><td>${cliques?.quantidade ?? 'N/A'}</td></tr>`;
-            html += `<tr><td>Pessoas</th><td>${cliques?.pessoas ?? 'N/A'}</td></tr>`;
             html += `<tr><td>Dias Ativos</th><td>${cliques?.diasAtivos ?? 'N/A'}</td></tr>`;
             html += `<tr><td>Cliques por Dia</th><td> ${cliques?.cliquesPorDia?.toFixed(2) ?? 'N/A'}</td></tr>`;
             html += `<tr><td>Pessoas por Dia</th><td> ${cliques?.pessoasPorDia?.toFixed(2) ?? 'N/A'}</td></tr>`;
             html += `<tr><td>Pessoas nos Últimos 7 Dias</th><td>${cliques?.pessoasUltimos7dias ?? 'N/A'}</td></tr>`;
-            html += `<tr><td>Quantidade nos Últimos 7 Dias</th><td>${cliques?.quantidadeUltimos7dias ?? 'N/A'}</td></tr></table>`;
-            html += `</td></tr>`;
+            html += `<tr><td>Quantidade nos Últimos 7 Dias</th><td>${cliques?.quantidadeUltimos7dias ?? 'N/A'}</td></tr>`;
+            html += `<tr><th>Total de Pessoas</th><th>${cliques?.pessoas ?? 'N/A'}</td></tr>`;
+            html += `<tr><th>Total Cliques</th><th>${cliques?.quantidade ?? 'N/A'}</td></tr>`;
+            html += `</table>`;
             return html;
         }
 
@@ -146,14 +145,22 @@
         
 
         function detalhesInteracoes(interacoes) {
-            var html = '<table><caption><h2>Interações</h2></caption><tr><th>Ações</th></tr>';
-            if (interacoes?.acao) {
-                interacoes.acao.forEach(acao => {
-                    html += `<tr><td>${acao}</td></tr>`;
-                });
-            } else {
-                html += '<tr><td>N/A</td></tr>';
-            }
+        var html = '<table><caption><h2>Interações</h2></caption><tr><th>Ações</th><th>Quantidade</th></tr>';
+            if (interacoes.acao.instagram > 0) {html += `<tr><td>Instagram</td><td>${interacoes.acao.instagram}</td></tr>`;}
+            if (interacoes.acao.menu > 0) {html += `<tr><td>Cardápio</td><td>${interacoes.acao.menu}</td></tr>`;}
+            if (interacoes.acao.maps > 0) {html += `<tr><td>Endereço Maps</td><td>${interacoes.acao.maps}</td></tr>`;}
+            if (interacoes.acao.tour > 0) {html += `<tr><td>Tour</td><td>${interacoes.acao.tour}</td></tr>`;}
+            if (interacoes.acao.contact > 0) {html += `<tr><td>Contato</td><td>${interacoes.acao.contact}</td></tr>`;}
+            if (interacoes.acao.schedules > 0) {html += `<tr><td>Horários</td><td>${interacoes.acao.schedules}</td></tr>`;}
+            if (interacoes.acao.birthday > 0) {html += `<tr><td>Brinde Aniversário</td><td>${interacoes.acao.birthday}</td></tr>`;}
+            if (interacoes.acao.mobility > 0) {html += `<tr><td>Motorista</td><td>${interacoes.acao.mobility}</td></tr>`;}
+            if (interacoes.acao.callToAction > 0) {html += `<tr><td>Botão de Ação</td><td>${interacoes.acao.callToAction}</td></tr>`;}
+            if (interacoes.acao.table_booking > 0) {html += `<tr><td>Reservas</td><th>${interacoes.acao.table_booking}</td></tr>`;}
+            if (interacoes.acao.share > 0) {html += `<tr><td>Compartilhar</td><td>${interacoes.acao.share}</td></tr>`;}
+            if (interacoes.acao.website > 0) {html += `<tr><td>Site</td><td>${interacoes.acao.website}</td></tr>`;}
+            if (interacoes.acao.delivery > 0) {html += `<tr><td>Delivery</td><td>${interacoes.acao.delivery}</td></tr>`;}
+            if (interacoes.acao.prices > 0) {html += `<tr><td>Preços</td><td>${interacoes.acao.prices}</td></tr>`;}
+            html += `<tr><th>Total</td><th>${interacoes.total}</td></tr>`;
             html += '</table>';
             return html;
         }

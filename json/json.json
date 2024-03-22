@@ -1,11 +1,11 @@
 {
     "main": {
         "regiao": "florianopolis",
-        "acessos": 57988,
-        "downloads": 15762,
+        "acessos": 58018,
+        "downloads": 15763,
         "acessosUltimos7Dias": {
             "dia": {
-                "0 - Friday   ": 43,
+                "0 - Friday   ": 73,
                 "1 - Thursday ": 158,
                 "2 - Wednesday": 173,
                 "3 - Tuesday  ": 137,
@@ -14,20 +14,20 @@
                 "6 - Saturday ": 212,
                 "7 - Friday   ": 176
             },
-            "quantidade": 1203
+            "quantidade": 1233
         },
         "downloadsUltimos7Dias": {
             "dia": {
                 "0 - Friday   ": 1,
-                "1 - Thursday ": 7,
+                "1 - Thursday ": 8,
                 "2 - Wednesday": 7,
                 "3 - Tuesday  ": 9,
                 "4 - Monday   ": 17,
-                "5 - Sunday   ": 13,
+                "5 - Sunday   ": 14,
                 "6 - Saturday ": 16,
                 "7 - Friday   ": 21
             },
-            "quantidade": 91
+            "quantidade": 93
         }
     },
     "estabelecimento": [
@@ -53,18 +53,28 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
+            "impressao": {
+                "pessoas": 9817,
+                "impressoes": 39241
+            },
             "interacoes": {
-                "acao": [
-                    "44 - Botão de ação Participar do sorteio",
-                    "29 - Contato",
-                    "405 - Instagram",
-                    "84 - Endereço no Maps",
-                    "5 - Chamar Motorista - 99",
-                    "4 - Chamar Motorista - Uber",
-                    "54 - Horário",
-                    "9 - Compartilhar",
-                    "106 - Tour"
-                ]
+                "acao": {
+                    "maps": 84,
+                    "menu": 0,
+                    "tour": 106,
+                    "share": 9,
+                    "prices": 0,
+                    "contact": 29,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 9,
+                    "instagram": 405,
+                    "schedules": 54,
+                    "callToAction": 44,
+                    "table_booking": 0
+                },
+                "total": "740"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -95,21 +105,28 @@
                 "quantidade": 2,
                 "quantidadePessoas": 6
             },
+            "impressao": {
+                "pessoas": 10502,
+                "impressoes": 44191
+            },
             "interacoes": {
-                "acao": [
-                    "8 - Botão de ação Comprar Ingressos",
-                    "18 - Botão de ação Mais Informações",
-                    "4 - Botão de ação Participar",
-                    "1 - Botão de ação Participar do sorteio",
-                    "19 - Botão de ação Participar do Sorteio",
-                    "27 - Contato",
-                    "391 - Instagram",
-                    "159 - Endereço no Maps",
-                    "191 - Cardápio",
-                    "7 - Chamar Motorista - Uber",
-                    "33 - Horário",
-                    "17 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 159,
+                    "menu": 191,
+                    "tour": 0,
+                    "share": 17,
+                    "prices": 0,
+                    "contact": 27,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 7,
+                    "instagram": 391,
+                    "schedules": 33,
+                    "callToAction": 50,
+                    "table_booking": 0
+                },
+                "total": "875"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -136,22 +153,28 @@
                 "quantidade": 14,
                 "quantidadePessoas": 37
             },
+            "impressao": {
+                "pessoas": 10749,
+                "impressoes": 57253
+            },
             "interacoes": {
-                "acao": [
-                    "36 - Botão de ação Participar do sorteio",
-                    "8 - Botão de ação Participar do sorteio de duas Feijoadas",
-                    "25 - Contato",
-                    "11 - Delivery",
-                    "2 - Delivery",
-                    "182 - Instagram",
-                    "76 - Endereço no Maps",
-                    "376 - Cardápio",
-                    "8 - Chamar Motorista - 99",
-                    "12 - Chamar Motorista - Uber",
-                    "37 - Horário",
-                    "10 - Compartilhar",
-                    "59 - Tour"
-                ]
+                "acao": {
+                    "maps": 76,
+                    "menu": 376,
+                    "tour": 59,
+                    "share": 10,
+                    "prices": 0,
+                    "contact": 25,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 13,
+                    "mobility": 20,
+                    "instagram": 182,
+                    "schedules": 37,
+                    "callToAction": 44,
+                    "table_booking": 0
+                },
+                "total": "842"
             },
             "qtdFavoritados": 4,
             "valorInvestido": null,
@@ -183,18 +206,28 @@
                 "quantidade": 5,
                 "quantidadePessoas": 12
             },
+            "impressao": {
+                "pessoas": 9743,
+                "impressoes": 39998
+            },
             "interacoes": {
-                "acao": [
-                    "115 - Brinde Aniversário",
-                    "16 - Contato",
-                    "204 - Instagram",
-                    "79 - Endereço no Maps",
-                    "402 - Cardápio",
-                    "2 - Chamar Motorista - Uber",
-                    "50 - Horário",
-                    "6 - Compartilhar",
-                    "67 - Tour"
-                ]
+                "acao": {
+                    "maps": 79,
+                    "menu": 402,
+                    "tour": 67,
+                    "share": 6,
+                    "prices": 0,
+                    "contact": 16,
+                    "website": 0,
+                    "birthday": 115,
+                    "delivery": 0,
+                    "mobility": 2,
+                    "instagram": 204,
+                    "schedules": 50,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "941"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -202,13 +235,13 @@
         },
         {
             "cliques": {
-                "pessoas": 1284,
+                "pessoas": 1285,
                 "diasAtivos": 281,
-                "quantidade": 1884,
-                "cliquesPorDia": 6.68,
-                "pessoasPorDia": 4.55,
-                "pessoasUltimos7dias": 23,
-                "quantidadeUltimos7dias": 25
+                "quantidade": 1885,
+                "cliquesPorDia": 6.66,
+                "pessoasPorDia": 4.54,
+                "pessoasUltimos7dias": 24,
+                "quantidadeUltimos7dias": 26
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -223,17 +256,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 9936,
+                "impressoes": 41288
+            },
             "interacoes": {
-                "acao": [
-                    "6 - Delivery",
-                    "287 - Instagram",
-                    "88 - Endereço no Maps",
-                    "276 - Cardápio",
-                    "2 - Chamar Motorista - 99",
-                    "3 - Chamar Motorista - Uber",
-                    "24 - Horário",
-                    "15 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 88,
+                    "menu": 276,
+                    "tour": 0,
+                    "share": 15,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 7,
+                    "mobility": 5,
+                    "instagram": 287,
+                    "schedules": 24,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "702"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -241,33 +285,41 @@
         },
         {
             "cliques": {
-                "pessoas": 1208,
+                "pessoas": 1209,
                 "diasAtivos": 281,
-                "quantidade": 1724,
-                "cliquesPorDia": 7.37,
-                "pessoasPorDia": 5.16,
-                "pessoasUltimos7dias": 40,
-                "quantidadeUltimos7dias": 45
+                "quantidade": 1726,
+                "cliquesPorDia": 7.34,
+                "pessoasPorDia": 5.14,
+                "pessoasUltimos7dias": 41,
+                "quantidadeUltimos7dias": 47
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
+            "impressao": {
+                "pessoas": 10616,
+                "impressoes": 44899
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Botão de ação Comprar Ingressos",
-                    "25 - Botão de ação Participar do Sorteio",
-                    "24 - Contato",
-                    "4 - Delivery",
-                    "148 - Instagram",
-                    "58 - Endereço no Maps",
-                    "204 - Cardápio",
-                    "2 - Chamar Motorista - 99",
-                    "5 - Chamar Motorista - Uber",
-                    "28 - Horário",
-                    "9 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 58,
+                    "menu": 205,
+                    "tour": 0,
+                    "share": 9,
+                    "prices": 0,
+                    "contact": 24,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 4,
+                    "mobility": 7,
+                    "instagram": 148,
+                    "schedules": 28,
+                    "callToAction": 26,
+                    "table_booking": 0
+                },
+                "total": "509"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -285,18 +337,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 10094,
+                "impressoes": 40356
+            },
             "interacoes": {
-                "acao": [
-                    "12 - Contato",
-                    "1 - Delivery",
-                    "196 - Instagram",
-                    "45 - Endereço no Maps",
-                    "304 - Cardápio",
-                    "5 - Chamar Motorista - Uber",
-                    "16 - Horário",
-                    "3 - Compartilhar",
-                    "2 - Site"
-                ]
+                "acao": {
+                    "maps": 45,
+                    "menu": 304,
+                    "tour": 0,
+                    "share": 3,
+                    "prices": 0,
+                    "contact": 12,
+                    "website": 2,
+                    "birthday": 0,
+                    "delivery": 1,
+                    "mobility": 5,
+                    "instagram": 196,
+                    "schedules": 16,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "584"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -320,19 +382,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 10519,
+                "impressoes": 42431
+            },
             "interacoes": {
-                "acao": [
-                    "121 - Brinde Aniversário",
-                    "22 - Botão de ação Participar do sorteio",
-                    "4 - Contato",
-                    "225 - Instagram",
-                    "124 - Endereço no Maps",
-                    "259 - Cardápio",
-                    "1 - Chamar Motorista - 99",
-                    "5 - Chamar Motorista - Uber",
-                    "31 - Horário",
-                    "8 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 124,
+                    "menu": 259,
+                    "tour": 0,
+                    "share": 8,
+                    "prices": 0,
+                    "contact": 4,
+                    "website": 0,
+                    "birthday": 121,
+                    "delivery": 0,
+                    "mobility": 6,
+                    "instagram": 225,
+                    "schedules": 31,
+                    "callToAction": 22,
+                    "table_booking": 0
+                },
+                "total": "800"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -340,35 +411,41 @@
         },
         {
             "cliques": {
-                "pessoas": 990,
+                "pessoas": 992,
                 "diasAtivos": 273,
-                "quantidade": 1424,
-                "cliquesPorDia": 5.22,
+                "quantidade": 1427,
+                "cliquesPorDia": 5.23,
                 "pessoasPorDia": 3.63,
-                "pessoasUltimos7dias": 24,
-                "quantidadeUltimos7dias": 26
+                "pessoasUltimos7dias": 26,
+                "quantidadeUltimos7dias": 29
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 2,
                 "quantidadePessoas": 12
             },
+            "impressao": {
+                "pessoas": 9354,
+                "impressoes": 33258
+            },
             "interacoes": {
-                "acao": [
-                    "9 - Botão de ação Conheça o famoso EGG",
-                    "29 - Botão de ação Participar do sorteio do \"Dia da Mulher\" 🌹",
-                    "7 - Botão de ação Porção Happy Hour",
-                    "3 - Botão de ação Resgatar Cupom",
-                    "18 - Contato",
-                    "7 - Delivery",
-                    "87 - Instagram",
-                    "60 - Endereço no Maps",
-                    "257 - Cardápio",
-                    "2 - Chamar Motorista - 99",
-                    "3 - Chamar Motorista - Uber",
-                    "20 - Horário",
-                    "8 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 60,
+                    "menu": 257,
+                    "tour": 0,
+                    "share": 8,
+                    "prices": 0,
+                    "contact": 18,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 7,
+                    "mobility": 5,
+                    "instagram": 87,
+                    "schedules": 20,
+                    "callToAction": 49,
+                    "table_booking": 0
+                },
+                "total": "511"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -397,20 +474,28 @@
                 "quantidade": 2,
                 "quantidadePessoas": 8
             },
+            "impressao": {
+                "pessoas": 9570,
+                "impressoes": 33111
+            },
             "interacoes": {
-                "acao": [
-                    "226 - Brinde Aniversário",
-                    "1 - Botão de ação Fazer reserva",
-                    "20 - Contato",
-                    "8 - Delivery",
-                    "93 - Instagram",
-                    "28 - Endereço no Maps",
-                    "280 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "25 - Horário",
-                    "7 - Compartilhar",
-                    "30 - Tour"
-                ]
+                "acao": {
+                    "maps": 28,
+                    "menu": 280,
+                    "tour": 30,
+                    "share": 7,
+                    "prices": 0,
+                    "contact": 20,
+                    "website": 0,
+                    "birthday": 226,
+                    "delivery": 8,
+                    "mobility": 1,
+                    "instagram": 93,
+                    "schedules": 25,
+                    "callToAction": 1,
+                    "table_booking": 0
+                },
+                "total": "719"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -431,19 +516,28 @@
                 "quantidade": 1,
                 "quantidadePessoas": 10
             },
+            "impressao": {
+                "pessoas": 10298,
+                "impressoes": 38947
+            },
             "interacoes": {
-                "acao": [
-                    "15 - Botão de ação Mais Informações",
-                    "12 - Contato",
-                    "17 - Delivery",
-                    "74 - Instagram",
-                    "35 - Endereço no Maps",
-                    "410 - Cardápio",
-                    "1 - Chamar Motorista - 99",
-                    "20 - Horário",
-                    "7 - Compartilhar",
-                    "14 - Site"
-                ]
+                "acao": {
+                    "maps": 35,
+                    "menu": 410,
+                    "tour": 0,
+                    "share": 7,
+                    "prices": 0,
+                    "contact": 12,
+                    "website": 14,
+                    "birthday": 0,
+                    "delivery": 17,
+                    "mobility": 1,
+                    "instagram": 74,
+                    "schedules": 20,
+                    "callToAction": 15,
+                    "table_booking": 0
+                },
+                "total": "605"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -461,19 +555,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 5713,
+                "impressoes": 17153
+            },
             "interacoes": {
-                "acao": [
-                    "17 - Botão de ação Comprar Ingressos",
-                    "17 - Contato",
-                    "77 - Instagram",
-                    "24 - Endereço no Maps",
-                    "257 - Cardápio",
-                    "4 - Chamar Motorista - Uber",
-                    "35 - Horário",
-                    "4 - Compartilhar",
-                    "38 - Tour",
-                    "15 - Site"
-                ]
+                "acao": {
+                    "maps": 24,
+                    "menu": 257,
+                    "tour": 38,
+                    "share": 4,
+                    "prices": 0,
+                    "contact": 17,
+                    "website": 15,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 4,
+                    "instagram": 77,
+                    "schedules": 35,
+                    "callToAction": 17,
+                    "table_booking": 0
+                },
+                "total": "488"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -483,11 +586,11 @@
             "cliques": {
                 "pessoas": 841,
                 "diasAtivos": 195,
-                "quantidade": 1303,
-                "cliquesPorDia": 6.75,
-                "pessoasPorDia": 4.36,
+                "quantidade": 1304,
+                "cliquesPorDia": 6.69,
+                "pessoasPorDia": 4.31,
                 "pessoasUltimos7dias": 25,
-                "quantidadeUltimos7dias": 39
+                "quantidadeUltimos7dias": 40
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -501,20 +604,28 @@
                 "quantidade": 5,
                 "quantidadePessoas": 17
             },
+            "impressao": {
+                "pessoas": 8539,
+                "impressoes": 36203
+            },
             "interacoes": {
-                "acao": [
-                    "67 - Brinde Aniversário",
-                    "14 - Contato",
-                    "9 - Delivery",
-                    "238 - Instagram",
-                    "62 - Endereço no Maps",
-                    "1 - Chamar Motorista - 99",
-                    "3 - Chamar Motorista - Uber",
-                    "24 - Horário",
-                    "4 - Compartilhar",
-                    "44 - Tour",
-                    "49 - Site"
-                ]
+                "acao": {
+                    "maps": 62,
+                    "menu": 0,
+                    "tour": 44,
+                    "share": 4,
+                    "prices": 0,
+                    "contact": 14,
+                    "website": 49,
+                    "birthday": 67,
+                    "delivery": 9,
+                    "mobility": 4,
+                    "instagram": 238,
+                    "schedules": 24,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "515"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -522,31 +633,41 @@
         },
         {
             "cliques": {
-                "pessoas": 774,
+                "pessoas": 775,
                 "diasAtivos": 220,
-                "quantidade": 1028,
-                "cliquesPorDia": 4.55,
-                "pessoasPorDia": 3.42,
-                "pessoasUltimos7dias": 26,
-                "quantidadeUltimos7dias": 28
+                "quantidade": 1029,
+                "cliquesPorDia": 4.51,
+                "pessoasPorDia": 3.40,
+                "pessoasUltimos7dias": 27,
+                "quantidadeUltimos7dias": 29
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
+            "impressao": {
+                "pessoas": 9539,
+                "impressoes": 35913
+            },
             "interacoes": {
-                "acao": [
-                    "13 - Contato",
-                    "4 - Delivery",
-                    "100 - Instagram",
-                    "38 - Endereço no Maps",
-                    "188 - Cardápio",
-                    "1 - Chamar Motorista - 99",
-                    "1 - Chamar Motorista - Uber",
-                    "12 - Horário",
-                    "5 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 38,
+                    "menu": 188,
+                    "tour": 0,
+                    "share": 5,
+                    "prices": 0,
+                    "contact": 13,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 4,
+                    "mobility": 2,
+                    "instagram": 100,
+                    "schedules": 12,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "362"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -564,22 +685,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 9601,
+                "impressoes": 32594
+            },
             "interacoes": {
-                "acao": [
-                    "83 - Brinde Aniversário",
-                    "37 - Botão de ação Cardápio Bom Gourmet",
-                    "19 - Botão de ação Mais Informações e Reservas",
-                    "1 - Botão de ação Reservar Mesa",
-                    "9 - Contato",
-                    "58 - Instagram",
-                    "23 - Endereço no Maps",
-                    "190 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "8 - Horário",
-                    "4 - Compartilhar",
-                    "25 - Tour",
-                    "9 - Site"
-                ]
+                "acao": {
+                    "maps": 23,
+                    "menu": 190,
+                    "tour": 25,
+                    "share": 4,
+                    "prices": 0,
+                    "contact": 9,
+                    "website": 9,
+                    "birthday": 83,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 58,
+                    "schedules": 8,
+                    "callToAction": 57,
+                    "table_booking": 0
+                },
+                "total": "467"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -597,18 +724,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 2970,
+                "impressoes": 7726
+            },
             "interacoes": {
-                "acao": [
-                    "104 - Brinde Aniversário",
-                    "9 - Botão de ação Reservar Mesa",
-                    "15 - Contato",
-                    "132 - Instagram",
-                    "39 - Endereço no Maps",
-                    "3 - Chamar Motorista - 99",
-                    "1 - Chamar Motorista - Uber",
-                    "41 - Horário",
-                    "4 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 39,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 4,
+                    "prices": 0,
+                    "contact": 15,
+                    "website": 0,
+                    "birthday": 104,
+                    "delivery": 0,
+                    "mobility": 4,
+                    "instagram": 132,
+                    "schedules": 41,
+                    "callToAction": 9,
+                    "table_booking": 0
+                },
+                "total": "348"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -635,16 +772,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 8339,
+                "impressoes": 33359
+            },
             "interacoes": {
-                "acao": [
-                    "49 - Brinde Aniversário",
-                    "139 - Instagram",
-                    "32 - Endereço no Maps",
-                    "78 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "15 - Horário",
-                    "4 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 32,
+                    "menu": 78,
+                    "tour": 0,
+                    "share": 4,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 49,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 139,
+                    "schedules": 15,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "318"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -672,19 +821,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 5697,
+                "impressoes": 15928
+            },
             "interacoes": {
-                "acao": [
-                    "4 - Brinde Aniversário",
-                    "5 - Contato",
-                    "156 - Instagram",
-                    "29 - Endereço no Maps",
-                    "222 - Cardápio",
-                    "3 - Chamar Motorista - 99",
-                    "1 - Chamar Motorista - Uber",
-                    "60 - Preços",
-                    "35 - Horário",
-                    "5 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 29,
+                    "menu": 222,
+                    "tour": 0,
+                    "share": 5,
+                    "prices": 60,
+                    "contact": 5,
+                    "website": 0,
+                    "birthday": 4,
+                    "delivery": 0,
+                    "mobility": 4,
+                    "instagram": 156,
+                    "schedules": 35,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "520"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -705,18 +863,28 @@
                 "quantidade": 6,
                 "quantidadePessoas": 18
             },
+            "impressao": {
+                "pessoas": 9310,
+                "impressoes": 33368
+            },
             "interacoes": {
-                "acao": [
-                    "6 - Contato",
-                    "4 - Delivery",
-                    "94 - Instagram",
-                    "46 - Endereço no Maps",
-                    "181 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "9 - Horário",
-                    "5 - Compartilhar",
-                    "17 - Tour"
-                ]
+                "acao": {
+                    "maps": 46,
+                    "menu": 181,
+                    "tour": 17,
+                    "share": 5,
+                    "prices": 0,
+                    "contact": 6,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 4,
+                    "mobility": 1,
+                    "instagram": 94,
+                    "schedules": 9,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "363"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -724,28 +892,38 @@
         },
         {
             "cliques": {
-                "pessoas": 610,
+                "pessoas": 611,
                 "diasAtivos": 157,
-                "quantidade": 818,
-                "cliquesPorDia": 5.28,
-                "pessoasPorDia": 3.94,
-                "pessoasUltimos7dias": 46,
-                "quantidadeUltimos7dias": 61
+                "quantidade": 819,
+                "cliquesPorDia": 5.25,
+                "pessoasPorDia": 3.92,
+                "pessoasUltimos7dias": 47,
+                "quantidadeUltimos7dias": 62
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 5852,
+                "impressoes": 20568
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Brinde Aniversário",
-                    "3 - Contato",
-                    "89 - Instagram",
-                    "37 - Endereço no Maps",
-                    "128 - Cardápio",
-                    "4 - Chamar Motorista - Uber",
-                    "6 - Horário",
-                    "2 - Compartilhar",
-                    "26 - Tour"
-                ]
+                "acao": {
+                    "maps": 37,
+                    "menu": 128,
+                    "tour": 26,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 3,
+                    "website": 0,
+                    "birthday": 1,
+                    "delivery": 0,
+                    "mobility": 4,
+                    "instagram": 89,
+                    "schedules": 6,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "296"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -771,16 +949,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 9656,
+                "impressoes": 33664
+            },
             "interacoes": {
-                "acao": [
-                    "17 - Contato",
-                    "102 - Instagram",
-                    "35 - Endereço no Maps",
-                    "154 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "25 - Horário",
-                    "7 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 35,
+                    "menu": 154,
+                    "tour": 0,
+                    "share": 7,
+                    "prices": 0,
+                    "contact": 17,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 102,
+                    "schedules": 25,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "341"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -798,18 +988,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 5092,
+                "impressoes": 12496
+            },
             "interacoes": {
-                "acao": [
-                    "5 - Contato",
-                    "3 - Delivery",
-                    "66 - Instagram",
-                    "17 - Endereço no Maps",
-                    "199 - Cardápio",
-                    "23 - Horário",
-                    "1 - Compartilhar",
-                    "16 - Tour",
-                    "5 - Site"
-                ]
+                "acao": {
+                    "maps": 17,
+                    "menu": 199,
+                    "tour": 16,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 5,
+                    "website": 5,
+                    "birthday": 0,
+                    "delivery": 3,
+                    "mobility": 0,
+                    "instagram": 66,
+                    "schedules": 23,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "335"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -827,18 +1027,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 7203,
+                "impressoes": 19183
+            },
             "interacoes": {
-                "acao": [
-                    "92 - Brinde Aniversário",
-                    "6 - Contato",
-                    "103 - Instagram",
-                    "27 - Endereço no Maps",
-                    "157 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "11 - Horário",
-                    "1 - Compartilhar",
-                    "9 - Site"
-                ]
+                "acao": {
+                    "maps": 27,
+                    "menu": 157,
+                    "tour": 0,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 6,
+                    "website": 9,
+                    "birthday": 92,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 103,
+                    "schedules": 11,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "407"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -859,19 +1069,28 @@
                 "quantidade": 1,
                 "quantidadePessoas": 2
             },
+            "impressao": {
+                "pessoas": 8569,
+                "impressoes": 27359
+            },
             "interacoes": {
-                "acao": [
-                    "6 - Botão de ação Conheça o Arroz Flonopx",
-                    "10 - Contato",
-                    "2 - Delivery",
-                    "48 - Instagram",
-                    "15 - Endereço no Maps",
-                    "212 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "14 - Horário",
-                    "2 - Compartilhar",
-                    "16 - Tour"
-                ]
+                "acao": {
+                    "maps": 15,
+                    "menu": 212,
+                    "tour": 16,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 10,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 2,
+                    "mobility": 1,
+                    "instagram": 48,
+                    "schedules": 14,
+                    "callToAction": 6,
+                    "table_booking": 0
+                },
+                "total": "326"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -879,25 +1098,38 @@
         },
         {
             "cliques": {
-                "pessoas": 535,
+                "pessoas": 536,
                 "diasAtivos": 218,
-                "quantidade": 678,
-                "cliquesPorDia": 2.97,
+                "quantidade": 679,
+                "cliquesPorDia": 2.98,
                 "pessoasPorDia": 2.35,
-                "pessoasUltimos7dias": 26,
-                "quantidadeUltimos7dias": 29
+                "pessoasUltimos7dias": 27,
+                "quantidadeUltimos7dias": 30
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 9073,
+                "impressoes": 31099
+            },
             "interacoes": {
-                "acao": [
-                    "9 - Contato",
-                    "46 - Instagram",
-                    "16 - Endereço no Maps",
-                    "150 - Cardápio",
-                    "8 - Horário",
-                    "2 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 16,
+                    "menu": 150,
+                    "tour": 0,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 9,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 46,
+                    "schedules": 8,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "231"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -905,13 +1137,13 @@
         },
         {
             "cliques": {
-                "pessoas": 497,
+                "pessoas": 498,
                 "diasAtivos": 281,
-                "quantidade": 596,
-                "cliquesPorDia": 8.28,
-                "pessoasPorDia": 6.90,
-                "pessoasUltimos7dias": 17,
-                "quantidadeUltimos7dias": 18
+                "quantidade": 597,
+                "cliquesPorDia": 8.18,
+                "pessoasPorDia": 6.82,
+                "pessoasUltimos7dias": 18,
+                "quantidadeUltimos7dias": 19
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -921,19 +1153,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 7961,
+                "impressoes": 22567
+            },
             "interacoes": {
-                "acao": [
-                    "62 - Brinde Aniversário",
-                    "12 - Contato",
-                    "88 - Instagram",
-                    "11 - Endereço no Maps",
-                    "105 - Cardápio",
-                    "2 - Chamar Motorista - 99",
-                    "1 - Chamar Motorista - Uber",
-                    "11 - Horário",
-                    "1 - Compartilhar",
-                    "23 - Tour"
-                ]
+                "acao": {
+                    "maps": 11,
+                    "menu": 105,
+                    "tour": 23,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 12,
+                    "website": 0,
+                    "birthday": 62,
+                    "delivery": 0,
+                    "mobility": 3,
+                    "instagram": 88,
+                    "schedules": 11,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "316"
             },
             "qtdFavoritados": 2,
             "valorInvestido": null,
@@ -957,19 +1198,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 3872,
+                "impressoes": 8820
+            },
             "interacoes": {
-                "acao": [
-                    "67 - Brinde Aniversário",
-                    "8 - Contato",
-                    "3 - Delivery",
-                    "65 - Instagram",
-                    "9 - Endereço no Maps",
-                    "89 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "23 - Horário",
-                    "1 - Compartilhar",
-                    "11 - Site"
-                ]
+                "acao": {
+                    "maps": 9,
+                    "menu": 89,
+                    "tour": 0,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 8,
+                    "website": 11,
+                    "birthday": 67,
+                    "delivery": 3,
+                    "mobility": 1,
+                    "instagram": 65,
+                    "schedules": 23,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "277"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -987,21 +1237,31 @@
             },
             "reviews": null,
             "reservas": {
-                "quantidade": 41,
-                "quantidadePessoas": 545
+                "quantidade": 42,
+                "quantidadePessoas": 547
+            },
+            "impressao": {
+                "pessoas": 5411,
+                "impressoes": 17881
             },
             "interacoes": {
-                "acao": [
-                    "33 - Brinde Aniversário",
-                    "7 - Contato",
-                    "53 - Instagram",
-                    "30 - Endereço no Maps",
-                    "65 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "13 - Horário",
-                    "4 - Compartilhar",
-                    "17 - Tour"
-                ]
+                "acao": {
+                    "maps": 30,
+                    "menu": 65,
+                    "tour": 17,
+                    "share": 4,
+                    "prices": 0,
+                    "contact": 7,
+                    "website": 0,
+                    "birthday": 33,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 53,
+                    "schedules": 13,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "223"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1022,18 +1282,28 @@
                 "quantidade": 3,
                 "quantidadePessoas": 9
             },
+            "impressao": {
+                "pessoas": 7181,
+                "impressoes": 25306
+            },
             "interacoes": {
-                "acao": [
-                    "63 - Brinde Aniversário",
-                    "17 - Contato",
-                    "6 - Delivery",
-                    "46 - Instagram",
-                    "20 - Endereço no Maps",
-                    "1 - Chamar Motorista - Uber",
-                    "13 - Horário",
-                    "7 - Compartilhar",
-                    "19 - Tour"
-                ]
+                "acao": {
+                    "maps": 20,
+                    "menu": 0,
+                    "tour": 19,
+                    "share": 7,
+                    "prices": 0,
+                    "contact": 17,
+                    "website": 0,
+                    "birthday": 63,
+                    "delivery": 6,
+                    "mobility": 1,
+                    "instagram": 46,
+                    "schedules": 13,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "192"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1058,16 +1328,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 7922,
+                "impressoes": 23898
+            },
             "interacoes": {
-                "acao": [
-                    "8 - Contato",
-                    "2 - Delivery",
-                    "46 - Instagram",
-                    "7 - Endereço no Maps",
-                    "1 - Chamar Motorista - Uber",
-                    "10 - Horário",
-                    "4 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 7,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 4,
+                    "prices": 0,
+                    "contact": 8,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 2,
+                    "mobility": 1,
+                    "instagram": 46,
+                    "schedules": 10,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "78"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1075,32 +1357,43 @@
         },
         {
             "cliques": {
-                "pessoas": 342,
+                "pessoas": 344,
                 "diasAtivos": 156,
-                "quantidade": 424,
-                "cliquesPorDia": 2.72,
-                "pessoasPorDia": 2.19,
-                "pessoasUltimos7dias": 25,
-                "quantidadeUltimos7dias": 34
+                "quantidade": 426,
+                "cliquesPorDia": 2.73,
+                "pessoasPorDia": 2.21,
+                "pessoasUltimos7dias": 27,
+                "quantidadeUltimos7dias": 36
             },
             "reviews": null,
             "reservas": {
                 "quantidade": 5,
                 "quantidadePessoas": 20
             },
-            "interacoes": {
-                "acao": [
-                    "37 - Brinde Aniversário",
-                    "12 - Contato",
-                    "8 - Delivery",
-                    "57 - Instagram",
-                    "24 - Endereço no Maps",
-                    "10 - Horário",
-                    "2 - Compartilhar",
-                    "14 - Tour"
-                ]
+            "impressao": {
+                "pessoas": 5224,
+                "impressoes": 17324
             },
-            "qtdFavoritados": 1,
+            "interacoes": {
+                "acao": {
+                    "maps": 24,
+                    "menu": 0,
+                    "tour": 14,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 12,
+                    "website": 0,
+                    "birthday": 38,
+                    "delivery": 8,
+                    "mobility": 0,
+                    "instagram": 58,
+                    "schedules": 10,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "166"
+            },
+            "qtdFavoritados": 2,
             "valorInvestido": null,
             "estabelecimento": "Nikô Sushi - Floripa"
         },
@@ -1126,16 +1419,28 @@
                 "quantidade": 4,
                 "quantidadePessoas": 15
             },
+            "impressao": {
+                "pessoas": 3642,
+                "impressoes": 13348
+            },
             "interacoes": {
-                "acao": [
-                    "10 - Contato",
-                    "62 - Instagram",
-                    "35 - Endereço no Maps",
-                    "3 - Chamar Motorista - 99",
-                    "2 - Chamar Motorista - Uber",
-                    "7 - Horário",
-                    "8 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 35,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 8,
+                    "prices": 0,
+                    "contact": 10,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 5,
+                    "instagram": 62,
+                    "schedules": 7,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "127"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1153,15 +1458,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 4062,
+                "impressoes": 9069
+            },
             "interacoes": {
-                "acao": [
-                    "4 - Contato",
-                    "10 - Delivery",
-                    "73 - Instagram",
-                    "36 - Endereço no Maps",
-                    "1 - Chamar Motorista - 99",
-                    "29 - Horário"
-                ]
+                "acao": {
+                    "maps": 36,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 4,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 10,
+                    "mobility": 1,
+                    "instagram": 73,
+                    "schedules": 29,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "153"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1179,16 +1497,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 7024,
+                "impressoes": 19420
+            },
             "interacoes": {
-                "acao": [
-                    "29 - Botão de ação Participar do sorteio",
-                    "2 - Contato",
-                    "57 - Instagram",
-                    "15 - Endereço no Maps",
-                    "1 - Chamar Motorista - Uber",
-                    "4 - Horário",
-                    "1 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 15,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 2,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 57,
+                    "schedules": 4,
+                    "callToAction": 29,
+                    "table_booking": 0
+                },
+                "total": "109"
             },
             "qtdFavoritados": 4,
             "valorInvestido": null,
@@ -1198,25 +1528,36 @@
             "cliques": {
                 "pessoas": 276,
                 "diasAtivos": 139,
-                "quantidade": 328,
+                "quantidade": 330,
                 "cliquesPorDia": 2.43,
-                "pessoasPorDia": 2.04,
+                "pessoasPorDia": 2.03,
                 "pessoasUltimos7dias": 17,
-                "quantidadeUltimos7dias": 18
+                "quantidadeUltimos7dias": 20
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 3943,
+                "impressoes": 11145
+            },
             "interacoes": {
-                "acao": [
-                    "3 - Contato",
-                    "17 - Instagram",
-                    "14 - Endereço no Maps",
-                    "87 - Cardápio",
-                    "1 - Chamar Motorista - 99",
-                    "6 - Horário",
-                    "3 - Compartilhar",
-                    "7 - Tour"
-                ]
+                "acao": {
+                    "maps": 15,
+                    "menu": 88,
+                    "tour": 7,
+                    "share": 3,
+                    "prices": 0,
+                    "contact": 3,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 17,
+                    "schedules": 6,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "140"
             },
             "qtdFavoritados": 2,
             "valorInvestido": null,
@@ -1234,18 +1575,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 2767,
+                "impressoes": 9732
+            },
             "interacoes": {
-                "acao": [
-                    "15 - Brinde Aniversário",
-                    "3 - Contato",
-                    "47 - Instagram",
-                    "12 - Endereço no Maps",
-                    "76 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "4 - Horário",
-                    "1 - Compartilhar",
-                    "9 - Tour"
-                ]
+                "acao": {
+                    "maps": 12,
+                    "menu": 76,
+                    "tour": 9,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 3,
+                    "website": 0,
+                    "birthday": 15,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 47,
+                    "schedules": 4,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "168"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1263,16 +1614,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 2761,
+                "impressoes": 7776
+            },
             "interacoes": {
-                "acao": [
-                    "18 - Brinde Aniversário",
-                    "2 - Contato",
-                    "57 - Instagram",
-                    "10 - Endereço no Maps",
-                    "1 - Chamar Motorista - Uber",
-                    "5 - Horário",
-                    "2 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 10,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 2,
+                    "website": 0,
+                    "birthday": 18,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 57,
+                    "schedules": 5,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "95"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1293,18 +1656,28 @@
                 "quantidade": 1,
                 "quantidadePessoas": 4
             },
+            "impressao": {
+                "pessoas": 5344,
+                "impressoes": 13299
+            },
             "interacoes": {
-                "acao": [
-                    "10 - Contato",
-                    "26 - Instagram",
-                    "13 - Endereço no Maps",
-                    "8 - Cardápio",
-                    "1 - Chamar Motorista - 99",
-                    "1 - Chamar Motorista - Uber",
-                    "20 - Horário",
-                    "3 - Compartilhar",
-                    "1 - Tour"
-                ]
+                "acao": {
+                    "maps": 13,
+                    "menu": 8,
+                    "tour": 1,
+                    "share": 3,
+                    "prices": 0,
+                    "contact": 10,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 2,
+                    "instagram": 26,
+                    "schedules": 20,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "83"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -1325,18 +1698,28 @@
                 "quantidade": 6,
                 "quantidadePessoas": 21
             },
+            "impressao": {
+                "pessoas": 3565,
+                "impressoes": 11867
+            },
             "interacoes": {
-                "acao": [
-                    "19 - Brinde Aniversário",
-                    "7 - Contato",
-                    "7 - Delivery",
-                    "1 - Delivery",
-                    "15 - Instagram",
-                    "15 - Endereço no Maps",
-                    "1 - Chamar Motorista - Uber",
-                    "6 - Horário",
-                    "2 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 15,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 7,
+                    "website": 0,
+                    "birthday": 19,
+                    "delivery": 8,
+                    "mobility": 1,
+                    "instagram": 15,
+                    "schedules": 6,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "73"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1354,16 +1737,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 494,
+                "impressoes": 799
+            },
             "interacoes": {
-                "acao": [
-                    "21 - Brinde Aniversário",
-                    "6 - Contato",
-                    "2 - Delivery",
-                    "27 - Instagram",
-                    "7 - Endereço no Maps",
-                    "3 - Horário",
-                    "2 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 7,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 6,
+                    "website": 0,
+                    "birthday": 21,
+                    "delivery": 2,
+                    "mobility": 0,
+                    "instagram": 27,
+                    "schedules": 3,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "68"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1381,18 +1776,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 5067,
+                "impressoes": 11791
+            },
             "interacoes": {
-                "acao": [
-                    "2 - Contato",
-                    "2 - Delivery",
-                    "40 - Instagram",
-                    "13 - Endereço no Maps",
-                    "41 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "4 - Horário",
-                    "2 - Compartilhar",
-                    "17 - Tour"
-                ]
+                "acao": {
+                    "maps": 13,
+                    "menu": 41,
+                    "tour": 17,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 2,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 2,
+                    "mobility": 1,
+                    "instagram": 40,
+                    "schedules": 4,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "122"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1410,14 +1815,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 4684,
+                "impressoes": 10324
+            },
             "interacoes": {
-                "acao": [
-                    "2 - Contato",
-                    "1 - Delivery",
-                    "33 - Instagram",
-                    "2 - Endereço no Maps",
-                    "10 - Horário"
-                ]
+                "acao": {
+                    "maps": 2,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 2,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 1,
+                    "mobility": 0,
+                    "instagram": 33,
+                    "schedules": 10,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "48"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1427,11 +1846,11 @@
             "cliques": {
                 "pessoas": 153,
                 "diasAtivos": 59,
-                "quantidade": 229,
-                "cliquesPorDia": 8.18,
-                "pessoasPorDia": 5.46,
+                "quantidade": 230,
+                "cliquesPorDia": 7.93,
+                "pessoasPorDia": 5.28,
                 "pessoasUltimos7dias": 28,
-                "quantidadeUltimos7dias": 33
+                "quantidadeUltimos7dias": 34
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1441,20 +1860,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1857,
+                "impressoes": 5120
+            },
             "interacoes": {
-                "acao": [
-                    "16 - Brinde Aniversário",
-                    "3 - Contato",
-                    "4 - Delivery",
-                    "11 - Instagram",
-                    "5 - Endereço no Maps",
-                    "41 - Cardápio",
-                    "1 - Chamar Motorista - Uber",
-                    "7 - Horário",
-                    "3 - Compartilhar",
-                    "4 - Tour",
-                    "2 - Site"
-                ]
+                "acao": {
+                    "maps": 5,
+                    "menu": 42,
+                    "tour": 4,
+                    "share": 3,
+                    "prices": 0,
+                    "contact": 3,
+                    "website": 2,
+                    "birthday": 16,
+                    "delivery": 4,
+                    "mobility": 1,
+                    "instagram": 11,
+                    "schedules": 7,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "98"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1475,16 +1902,28 @@
                 "quantidade": 1,
                 "quantidadePessoas": 5
             },
+            "impressao": {
+                "pessoas": 1939,
+                "impressoes": 4831
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Contato",
-                    "28 - Instagram",
-                    "13 - Endereço no Maps",
-                    "2 - Cardápio",
-                    "2 - Horário",
-                    "1 - Compartilhar",
-                    "6 - Tour"
-                ]
+                "acao": {
+                    "maps": 13,
+                    "menu": 2,
+                    "tour": 6,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 28,
+                    "schedules": 2,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "53"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -1508,15 +1947,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 2070,
+                "impressoes": 5826
+            },
             "interacoes": {
-                "acao": [
-                    "12 - Brinde Aniversário",
-                    "1 - Delivery",
-                    "15 - Instagram",
-                    "10 - Endereço no Maps",
-                    "23 - Cardápio",
-                    "4 - Horário"
-                ]
+                "acao": {
+                    "maps": 10,
+                    "menu": 23,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 12,
+                    "delivery": 1,
+                    "mobility": 0,
+                    "instagram": 15,
+                    "schedules": 4,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "65"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1541,16 +1993,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 2074,
+                "impressoes": 4866
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Contato",
-                    "1 - Delivery",
-                    "26 - Instagram",
-                    "3 - Endereço no Maps",
-                    "48 - Cardápio",
-                    "4 - Horário",
-                    "1 - Tour"
-                ]
+                "acao": {
+                    "maps": 3,
+                    "menu": 48,
+                    "tour": 1,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 1,
+                    "mobility": 0,
+                    "instagram": 26,
+                    "schedules": 4,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "84"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -1558,23 +2022,38 @@
         },
         {
             "cliques": {
-                "pessoas": 96,
+                "pessoas": 97,
                 "diasAtivos": 101,
-                "quantidade": 120,
+                "quantidade": 121,
                 "cliquesPorDia": 1.20,
                 "pessoasPorDia": 0.96,
-                "pessoasUltimos7dias": 5,
-                "quantidadeUltimos7dias": 5
+                "pessoasUltimos7dias": 6,
+                "quantidadeUltimos7dias": 6
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 2071,
+                "impressoes": 5300
+            },
             "interacoes": {
-                "acao": [
-                    "35 - Instagram",
-                    "11 - Endereço no Maps",
-                    "9 - Horário",
-                    "1 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 11,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 35,
+                    "schedules": 9,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "56"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1598,14 +2077,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 2465,
+                "impressoes": 5641
+            },
             "interacoes": {
-                "acao": [
-                    "8 - Instagram",
-                    "7 - Endereço no Maps",
-                    "39 - Cardápio",
-                    "5 - Horário",
-                    "1 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 7,
+                    "menu": 39,
+                    "tour": 0,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 8,
+                    "schedules": 5,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "60"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1629,14 +2122,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 3470,
+                "impressoes": 8121
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Contato",
-                    "22 - Instagram",
-                    "5 - Endereço no Maps",
-                    "3 - Horário",
-                    "1 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 5,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 22,
+                    "schedules": 3,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "32"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1645,29 +2152,41 @@
         {
             "cliques": {
                 "pessoas": 77,
-                "diasAtivos": 156,
-                "quantidade": 105,
-                "cliquesPorDia": 0.70,
-                "pessoasPorDia": 0.51,
-                "pessoasUltimos7dias": 1,
-                "quantidadeUltimos7dias": 1
+                "diasAtivos": 74,
+                "quantidade": 104,
+                "cliquesPorDia": 4.52,
+                "pessoasPorDia": 3.35,
+                "pessoasUltimos7dias": 13,
+                "quantidadeUltimos7dias": 15
             },
             "reviews": null,
-            "reservas": {
-                "quantidade": 1,
-                "quantidadePessoas": 4
+            "reservas": null,
+            "impressao": {
+                "pessoas": 1588,
+                "impressoes": 4073
             },
             "interacoes": {
-                "acao": [
-                    "1 - Contato",
-                    "19 - Instagram",
-                    "4 - Endereço no Maps",
-                    "2 - Horário"
-                ]
+                "acao": {
+                    "maps": 5,
+                    "menu": 9,
+                    "tour": 1,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 6,
+                    "schedules": 5,
+                    "callToAction": 3,
+                    "table_booking": 0
+                },
+                "total": "30"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
-            "estabelecimento": "Steak By Paulo Matos"
+            "estabelecimento": "Otto Gastro Bar"
         },
         {
             "cliques": {
@@ -1688,16 +2207,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1851,
+                "impressoes": 4136
+            },
             "interacoes": {
-                "acao": [
-                    "9 - Brinde Aniversário",
-                    "2 - Contato",
-                    "21 - Instagram",
-                    "11 - Endereço no Maps",
-                    "24 - Cardápio",
-                    "4 - Horário",
-                    "4 - Tour"
-                ]
+                "acao": {
+                    "maps": 11,
+                    "menu": 24,
+                    "tour": 4,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 2,
+                    "website": 0,
+                    "birthday": 9,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 21,
+                    "schedules": 4,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "75"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1706,30 +2237,44 @@
         {
             "cliques": {
                 "pessoas": 77,
-                "diasAtivos": 74,
-                "quantidade": 104,
-                "cliquesPorDia": 4.52,
-                "pessoasPorDia": 3.35,
-                "pessoasUltimos7dias": 13,
-                "quantidadeUltimos7dias": 15
+                "diasAtivos": 156,
+                "quantidade": 105,
+                "cliquesPorDia": 0.70,
+                "pessoasPorDia": 0.51,
+                "pessoasUltimos7dias": 1,
+                "quantidadeUltimos7dias": 1
             },
             "reviews": null,
-            "reservas": null,
+            "reservas": {
+                "quantidade": 1,
+                "quantidadePessoas": 4
+            },
+            "impressao": {
+                "pessoas": 3235,
+                "impressoes": 7538
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Botão de ação Participar do sorteio",
-                    "2 - Botão de ação Reserve Sua mesa Aqui!",
-                    "1 - Contato",
-                    "6 - Instagram",
-                    "5 - Endereço no Maps",
-                    "9 - Cardápio",
-                    "5 - Horário",
-                    "1 - Tour"
-                ]
+                "acao": {
+                    "maps": 4,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 19,
+                    "schedules": 2,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "26"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
-            "estabelecimento": "Otto Gastro Bar"
+            "estabelecimento": "Steak By Paulo Matos"
         },
         {
             "cliques": {
@@ -1749,17 +2294,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 923,
+                "impressoes": 2164
+            },
             "interacoes": {
-                "acao": [
-                    "4 - Brinde Aniversário",
-                    "2 - Contato",
-                    "1 - Delivery",
-                    "13 - Instagram",
-                    "2 - Endereço no Maps",
-                    "5 - Horário",
-                    "1 - Compartilhar",
-                    "10 - Tour"
-                ]
+                "acao": {
+                    "maps": 2,
+                    "menu": 0,
+                    "tour": 10,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 2,
+                    "website": 0,
+                    "birthday": 4,
+                    "delivery": 1,
+                    "mobility": 0,
+                    "instagram": 13,
+                    "schedules": 5,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "38"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -1783,16 +2339,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1310,
+                "impressoes": 3450
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Delivery",
-                    "4 - Instagram",
-                    "3 - Endereço no Maps",
-                    "20 - Cardápio",
-                    "1 - Horário",
-                    "1 - Compartilhar",
-                    "2 - Tour"
-                ]
+                "acao": {
+                    "maps": 3,
+                    "menu": 20,
+                    "tour": 2,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 1,
+                    "mobility": 0,
+                    "instagram": 4,
+                    "schedules": 1,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "32"
             },
             "qtdFavoritados": 2,
             "valorInvestido": null,
@@ -1816,15 +2384,28 @@
                 ]
             },
             "reservas": null,
+            "impressao": {
+                "pessoas": 1714,
+                "impressoes": 3922
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Contato",
-                    "3 - Instagram",
-                    "4 - Endereço no Maps",
-                    "22 - Cardápio",
-                    "5 - Horário",
-                    "2 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 4,
+                    "menu": 22,
+                    "tour": 0,
+                    "share": 2,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 3,
+                    "schedules": 5,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "37"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1842,15 +2423,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 1130,
+                "impressoes": 2657
+            },
             "interacoes": {
-                "acao": [
-                    "4 - Brinde Aniversário",
-                    "2 - Contato",
-                    "18 - Instagram",
-                    "1 - Endereço no Maps",
-                    "2 - Horário",
-                    "2 - Tour"
-                ]
+                "acao": {
+                    "maps": 1,
+                    "menu": 0,
+                    "tour": 2,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 2,
+                    "website": 0,
+                    "birthday": 4,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 18,
+                    "schedules": 2,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "29"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1868,14 +2462,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 1234,
+                "impressoes": 2668
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Contato",
-                    "2 - Instagram",
-                    "1 - Endereço no Maps",
-                    "3 - Horário",
-                    "1 - Tour"
-                ]
+                "acao": {
+                    "maps": 1,
+                    "menu": 0,
+                    "tour": 1,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 2,
+                    "schedules": 3,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "8"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -1893,10 +2501,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 367,
+                "impressoes": 599
+            },
             "interacoes": {
-                "acao": [
-                    "10 - Cardápio"
-                ]
+                "acao": {
+                    "maps": 0,
+                    "menu": 10,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 0,
+                    "schedules": 0,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "10"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1914,12 +2540,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 749,
+                "impressoes": 1295
+            },
             "interacoes": {
-                "acao": [
-                    "2 - Instagram",
-                    "2 - Endereço no Maps",
-                    "1 - Horário"
-                ]
+                "acao": {
+                    "maps": 2,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 2,
+                    "schedules": 1,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "5"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1937,13 +2579,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 636,
+                "impressoes": 1145
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Delivery",
-                    "1 - Instagram",
-                    "1 - Compartilhar",
-                    "1 - Tour"
-                ]
+                "acao": {
+                    "maps": 0,
+                    "menu": 0,
+                    "tour": 1,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 1,
+                    "mobility": 0,
+                    "instagram": 1,
+                    "schedules": 0,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "4"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1961,13 +2618,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 335,
+                "impressoes": 664
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Contato",
-                    "1 - Instagram",
-                    "6 - Cardápio",
-                    "2 - Horário"
-                ]
+                "acao": {
+                    "maps": 0,
+                    "menu": 6,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 1,
+                    "schedules": 2,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "10"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -1985,11 +2657,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 181,
+                "impressoes": 282
+            },
             "interacoes": {
-                "acao": [
-                    "2 - Instagram",
-                    "1 - Endereço no Maps"
-                ]
+                "acao": {
+                    "maps": 1,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 2,
+                    "schedules": 0,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "3"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2007,6 +2696,10 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 237,
+                "impressoes": 360
+            },
             "interacoes": null,
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2024,10 +2717,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 201,
+                "impressoes": 303
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Compartilhar"
-                ]
+                "acao": {
+                    "maps": 0,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 0,
+                    "schedules": 0,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "1"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2045,12 +2756,28 @@
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 74,
+                "impressoes": 116
+            },
             "interacoes": {
-                "acao": [
-                    "1 - Endereço no Maps",
-                    "6 - Cardápio",
-                    "1 - Horário"
-                ]
+                "acao": {
+                    "maps": 1,
+                    "menu": 6,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 0,
+                    "schedules": 1,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "8"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2060,23 +2787,36 @@
             "cliques": {
                 "pessoas": 2,
                 "diasAtivos": 2,
-                "quantidade": 19,
-                "cliquesPorDia": 9.50,
+                "quantidade": 22,
+                "cliquesPorDia": 11.00,
                 "pessoasPorDia": 1.00,
                 "pessoasUltimos7dias": 2,
-                "quantidadeUltimos7dias": 19
+                "quantidadeUltimos7dias": 22
             },
             "reviews": null,
             "reservas": null,
+            "impressao": {
+                "pessoas": 59,
+                "impressoes": 102
+            },
             "interacoes": {
-                "acao": [
-                    "4 - Brinde Aniversário",
-                    "1 - Contato",
-                    "4 - Instagram",
-                    "3 - Horário",
-                    "1 - Compartilhar",
-                    "2 - Tour"
-                ]
+                "acao": {
+                    "maps": 0,
+                    "menu": 1,
+                    "tour": 3,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 5,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 4,
+                    "schedules": 3,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "19"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
