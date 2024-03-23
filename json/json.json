@@ -1,45 +1,45 @@
 {
     "main": {
         "regiao": "florianopolis",
-        "acessos": 58018,
-        "downloads": 15763,
+        "acessos": 58178,
+        "downloads": 15794,
         "acessosUltimos7Dias": {
             "dia": {
-                "0 - Friday   ": 73,
-                "1 - Thursday ": 158,
-                "2 - Wednesday": 173,
-                "3 - Tuesday  ": 137,
-                "4 - Monday   ": 117,
-                "5 - Sunday   ": 187,
-                "6 - Saturday ": 212,
-                "7 - Friday   ": 176
+                "0 - Saturday ": 15,
+                "1 - Friday   ": 218,
+                "2 - Thursday ": 158,
+                "3 - Wednesday": 173,
+                "4 - Tuesday  ": 137,
+                "5 - Monday   ": 117,
+                "6 - Sunday   ": 187,
+                "7 - Saturday ": 212
             },
-            "quantidade": 1233
+            "quantidade": 1217
         },
         "downloadsUltimos7Dias": {
             "dia": {
-                "0 - Friday   ": 1,
-                "1 - Thursday ": 8,
-                "2 - Wednesday": 7,
-                "3 - Tuesday  ": 9,
-                "4 - Monday   ": 17,
-                "5 - Sunday   ": 14,
-                "6 - Saturday ": 16,
-                "7 - Friday   ": 21
+                "0 - Saturday ": 0,
+                "1 - Friday   ": 10,
+                "2 - Thursday ": 11,
+                "3 - Wednesday": 8,
+                "4 - Tuesday  ": 9,
+                "5 - Monday   ": 17,
+                "6 - Sunday   ": 14,
+                "7 - Saturday ": 16
             },
-            "quantidade": 93
+            "quantidade": 85
         }
     },
     "estabelecimento": [
         {
             "cliques": {
-                "pessoas": 1968,
-                "diasAtivos": 281,
-                "quantidade": 2903,
-                "cliquesPorDia": 10.26,
-                "pessoasPorDia": 6.95,
-                "pessoasUltimos7dias": 24,
-                "quantidadeUltimos7dias": 27
+                "pessoas": 1970,
+                "diasAtivos": 282,
+                "quantidade": 2905,
+                "cliquesPorDia": 10.27,
+                "pessoasPorDia": 6.96,
+                "pessoasUltimos7dias": 20,
+                "quantidadeUltimos7dias": 22
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -54,8 +54,8 @@
                 "quantidadePessoas": 2
             },
             "impressao": {
-                "pessoas": 9817,
-                "impressoes": 39241
+                "pessoas": 9842,
+                "impressoes": 39343
             },
             "interacoes": {
                 "acao": {
@@ -82,13 +82,13 @@
         },
         {
             "cliques": {
-                "pessoas": 1497,
-                "diasAtivos": 269,
-                "quantidade": 2297,
-                "cliquesPorDia": 9.19,
-                "pessoasPorDia": 5.99,
-                "pessoasUltimos7dias": 18,
-                "quantidadeUltimos7dias": 19
+                "pessoas": 1500,
+                "diasAtivos": 270,
+                "quantidade": 2300,
+                "cliquesPorDia": 9.13,
+                "pessoasPorDia": 5.95,
+                "pessoasUltimos7dias": 16,
+                "quantidadeUltimos7dias": 16
             },
             "reviews": {
                 "estrelas": 4.80,
@@ -106,13 +106,13 @@
                 "quantidadePessoas": 6
             },
             "impressao": {
-                "pessoas": 10502,
-                "impressoes": 44191
+                "pessoas": 10533,
+                "impressoes": 44338
             },
             "interacoes": {
                 "acao": {
                     "maps": 159,
-                    "menu": 191,
+                    "menu": 193,
                     "tour": 0,
                     "share": 17,
                     "prices": 0,
@@ -126,7 +126,7 @@
                     "callToAction": 50,
                     "table_booking": 0
                 },
-                "total": "875"
+                "total": "877"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -134,13 +134,13 @@
         },
         {
             "cliques": {
-                "pessoas": 1466,
-                "diasAtivos": 228,
-                "quantidade": 2273,
-                "cliquesPorDia": 9.97,
-                "pessoasPorDia": 6.43,
-                "pessoasUltimos7dias": 43,
-                "quantidadeUltimos7dias": 54
+                "pessoas": 1468,
+                "diasAtivos": 229,
+                "quantidade": 2278,
+                "cliquesPorDia": 9.99,
+                "pessoasPorDia": 6.44,
+                "pessoasUltimos7dias": 35,
+                "quantidadeUltimos7dias": 46
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -154,13 +154,13 @@
                 "quantidadePessoas": 37
             },
             "impressao": {
-                "pessoas": 10749,
-                "impressoes": 57253
+                "pessoas": 10779,
+                "impressoes": 57388
             },
             "interacoes": {
                 "acao": {
                     "maps": 76,
-                    "menu": 376,
+                    "menu": 377,
                     "tour": 59,
                     "share": 10,
                     "prices": 0,
@@ -169,12 +169,12 @@
                     "birthday": 0,
                     "delivery": 13,
                     "mobility": 20,
-                    "instagram": 182,
+                    "instagram": 184,
                     "schedules": 37,
                     "callToAction": 44,
                     "table_booking": 0
                 },
-                "total": "842"
+                "total": "845"
             },
             "qtdFavoritados": 4,
             "valorInvestido": null,
@@ -182,13 +182,13 @@
         },
         {
             "cliques": {
-                "pessoas": 1312,
-                "diasAtivos": 255,
-                "quantidade": 1984,
-                "cliquesPorDia": 7.87,
-                "pessoasPorDia": 5.21,
-                "pessoasUltimos7dias": 18,
-                "quantidadeUltimos7dias": 22
+                "pessoas": 1314,
+                "diasAtivos": 256,
+                "quantidade": 1986,
+                "cliquesPorDia": 7.79,
+                "pessoasPorDia": 5.15,
+                "pessoasUltimos7dias": 15,
+                "quantidadeUltimos7dias": 19
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -207,13 +207,13 @@
                 "quantidadePessoas": 12
             },
             "impressao": {
-                "pessoas": 9743,
-                "impressoes": 39998
+                "pessoas": 9768,
+                "impressoes": 40108
             },
             "interacoes": {
                 "acao": {
                     "maps": 79,
-                    "menu": 402,
+                    "menu": 403,
                     "tour": 67,
                     "share": 6,
                     "prices": 0,
@@ -227,7 +227,7 @@
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "941"
+                "total": "942"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -235,13 +235,13 @@
         },
         {
             "cliques": {
-                "pessoas": 1285,
-                "diasAtivos": 281,
-                "quantidade": 1885,
-                "cliquesPorDia": 6.66,
-                "pessoasPorDia": 4.54,
-                "pessoasUltimos7dias": 24,
-                "quantidadeUltimos7dias": 26
+                "pessoas": 1287,
+                "diasAtivos": 282,
+                "quantidade": 1887,
+                "cliquesPorDia": 6.67,
+                "pessoasPorDia": 4.55,
+                "pessoasUltimos7dias": 23,
+                "quantidadeUltimos7dias": 25
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -257,8 +257,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 9936,
-                "impressoes": 41288
+                "pessoas": 9961,
+                "impressoes": 41442
             },
             "interacoes": {
                 "acao": {
@@ -272,26 +272,26 @@
                     "birthday": 0,
                     "delivery": 7,
                     "mobility": 5,
-                    "instagram": 287,
+                    "instagram": 289,
                     "schedules": 24,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "702"
+                "total": "704"
             },
-            "qtdFavoritados": 0,
+            "qtdFavoritados": 1,
             "valorInvestido": null,
             "estabelecimento": "Bar das Fábricas"
         },
         {
             "cliques": {
-                "pessoas": 1209,
-                "diasAtivos": 281,
-                "quantidade": 1726,
-                "cliquesPorDia": 7.34,
-                "pessoasPorDia": 5.14,
-                "pessoasUltimos7dias": 41,
-                "quantidadeUltimos7dias": 47
+                "pessoas": 1214,
+                "diasAtivos": 282,
+                "quantidade": 1733,
+                "cliquesPorDia": 7.37,
+                "pessoasPorDia": 5.17,
+                "pessoasUltimos7dias": 39,
+                "quantidadeUltimos7dias": 42
             },
             "reviews": null,
             "reservas": {
@@ -299,13 +299,13 @@
                 "quantidadePessoas": 2
             },
             "impressao": {
-                "pessoas": 10616,
-                "impressoes": 44899
+                "pessoas": 10645,
+                "impressoes": 45065
             },
             "interacoes": {
                 "acao": {
                     "maps": 58,
-                    "menu": 205,
+                    "menu": 206,
                     "tour": 0,
                     "share": 9,
                     "prices": 0,
@@ -314,12 +314,12 @@
                     "birthday": 0,
                     "delivery": 4,
                     "mobility": 7,
-                    "instagram": 148,
+                    "instagram": 151,
                     "schedules": 28,
                     "callToAction": 26,
                     "table_booking": 0
                 },
-                "total": "509"
+                "total": "513"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -327,24 +327,24 @@
         },
         {
             "cliques": {
-                "pessoas": 1181,
-                "diasAtivos": 281,
-                "quantidade": 1615,
-                "cliquesPorDia": 5.73,
-                "pessoasPorDia": 4.19,
-                "pessoasUltimos7dias": 23,
-                "quantidadeUltimos7dias": 26
+                "pessoas": 1183,
+                "diasAtivos": 282,
+                "quantidade": 1617,
+                "cliquesPorDia": 5.71,
+                "pessoasPorDia": 4.18,
+                "pessoasUltimos7dias": 20,
+                "quantidadeUltimos7dias": 22
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 10094,
-                "impressoes": 40356
+                "pessoas": 10120,
+                "impressoes": 40482
             },
             "interacoes": {
                 "acao": {
                     "maps": 45,
-                    "menu": 304,
+                    "menu": 305,
                     "tour": 0,
                     "share": 3,
                     "prices": 0,
@@ -358,7 +358,7 @@
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "584"
+                "total": "585"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -366,12 +366,12 @@
         },
         {
             "cliques": {
-                "pessoas": 1129,
-                "diasAtivos": 268,
-                "quantidade": 1608,
-                "cliquesPorDia": 6.93,
-                "pessoasPorDia": 4.87,
-                "pessoasUltimos7dias": 28,
+                "pessoas": 1134,
+                "diasAtivos": 269,
+                "quantidade": 1614,
+                "cliquesPorDia": 6.96,
+                "pessoasPorDia": 4.89,
+                "pessoasUltimos7dias": 27,
                 "quantidadeUltimos7dias": 29
             },
             "reviews": {
@@ -383,13 +383,13 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 10519,
-                "impressoes": 42431
+                "pessoas": 10550,
+                "impressoes": 42591
             },
             "interacoes": {
                 "acao": {
                     "maps": 124,
-                    "menu": 259,
+                    "menu": 260,
                     "tour": 0,
                     "share": 8,
                     "prices": 0,
@@ -398,12 +398,12 @@
                     "birthday": 121,
                     "delivery": 0,
                     "mobility": 6,
-                    "instagram": 225,
+                    "instagram": 226,
                     "schedules": 31,
                     "callToAction": 22,
                     "table_booking": 0
                 },
-                "total": "800"
+                "total": "802"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -411,13 +411,13 @@
         },
         {
             "cliques": {
-                "pessoas": 992,
-                "diasAtivos": 273,
-                "quantidade": 1427,
-                "cliquesPorDia": 5.23,
-                "pessoasPorDia": 3.63,
-                "pessoasUltimos7dias": 26,
-                "quantidadeUltimos7dias": 29
+                "pessoas": 1001,
+                "diasAtivos": 274,
+                "quantidade": 1439,
+                "cliquesPorDia": 5.25,
+                "pessoasPorDia": 3.65,
+                "pessoasUltimos7dias": 27,
+                "quantidadeUltimos7dias": 31
             },
             "reviews": null,
             "reservas": {
@@ -425,13 +425,13 @@
                 "quantidadePessoas": 12
             },
             "impressao": {
-                "pessoas": 9354,
-                "impressoes": 33258
+                "pessoas": 9395,
+                "impressoes": 33466
             },
             "interacoes": {
                 "acao": {
                     "maps": 60,
-                    "menu": 257,
+                    "menu": 260,
                     "tour": 0,
                     "share": 8,
                     "prices": 0,
@@ -440,12 +440,12 @@
                     "birthday": 0,
                     "delivery": 7,
                     "mobility": 5,
-                    "instagram": 87,
+                    "instagram": 89,
                     "schedules": 20,
                     "callToAction": 49,
                     "table_booking": 0
                 },
-                "total": "511"
+                "total": "516"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -453,13 +453,13 @@
         },
         {
             "cliques": {
-                "pessoas": 956,
-                "diasAtivos": 281,
-                "quantidade": 1268,
-                "cliquesPorDia": 4.50,
-                "pessoasPorDia": 3.39,
-                "pessoasUltimos7dias": 20,
-                "quantidadeUltimos7dias": 22
+                "pessoas": 960,
+                "diasAtivos": 282,
+                "quantidade": 1272,
+                "cliquesPorDia": 4.48,
+                "pessoasPorDia": 3.38,
+                "pessoasUltimos7dias": 23,
+                "quantidadeUltimos7dias": 25
             },
             "reviews": {
                 "estrelas": 4.67,
@@ -475,13 +475,13 @@
                 "quantidadePessoas": 8
             },
             "impressao": {
-                "pessoas": 9570,
-                "impressoes": 33111
+                "pessoas": 9595,
+                "impressoes": 33238
             },
             "interacoes": {
                 "acao": {
                     "maps": 28,
-                    "menu": 280,
+                    "menu": 282,
                     "tour": 30,
                     "share": 7,
                     "prices": 0,
@@ -495,7 +495,7 @@
                     "callToAction": 1,
                     "table_booking": 0
                 },
-                "total": "719"
+                "total": "721"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -503,13 +503,13 @@
         },
         {
             "cliques": {
-                "pessoas": 908,
-                "diasAtivos": 281,
-                "quantidade": 1192,
-                "cliquesPorDia": 4.21,
-                "pessoasPorDia": 3.21,
-                "pessoasUltimos7dias": 21,
-                "quantidadeUltimos7dias": 21
+                "pessoas": 911,
+                "diasAtivos": 282,
+                "quantidade": 1195,
+                "cliquesPorDia": 4.22,
+                "pessoasPorDia": 3.22,
+                "pessoasUltimos7dias": 22,
+                "quantidadeUltimos7dias": 22
             },
             "reviews": null,
             "reservas": {
@@ -517,13 +517,13 @@
                 "quantidadePessoas": 10
             },
             "impressao": {
-                "pessoas": 10298,
-                "impressoes": 38947
+                "pessoas": 10330,
+                "impressoes": 39064
             },
             "interacoes": {
                 "acao": {
                     "maps": 35,
-                    "menu": 410,
+                    "menu": 412,
                     "tour": 0,
                     "share": 7,
                     "prices": 0,
@@ -537,7 +537,7 @@
                     "callToAction": 15,
                     "table_booking": 0
                 },
-                "total": "605"
+                "total": "607"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -545,19 +545,19 @@
         },
         {
             "cliques": {
-                "pessoas": 903,
-                "diasAtivos": 281,
-                "quantidade": 1145,
+                "pessoas": 906,
+                "diasAtivos": 282,
+                "quantidade": 1149,
                 "cliquesPorDia": 4.09,
-                "pessoasPorDia": 3.23,
+                "pessoasPorDia": 3.22,
                 "pessoasUltimos7dias": 17,
-                "quantidadeUltimos7dias": 17
+                "quantidadeUltimos7dias": 18
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 5713,
-                "impressoes": 17153
+                "pessoas": 5733,
+                "impressoes": 17210
             },
             "interacoes": {
                 "acao": {
@@ -571,12 +571,12 @@
                     "birthday": 0,
                     "delivery": 0,
                     "mobility": 4,
-                    "instagram": 77,
+                    "instagram": 78,
                     "schedules": 35,
                     "callToAction": 17,
                     "table_booking": 0
                 },
-                "total": "488"
+                "total": "489"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -584,13 +584,13 @@
         },
         {
             "cliques": {
-                "pessoas": 841,
-                "diasAtivos": 195,
-                "quantidade": 1304,
-                "cliquesPorDia": 6.69,
-                "pessoasPorDia": 4.31,
+                "pessoas": 845,
+                "diasAtivos": 196,
+                "quantidade": 1309,
+                "cliquesPorDia": 6.71,
+                "pessoasPorDia": 4.33,
                 "pessoasUltimos7dias": 25,
-                "quantidadeUltimos7dias": 40
+                "quantidadeUltimos7dias": 39
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -605,8 +605,8 @@
                 "quantidadePessoas": 17
             },
             "impressao": {
-                "pessoas": 8539,
-                "impressoes": 36203
+                "pessoas": 8573,
+                "impressoes": 36352
             },
             "interacoes": {
                 "acao": {
@@ -617,15 +617,15 @@
                     "prices": 0,
                     "contact": 14,
                     "website": 49,
-                    "birthday": 67,
+                    "birthday": 68,
                     "delivery": 9,
                     "mobility": 4,
-                    "instagram": 238,
+                    "instagram": 239,
                     "schedules": 24,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "515"
+                "total": "517"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -633,13 +633,13 @@
         },
         {
             "cliques": {
-                "pessoas": 775,
-                "diasAtivos": 220,
-                "quantidade": 1029,
-                "cliquesPorDia": 4.51,
-                "pessoasPorDia": 3.40,
-                "pessoasUltimos7dias": 27,
-                "quantidadeUltimos7dias": 29
+                "pessoas": 778,
+                "diasAtivos": 221,
+                "quantidade": 1032,
+                "cliquesPorDia": 4.53,
+                "pessoasPorDia": 3.41,
+                "pessoasUltimos7dias": 25,
+                "quantidadeUltimos7dias": 27
             },
             "reviews": null,
             "reservas": {
@@ -647,13 +647,13 @@
                 "quantidadePessoas": 4
             },
             "impressao": {
-                "pessoas": 9539,
-                "impressoes": 35913
+                "pessoas": 9568,
+                "impressoes": 36056
             },
             "interacoes": {
                 "acao": {
                     "maps": 38,
-                    "menu": 188,
+                    "menu": 189,
                     "tour": 0,
                     "share": 5,
                     "prices": 0,
@@ -667,7 +667,7 @@
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "362"
+                "total": "363"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -675,24 +675,24 @@
         },
         {
             "cliques": {
-                "pessoas": 760,
-                "diasAtivos": 281,
-                "quantidade": 995,
-                "cliquesPorDia": 3.63,
-                "pessoasPorDia": 2.77,
+                "pessoas": 763,
+                "diasAtivos": 282,
+                "quantidade": 998,
+                "cliquesPorDia": 3.62,
+                "pessoasPorDia": 2.76,
                 "pessoasUltimos7dias": 13,
                 "quantidadeUltimos7dias": 15
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 9601,
-                "impressoes": 32594
+                "pessoas": 9634,
+                "impressoes": 32705
             },
             "interacoes": {
                 "acao": {
                     "maps": 23,
-                    "menu": 190,
+                    "menu": 192,
                     "tour": 25,
                     "share": 4,
                     "prices": 0,
@@ -701,12 +701,12 @@
                     "birthday": 83,
                     "delivery": 0,
                     "mobility": 1,
-                    "instagram": 58,
+                    "instagram": 59,
                     "schedules": 8,
                     "callToAction": 57,
                     "table_booking": 0
                 },
-                "total": "467"
+                "total": "470"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -714,19 +714,19 @@
         },
         {
             "cliques": {
-                "pessoas": 742,
-                "diasAtivos": 281,
-                "quantidade": 1011,
-                "cliquesPorDia": 1011.00,
-                "pessoasPorDia": 742.00,
-                "pessoasUltimos7dias": 14,
-                "quantidadeUltimos7dias": 17
+                "pessoas": 744,
+                "diasAtivos": 282,
+                "quantidade": 1013,
+                "cliquesPorDia": 506.50,
+                "pessoasPorDia": 372.00,
+                "pessoasUltimos7dias": 13,
+                "quantidadeUltimos7dias": 16
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 2970,
-                "impressoes": 7726
+                "pessoas": 3012,
+                "impressoes": 7861
             },
             "interacoes": {
                 "acao": {
@@ -753,13 +753,13 @@
         },
         {
             "cliques": {
-                "pessoas": 729,
-                "diasAtivos": 205,
-                "quantidade": 1015,
+                "pessoas": 730,
+                "diasAtivos": 206,
+                "quantidade": 1016,
                 "cliquesPorDia": 5.13,
-                "pessoasPorDia": 3.68,
-                "pessoasUltimos7dias": 15,
-                "quantidadeUltimos7dias": 19
+                "pessoasPorDia": 3.69,
+                "pessoasUltimos7dias": 12,
+                "quantidadeUltimos7dias": 16
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -773,8 +773,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 8339,
-                "impressoes": 33359
+                "pessoas": 8361,
+                "impressoes": 33458
             },
             "interacoes": {
                 "acao": {
@@ -801,13 +801,13 @@
         },
         {
             "cliques": {
-                "pessoas": 659,
-                "diasAtivos": 281,
-                "quantidade": 874,
-                "cliquesPorDia": 54.63,
-                "pessoasPorDia": 41.19,
-                "pessoasUltimos7dias": 22,
-                "quantidadeUltimos7dias": 30
+                "pessoas": 664,
+                "diasAtivos": 282,
+                "quantidade": 883,
+                "cliquesPorDia": 51.94,
+                "pessoasPorDia": 39.06,
+                "pessoasUltimos7dias": 25,
+                "quantidadeUltimos7dias": 35
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -822,13 +822,13 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 5697,
-                "impressoes": 15928
+                "pessoas": 5730,
+                "impressoes": 16055
             },
             "interacoes": {
                 "acao": {
                     "maps": 29,
-                    "menu": 222,
+                    "menu": 226,
                     "tour": 0,
                     "share": 5,
                     "prices": 60,
@@ -842,7 +842,7 @@
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "520"
+                "total": "524"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -850,13 +850,13 @@
         },
         {
             "cliques": {
-                "pessoas": 646,
-                "diasAtivos": 218,
-                "quantidade": 867,
-                "cliquesPorDia": 3.80,
-                "pessoasPorDia": 2.83,
-                "pessoasUltimos7dias": 23,
-                "quantidadeUltimos7dias": 27
+                "pessoas": 650,
+                "diasAtivos": 219,
+                "quantidade": 873,
+                "cliquesPorDia": 3.83,
+                "pessoasPorDia": 2.85,
+                "pessoasUltimos7dias": 25,
+                "quantidadeUltimos7dias": 31
             },
             "reviews": null,
             "reservas": {
@@ -864,13 +864,13 @@
                 "quantidadePessoas": 18
             },
             "impressao": {
-                "pessoas": 9310,
-                "impressoes": 33368
+                "pessoas": 9340,
+                "impressoes": 33491
             },
             "interacoes": {
                 "acao": {
                     "maps": 46,
-                    "menu": 181,
+                    "menu": 184,
                     "tour": 17,
                     "share": 5,
                     "prices": 0,
@@ -879,12 +879,12 @@
                     "birthday": 0,
                     "delivery": 4,
                     "mobility": 1,
-                    "instagram": 94,
+                    "instagram": 95,
                     "schedules": 9,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "363"
+                "total": "367"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -892,19 +892,19 @@
         },
         {
             "cliques": {
-                "pessoas": 611,
-                "diasAtivos": 157,
-                "quantidade": 819,
-                "cliquesPorDia": 5.25,
-                "pessoasPorDia": 3.92,
-                "pessoasUltimos7dias": 47,
-                "quantidadeUltimos7dias": 62
+                "pessoas": 619,
+                "diasAtivos": 158,
+                "quantidade": 829,
+                "cliquesPorDia": 5.28,
+                "pessoasPorDia": 3.94,
+                "pessoasUltimos7dias": 52,
+                "quantidadeUltimos7dias": 67
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 5852,
-                "impressoes": 20568
+                "pessoas": 5886,
+                "impressoes": 20703
             },
             "interacoes": {
                 "acao": {
@@ -915,7 +915,7 @@
                     "prices": 0,
                     "contact": 3,
                     "website": 0,
-                    "birthday": 1,
+                    "birthday": 2,
                     "delivery": 0,
                     "mobility": 4,
                     "instagram": 89,
@@ -923,7 +923,7 @@
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "296"
+                "total": "297"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
@@ -931,13 +931,13 @@
         },
         {
             "cliques": {
-                "pessoas": 598,
-                "diasAtivos": 281,
-                "quantidade": 809,
-                "cliquesPorDia": 2.99,
-                "pessoasPorDia": 2.21,
-                "pessoasUltimos7dias": 12,
-                "quantidadeUltimos7dias": 12
+                "pessoas": 601,
+                "diasAtivos": 282,
+                "quantidade": 812,
+                "cliquesPorDia": 2.97,
+                "pessoasPorDia": 2.20,
+                "pessoasUltimos7dias": 13,
+                "quantidadeUltimos7dias": 13
             },
             "reviews": {
                 "estrelas": 4.67,
@@ -950,8 +950,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 9656,
-                "impressoes": 33664
+                "pessoas": 9683,
+                "impressoes": 33813
             },
             "interacoes": {
                 "acao": {
@@ -965,12 +965,12 @@
                     "birthday": 0,
                     "delivery": 0,
                     "mobility": 1,
-                    "instagram": 102,
+                    "instagram": 104,
                     "schedules": 25,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "341"
+                "total": "343"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -979,7 +979,7 @@
         {
             "cliques": {
                 "pessoas": 594,
-                "diasAtivos": 281,
+                "diasAtivos": 282,
                 "quantidade": 731,
                 "cliquesPorDia": 2.63,
                 "pessoasPorDia": 2.14,
@@ -989,8 +989,8 @@
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 5092,
-                "impressoes": 12496
+                "pessoas": 5114,
+                "impressoes": 12536
             },
             "interacoes": {
                 "acao": {
@@ -1017,19 +1017,19 @@
         },
         {
             "cliques": {
-                "pessoas": 578,
-                "diasAtivos": 281,
-                "quantidade": 720,
+                "pessoas": 579,
+                "diasAtivos": 282,
+                "quantidade": 721,
                 "cliquesPorDia": 2.57,
                 "pessoasPorDia": 2.06,
-                "pessoasUltimos7dias": 7,
-                "quantidadeUltimos7dias": 7
+                "pessoasUltimos7dias": 8,
+                "quantidadeUltimos7dias": 8
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 7203,
-                "impressoes": 19183
+                "pessoas": 7223,
+                "impressoes": 19231
             },
             "interacoes": {
                 "acao": {
@@ -1056,13 +1056,13 @@
         },
         {
             "cliques": {
-                "pessoas": 553,
-                "diasAtivos": 281,
-                "quantidade": 736,
-                "cliquesPorDia": 2.62,
-                "pessoasPorDia": 1.97,
+                "pessoas": 556,
+                "diasAtivos": 282,
+                "quantidade": 739,
+                "cliquesPorDia": 2.61,
+                "pessoasPorDia": 1.96,
                 "pessoasUltimos7dias": 16,
-                "quantidadeUltimos7dias": 18
+                "quantidadeUltimos7dias": 17
             },
             "reviews": null,
             "reservas": {
@@ -1070,13 +1070,13 @@
                 "quantidadePessoas": 2
             },
             "impressao": {
-                "pessoas": 8569,
-                "impressoes": 27359
+                "pessoas": 8597,
+                "impressoes": 27491
             },
             "interacoes": {
                 "acao": {
                     "maps": 15,
-                    "menu": 212,
+                    "menu": 213,
                     "tour": 16,
                     "share": 2,
                     "prices": 0,
@@ -1085,12 +1085,12 @@
                     "birthday": 0,
                     "delivery": 2,
                     "mobility": 1,
-                    "instagram": 48,
+                    "instagram": 49,
                     "schedules": 14,
                     "callToAction": 6,
                     "table_booking": 0
                 },
-                "total": "326"
+                "total": "328"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1098,19 +1098,19 @@
         },
         {
             "cliques": {
-                "pessoas": 536,
-                "diasAtivos": 218,
-                "quantidade": 679,
+                "pessoas": 537,
+                "diasAtivos": 219,
+                "quantidade": 680,
                 "cliquesPorDia": 2.98,
-                "pessoasPorDia": 2.35,
-                "pessoasUltimos7dias": 27,
-                "quantidadeUltimos7dias": 30
+                "pessoasPorDia": 2.36,
+                "pessoasUltimos7dias": 26,
+                "quantidadeUltimos7dias": 29
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 9073,
-                "impressoes": 31099
+                "pessoas": 9102,
+                "impressoes": 31215
             },
             "interacoes": {
                 "acao": {
@@ -1137,13 +1137,13 @@
         },
         {
             "cliques": {
-                "pessoas": 498,
-                "diasAtivos": 281,
-                "quantidade": 597,
-                "cliquesPorDia": 8.18,
-                "pessoasPorDia": 6.82,
-                "pessoasUltimos7dias": 18,
-                "quantidadeUltimos7dias": 19
+                "pessoas": 501,
+                "diasAtivos": 282,
+                "quantidade": 600,
+                "cliquesPorDia": 8.22,
+                "pessoasPorDia": 6.86,
+                "pessoasUltimos7dias": 16,
+                "quantidadeUltimos7dias": 16
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1154,13 +1154,13 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 7961,
-                "impressoes": 22567
+                "pessoas": 7995,
+                "impressoes": 22689
             },
             "interacoes": {
                 "acao": {
                     "maps": 11,
-                    "menu": 105,
+                    "menu": 106,
                     "tour": 23,
                     "share": 1,
                     "prices": 0,
@@ -1169,12 +1169,12 @@
                     "birthday": 62,
                     "delivery": 0,
                     "mobility": 3,
-                    "instagram": 88,
+                    "instagram": 89,
                     "schedules": 11,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "316"
+                "total": "318"
             },
             "qtdFavoritados": 2,
             "valorInvestido": null,
@@ -1182,13 +1182,13 @@
         },
         {
             "cliques": {
-                "pessoas": 438,
-                "diasAtivos": 281,
-                "quantidade": 562,
-                "cliquesPorDia": 2.03,
-                "pessoasPorDia": 1.58,
-                "pessoasUltimos7dias": 11,
-                "quantidadeUltimos7dias": 12
+                "pessoas": 439,
+                "diasAtivos": 282,
+                "quantidade": 563,
+                "cliquesPorDia": 2.00,
+                "pessoasPorDia": 1.56,
+                "pessoasUltimos7dias": 8,
+                "quantidadeUltimos7dias": 9
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1199,8 +1199,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 3872,
-                "impressoes": 8820
+                "pessoas": 3893,
+                "impressoes": 8867
             },
             "interacoes": {
                 "acao": {
@@ -1228,21 +1228,21 @@
         {
             "cliques": {
                 "pessoas": 406,
-                "diasAtivos": 161,
-                "quantidade": 537,
-                "cliquesPorDia": 3.46,
-                "pessoasPorDia": 2.62,
-                "pessoasUltimos7dias": 17,
-                "quantidadeUltimos7dias": 19
+                "diasAtivos": 162,
+                "quantidade": 538,
+                "cliquesPorDia": 3.45,
+                "pessoasPorDia": 2.60,
+                "pessoasUltimos7dias": 13,
+                "quantidadeUltimos7dias": 15
             },
             "reviews": null,
             "reservas": {
-                "quantidade": 42,
-                "quantidadePessoas": 547
+                "quantidade": 43,
+                "quantidadePessoas": 559
             },
             "impressao": {
-                "pessoas": 5411,
-                "impressoes": 17881
+                "pessoas": 5433,
+                "impressoes": 17971
             },
             "interacoes": {
                 "acao": {
@@ -1269,13 +1269,13 @@
         },
         {
             "cliques": {
-                "pessoas": 391,
-                "diasAtivos": 193,
-                "quantidade": 526,
+                "pessoas": 394,
+                "diasAtivos": 194,
+                "quantidade": 530,
                 "cliquesPorDia": 2.75,
-                "pessoasPorDia": 2.05,
-                "pessoasUltimos7dias": 11,
-                "quantidadeUltimos7dias": 11
+                "pessoasPorDia": 2.04,
+                "pessoasUltimos7dias": 12,
+                "quantidadeUltimos7dias": 12
             },
             "reviews": null,
             "reservas": {
@@ -1283,8 +1283,8 @@
                 "quantidadePessoas": 9
             },
             "impressao": {
-                "pessoas": 7181,
-                "impressoes": 25306
+                "pessoas": 7206,
+                "impressoes": 25395
             },
             "interacoes": {
                 "acao": {
@@ -1295,15 +1295,15 @@
                     "prices": 0,
                     "contact": 17,
                     "website": 0,
-                    "birthday": 63,
+                    "birthday": 64,
                     "delivery": 6,
                     "mobility": 1,
-                    "instagram": 46,
+                    "instagram": 47,
                     "schedules": 13,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "192"
+                "total": "194"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1312,7 +1312,7 @@
         {
             "cliques": {
                 "pessoas": 391,
-                "diasAtivos": 243,
+                "diasAtivos": 244,
                 "quantidade": 444,
                 "cliquesPorDia": 1.85,
                 "pessoasPorDia": 1.63,
@@ -1329,8 +1329,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 7922,
-                "impressoes": 23898
+                "pessoas": 7942,
+                "impressoes": 23939
             },
             "interacoes": {
                 "acao": {
@@ -1357,13 +1357,13 @@
         },
         {
             "cliques": {
-                "pessoas": 344,
-                "diasAtivos": 156,
-                "quantidade": 426,
-                "cliquesPorDia": 2.73,
+                "pessoas": 345,
+                "diasAtivos": 157,
+                "quantidade": 427,
+                "cliquesPorDia": 2.74,
                 "pessoasPorDia": 2.21,
-                "pessoasUltimos7dias": 27,
-                "quantidadeUltimos7dias": 36
+                "pessoasUltimos7dias": 28,
+                "quantidadeUltimos7dias": 37
             },
             "reviews": null,
             "reservas": {
@@ -1371,8 +1371,8 @@
                 "quantidadePessoas": 20
             },
             "impressao": {
-                "pessoas": 5224,
-                "impressoes": 17324
+                "pessoas": 5253,
+                "impressoes": 17443
             },
             "interacoes": {
                 "acao": {
@@ -1393,19 +1393,19 @@
                 },
                 "total": "166"
             },
-            "qtdFavoritados": 2,
+            "qtdFavoritados": 3,
             "valorInvestido": null,
             "estabelecimento": "Nikô Sushi - Floripa"
         },
         {
             "cliques": {
-                "pessoas": 341,
-                "diasAtivos": 101,
-                "quantidade": 472,
-                "cliquesPorDia": 4.67,
+                "pessoas": 345,
+                "diasAtivos": 102,
+                "quantidade": 479,
+                "cliquesPorDia": 4.70,
                 "pessoasPorDia": 3.38,
-                "pessoasUltimos7dias": 32,
-                "quantidadeUltimos7dias": 42
+                "pessoasUltimos7dias": 31,
+                "quantidadeUltimos7dias": 40
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1420,12 +1420,12 @@
                 "quantidadePessoas": 15
             },
             "impressao": {
-                "pessoas": 3642,
-                "impressoes": 13348
+                "pessoas": 3671,
+                "impressoes": 13472
             },
             "interacoes": {
                 "acao": {
-                    "maps": 35,
+                    "maps": 36,
                     "menu": 0,
                     "tour": 0,
                     "share": 8,
@@ -1435,12 +1435,12 @@
                     "birthday": 0,
                     "delivery": 0,
                     "mobility": 5,
-                    "instagram": 62,
+                    "instagram": 63,
                     "schedules": 7,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "127"
+                "total": "129"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1448,19 +1448,19 @@
         },
         {
             "cliques": {
-                "pessoas": 327,
-                "diasAtivos": 281,
-                "quantidade": 436,
-                "cliquesPorDia": 1.55,
-                "pessoasPorDia": 1.16,
-                "pessoasUltimos7dias": 9,
-                "quantidadeUltimos7dias": 11
+                "pessoas": 329,
+                "diasAtivos": 282,
+                "quantidade": 439,
+                "cliquesPorDia": 1.56,
+                "pessoasPorDia": 1.17,
+                "pessoasUltimos7dias": 11,
+                "quantidadeUltimos7dias": 14
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 4062,
-                "impressoes": 9069
+                "pessoas": 4085,
+                "impressoes": 9118
             },
             "interacoes": {
                 "acao": {
@@ -1474,12 +1474,12 @@
                     "birthday": 0,
                     "delivery": 10,
                     "mobility": 1,
-                    "instagram": 73,
+                    "instagram": 75,
                     "schedules": 29,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "153"
+                "total": "155"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1487,19 +1487,19 @@
         },
         {
             "cliques": {
-                "pessoas": 320,
-                "diasAtivos": 214,
-                "quantidade": 414,
-                "cliquesPorDia": 1.95,
-                "pessoasPorDia": 1.51,
-                "pessoasUltimos7dias": 5,
-                "quantidadeUltimos7dias": 5
+                "pessoas": 321,
+                "diasAtivos": 215,
+                "quantidade": 415,
+                "cliquesPorDia": 1.94,
+                "pessoasPorDia": 1.50,
+                "pessoasUltimos7dias": 4,
+                "quantidadeUltimos7dias": 4
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 7024,
-                "impressoes": 19420
+                "pessoas": 7046,
+                "impressoes": 19483
             },
             "interacoes": {
                 "acao": {
@@ -1513,12 +1513,12 @@
                     "birthday": 0,
                     "delivery": 0,
                     "mobility": 1,
-                    "instagram": 57,
+                    "instagram": 58,
                     "schedules": 4,
                     "callToAction": 29,
                     "table_booking": 0
                 },
-                "total": "109"
+                "total": "110"
             },
             "qtdFavoritados": 4,
             "valorInvestido": null,
@@ -1526,19 +1526,58 @@
         },
         {
             "cliques": {
-                "pessoas": 276,
-                "diasAtivos": 139,
-                "quantidade": 330,
-                "cliquesPorDia": 2.43,
-                "pessoasPorDia": 2.03,
-                "pessoasUltimos7dias": 17,
-                "quantidadeUltimos7dias": 20
+                "pessoas": 277,
+                "diasAtivos": 73,
+                "quantidade": 366,
+                "cliquesPorDia": 5.01,
+                "pessoasPorDia": 3.79,
+                "pessoasUltimos7dias": 28,
+                "quantidadeUltimos7dias": 32
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 3943,
-                "impressoes": 11145
+                "pessoas": 2801,
+                "impressoes": 9883
+            },
+            "interacoes": {
+                "acao": {
+                    "maps": 12,
+                    "menu": 77,
+                    "tour": 9,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 3,
+                    "website": 0,
+                    "birthday": 15,
+                    "delivery": 0,
+                    "mobility": 1,
+                    "instagram": 49,
+                    "schedules": 4,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "171"
+            },
+            "qtdFavoritados": 0,
+            "valorInvestido": null,
+            "estabelecimento": "Melts Floripa"
+        },
+        {
+            "cliques": {
+                "pessoas": 276,
+                "diasAtivos": 140,
+                "quantidade": 330,
+                "cliquesPorDia": 2.43,
+                "pessoasPorDia": 2.03,
+                "pessoasUltimos7dias": 16,
+                "quantidadeUltimos7dias": 19
+            },
+            "reviews": null,
+            "reservas": null,
+            "impressao": {
+                "pessoas": 3959,
+                "impressoes": 11195
             },
             "interacoes": {
                 "acao": {
@@ -1565,58 +1604,19 @@
         },
         {
             "cliques": {
-                "pessoas": 271,
-                "diasAtivos": 72,
-                "quantidade": 359,
-                "cliquesPorDia": 5.06,
-                "pessoasPorDia": 3.82,
-                "pessoasUltimos7dias": 28,
-                "quantidadeUltimos7dias": 33
-            },
-            "reviews": null,
-            "reservas": null,
-            "impressao": {
-                "pessoas": 2767,
-                "impressoes": 9732
-            },
-            "interacoes": {
-                "acao": {
-                    "maps": 12,
-                    "menu": 76,
-                    "tour": 9,
-                    "share": 1,
-                    "prices": 0,
-                    "contact": 3,
-                    "website": 0,
-                    "birthday": 15,
-                    "delivery": 0,
-                    "mobility": 1,
-                    "instagram": 47,
-                    "schedules": 4,
-                    "callToAction": 0,
-                    "table_booking": 0
-                },
-                "total": "168"
-            },
-            "qtdFavoritados": 0,
-            "valorInvestido": null,
-            "estabelecimento": "Melts Floripa"
-        },
-        {
-            "cliques": {
                 "pessoas": 239,
-                "diasAtivos": 111,
+                "diasAtivos": 112,
                 "quantidade": 293,
                 "cliquesPorDia": 2.66,
                 "pessoasPorDia": 2.17,
-                "pessoasUltimos7dias": 13,
-                "quantidadeUltimos7dias": 13
+                "pessoasUltimos7dias": 9,
+                "quantidadeUltimos7dias": 9
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 2761,
-                "impressoes": 7776
+                "pessoas": 2783,
+                "impressoes": 7834
             },
             "interacoes": {
                 "acao": {
@@ -1643,13 +1643,13 @@
         },
         {
             "cliques": {
-                "pessoas": 219,
-                "diasAtivos": 224,
-                "quantidade": 258,
+                "pessoas": 220,
+                "diasAtivos": 225,
+                "quantidade": 259,
                 "cliquesPorDia": 1.16,
                 "pessoasPorDia": 0.98,
-                "pessoasUltimos7dias": 3,
-                "quantidadeUltimos7dias": 5
+                "pessoasUltimos7dias": 4,
+                "quantidadeUltimos7dias": 6
             },
             "reviews": null,
             "reservas": {
@@ -1657,8 +1657,8 @@
                 "quantidadePessoas": 4
             },
             "impressao": {
-                "pessoas": 5344,
-                "impressoes": 13299
+                "pessoas": 5362,
+                "impressoes": 13337
             },
             "interacoes": {
                 "acao": {
@@ -1685,13 +1685,13 @@
         },
         {
             "cliques": {
-                "pessoas": 211,
-                "diasAtivos": 114,
-                "quantidade": 254,
-                "cliquesPorDia": 1.64,
-                "pessoasPorDia": 1.36,
-                "pessoasUltimos7dias": 12,
-                "quantidadeUltimos7dias": 13
+                "pessoas": 213,
+                "diasAtivos": 115,
+                "quantidade": 257,
+                "cliquesPorDia": 1.65,
+                "pessoasPorDia": 1.37,
+                "pessoasUltimos7dias": 14,
+                "quantidadeUltimos7dias": 16
             },
             "reviews": null,
             "reservas": {
@@ -1699,8 +1699,8 @@
                 "quantidadePessoas": 21
             },
             "impressao": {
-                "pessoas": 3565,
-                "impressoes": 11867
+                "pessoas": 3587,
+                "impressoes": 11946
             },
             "interacoes": {
                 "acao": {
@@ -1711,7 +1711,7 @@
                     "prices": 0,
                     "contact": 7,
                     "website": 0,
-                    "birthday": 19,
+                    "birthday": 20,
                     "delivery": 8,
                     "mobility": 1,
                     "instagram": 15,
@@ -1719,7 +1719,7 @@
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "73"
+                "total": "74"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1727,19 +1727,19 @@
         },
         {
             "cliques": {
-                "pessoas": 169,
-                "diasAtivos": 281,
-                "quantidade": 211,
+                "pessoas": 171,
+                "diasAtivos": 282,
+                "quantidade": 214,
                 "cliquesPorDia": 0.76,
                 "pessoasPorDia": 0.61,
                 "pessoasUltimos7dias": 5,
-                "quantidadeUltimos7dias": 5
+                "quantidadeUltimos7dias": 6
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 494,
-                "impressoes": 799
+                "pessoas": 522,
+                "impressoes": 846
             },
             "interacoes": {
                 "acao": {
@@ -1753,12 +1753,12 @@
                     "birthday": 21,
                     "delivery": 2,
                     "mobility": 0,
-                    "instagram": 27,
+                    "instagram": 29,
                     "schedules": 3,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "68"
+                "total": "70"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1767,18 +1767,18 @@
         {
             "cliques": {
                 "pessoas": 168,
-                "diasAtivos": 226,
-                "quantidade": 209,
+                "diasAtivos": 227,
+                "quantidade": 210,
                 "cliquesPorDia": 0.93,
-                "pessoasPorDia": 0.75,
-                "pessoasUltimos7dias": 5,
+                "pessoasPorDia": 0.74,
+                "pessoasUltimos7dias": 4,
                 "quantidadeUltimos7dias": 5
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 5067,
-                "impressoes": 11791
+                "pessoas": 5087,
+                "impressoes": 11834
             },
             "interacoes": {
                 "acao": {
@@ -1805,19 +1805,19 @@
         },
         {
             "cliques": {
-                "pessoas": 163,
-                "diasAtivos": 281,
-                "quantidade": 193,
-                "cliquesPorDia": 0.69,
-                "pessoasPorDia": 0.58,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
+                "pessoas": 165,
+                "diasAtivos": 282,
+                "quantidade": 196,
+                "cliquesPorDia": 0.70,
+                "pessoasPorDia": 0.59,
+                "pessoasUltimos7dias": 5,
+                "quantidadeUltimos7dias": 6
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 4684,
-                "impressoes": 10324
+                "pessoas": 4704,
+                "impressoes": 10365
             },
             "interacoes": {
                 "acao": {
@@ -1831,12 +1831,12 @@
                     "birthday": 0,
                     "delivery": 1,
                     "mobility": 0,
-                    "instagram": 33,
+                    "instagram": 35,
                     "schedules": 10,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "48"
+                "total": "50"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1845,12 +1845,12 @@
         {
             "cliques": {
                 "pessoas": 153,
-                "diasAtivos": 59,
+                "diasAtivos": 60,
                 "quantidade": 230,
                 "cliquesPorDia": 7.93,
                 "pessoasPorDia": 5.28,
-                "pessoasUltimos7dias": 28,
-                "quantidadeUltimos7dias": 34
+                "pessoasUltimos7dias": 25,
+                "quantidadeUltimos7dias": 28
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -1861,8 +1861,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 1857,
-                "impressoes": 5120
+                "pessoas": 1884,
+                "impressoes": 5194
             },
             "interacoes": {
                 "acao": {
@@ -1889,13 +1889,13 @@
         },
         {
             "cliques": {
-                "pessoas": 140,
-                "diasAtivos": 161,
-                "quantidade": 170,
-                "cliquesPorDia": 1.06,
+                "pessoas": 142,
+                "diasAtivos": 162,
+                "quantidade": 172,
+                "cliquesPorDia": 1.07,
                 "pessoasPorDia": 0.88,
-                "pessoasUltimos7dias": 8,
-                "quantidadeUltimos7dias": 8
+                "pessoasUltimos7dias": 9,
+                "quantidadeUltimos7dias": 9
             },
             "reviews": null,
             "reservas": {
@@ -1903,8 +1903,8 @@
                 "quantidadePessoas": 5
             },
             "impressao": {
-                "pessoas": 1939,
-                "impressoes": 4831
+                "pessoas": 1958,
+                "impressoes": 4880
             },
             "interacoes": {
                 "acao": {
@@ -1931,12 +1931,12 @@
         },
         {
             "cliques": {
-                "pessoas": 118,
-                "diasAtivos": 60,
-                "quantidade": 139,
-                "cliquesPorDia": 2.32,
-                "pessoasPorDia": 1.97,
-                "pessoasUltimos7dias": 26,
+                "pessoas": 122,
+                "diasAtivos": 61,
+                "quantidade": 143,
+                "cliquesPorDia": 2.38,
+                "pessoasPorDia": 2.03,
+                "pessoasUltimos7dias": 27,
                 "quantidadeUltimos7dias": 30
             },
             "reviews": {
@@ -1948,13 +1948,13 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 2070,
-                "impressoes": 5826
+                "pessoas": 2107,
+                "impressoes": 5962
             },
             "interacoes": {
                 "acao": {
                     "maps": 10,
-                    "menu": 23,
+                    "menu": 25,
                     "tour": 0,
                     "share": 0,
                     "prices": 0,
@@ -1968,7 +1968,7 @@
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "65"
+                "total": "67"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -1976,65 +1976,19 @@
         },
         {
             "cliques": {
-                "pessoas": 97,
-                "diasAtivos": 103,
-                "quantidade": 117,
-                "cliquesPorDia": 1.15,
-                "pessoasPorDia": 0.95,
-                "pessoasUltimos7dias": 14,
-                "quantidadeUltimos7dias": 14
-            },
-            "reviews": {
-                "estrelas": 5.00,
-                "quantidade": 2,
-                "comentarios": [
-                    "5 - Local é top! Visual e por do sol maravilhoso! Chopp em Dobro a 20,00 ",
-                    "5 - Sem Comentário"
-                ]
-            },
-            "reservas": null,
-            "impressao": {
-                "pessoas": 2074,
-                "impressoes": 4866
-            },
-            "interacoes": {
-                "acao": {
-                    "maps": 3,
-                    "menu": 48,
-                    "tour": 1,
-                    "share": 0,
-                    "prices": 0,
-                    "contact": 1,
-                    "website": 0,
-                    "birthday": 0,
-                    "delivery": 1,
-                    "mobility": 0,
-                    "instagram": 26,
-                    "schedules": 4,
-                    "callToAction": 0,
-                    "table_booking": 0
-                },
-                "total": "84"
-            },
-            "qtdFavoritados": 1,
-            "valorInvestido": null,
-            "estabelecimento": "Amo Floripa Café Bar"
-        },
-        {
-            "cliques": {
-                "pessoas": 97,
-                "diasAtivos": 101,
-                "quantidade": 121,
-                "cliquesPorDia": 1.20,
-                "pessoasPorDia": 0.96,
-                "pessoasUltimos7dias": 6,
-                "quantidadeUltimos7dias": 6
+                "pessoas": 99,
+                "diasAtivos": 102,
+                "quantidade": 124,
+                "cliquesPorDia": 1.23,
+                "pessoasPorDia": 0.98,
+                "pessoasUltimos7dias": 7,
+                "quantidadeUltimos7dias": 7
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 2071,
-                "impressoes": 5300
+                "pessoas": 2089,
+                "impressoes": 5338
             },
             "interacoes": {
                 "acao": {
@@ -2048,12 +2002,12 @@
                     "birthday": 0,
                     "delivery": 0,
                     "mobility": 0,
-                    "instagram": 35,
+                    "instagram": 36,
                     "schedules": 9,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "56"
+                "total": "57"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2061,13 +2015,59 @@
         },
         {
             "cliques": {
+                "pessoas": 99,
+                "diasAtivos": 104,
+                "quantidade": 119,
+                "cliquesPorDia": 1.16,
+                "pessoasPorDia": 0.96,
+                "pessoasUltimos7dias": 13,
+                "quantidadeUltimos7dias": 13
+            },
+            "reviews": {
+                "estrelas": 5.00,
+                "quantidade": 2,
+                "comentarios": [
+                    "5 - Local é top! Visual e por do sol maravilhoso! Chopp em Dobro a 20,00 ",
+                    "5 - Sem Comentário"
+                ]
+            },
+            "reservas": null,
+            "impressao": {
+                "pessoas": 2094,
+                "impressoes": 4914
+            },
+            "interacoes": {
+                "acao": {
+                    "maps": 3,
+                    "menu": 48,
+                    "tour": 1,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 1,
+                    "mobility": 0,
+                    "instagram": 27,
+                    "schedules": 4,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "85"
+            },
+            "qtdFavoritados": 1,
+            "valorInvestido": null,
+            "estabelecimento": "Amo Floripa Café Bar"
+        },
+        {
+            "cliques": {
                 "pessoas": 89,
-                "diasAtivos": 122,
+                "diasAtivos": 123,
                 "quantidade": 108,
                 "cliquesPorDia": 0.91,
                 "pessoasPorDia": 0.75,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
+                "pessoasUltimos7dias": 2,
+                "quantidadeUltimos7dias": 2
             },
             "reviews": {
                 "estrelas": 4.00,
@@ -2078,8 +2078,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 2465,
-                "impressoes": 5641
+                "pessoas": 2485,
+                "impressoes": 5683
             },
             "interacoes": {
                 "acao": {
@@ -2107,12 +2107,12 @@
         {
             "cliques": {
                 "pessoas": 88,
-                "diasAtivos": 147,
+                "diasAtivos": 148,
                 "quantidade": 102,
                 "cliquesPorDia": 0.70,
                 "pessoasPorDia": 0.60,
-                "pessoasUltimos7dias": 6,
-                "quantidadeUltimos7dias": 7
+                "pessoasUltimos7dias": 5,
+                "quantidadeUltimos7dias": 5
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -2123,8 +2123,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 3470,
-                "impressoes": 8121
+                "pessoas": 3487,
+                "impressoes": 8163
             },
             "interacoes": {
                 "acao": {
@@ -2151,24 +2151,24 @@
         },
         {
             "cliques": {
-                "pessoas": 77,
-                "diasAtivos": 74,
-                "quantidade": 104,
-                "cliquesPorDia": 4.52,
-                "pessoasPorDia": 3.35,
-                "pessoasUltimos7dias": 13,
-                "quantidadeUltimos7dias": 15
+                "pessoas": 81,
+                "diasAtivos": 75,
+                "quantidade": 108,
+                "cliquesPorDia": 4.32,
+                "pessoasPorDia": 3.24,
+                "pessoasUltimos7dias": 12,
+                "quantidadeUltimos7dias": 13
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 1588,
-                "impressoes": 4073
+                "pessoas": 1615,
+                "impressoes": 4155
             },
             "interacoes": {
                 "acao": {
                     "maps": 5,
-                    "menu": 9,
+                    "menu": 12,
                     "tour": 1,
                     "share": 0,
                     "prices": 0,
@@ -2182,7 +2182,7 @@
                     "callToAction": 3,
                     "table_booking": 0
                 },
-                "total": "30"
+                "total": "33"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2190,13 +2190,13 @@
         },
         {
             "cliques": {
-                "pessoas": 77,
-                "diasAtivos": 98,
-                "quantidade": 98,
-                "cliquesPorDia": 1.02,
-                "pessoasPorDia": 0.80,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
+                "pessoas": 80,
+                "diasAtivos": 99,
+                "quantidade": 101,
+                "cliquesPorDia": 1.03,
+                "pessoasPorDia": 0.82,
+                "pessoasUltimos7dias": 6,
+                "quantidadeUltimos7dias": 6
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -2208,8 +2208,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 1851,
-                "impressoes": 4136
+                "pessoas": 1875,
+                "impressoes": 4188
             },
             "interacoes": {
                 "acao": {
@@ -2223,12 +2223,12 @@
                     "birthday": 9,
                     "delivery": 0,
                     "mobility": 0,
-                    "instagram": 21,
+                    "instagram": 22,
                     "schedules": 4,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "75"
+                "total": "76"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2237,7 +2237,52 @@
         {
             "cliques": {
                 "pessoas": 77,
-                "diasAtivos": 156,
+                "diasAtivos": 43,
+                "quantidade": 100,
+                "cliquesPorDia": 5.88,
+                "pessoasPorDia": 4.53,
+                "pessoasUltimos7dias": 25,
+                "quantidadeUltimos7dias": 31
+            },
+            "reviews": {
+                "estrelas": 5.00,
+                "quantidade": 1,
+                "comentarios": [
+                    "5 - Espaço super legal, comida muito bem servida e com preço bem justo. Fui muito bem atendida! Recomendo "
+                ]
+            },
+            "reservas": null,
+            "impressao": {
+                "pessoas": 951,
+                "impressoes": 2243
+            },
+            "interacoes": {
+                "acao": {
+                    "maps": 2,
+                    "menu": 1,
+                    "tour": 10,
+                    "share": 1,
+                    "prices": 0,
+                    "contact": 2,
+                    "website": 0,
+                    "birthday": 4,
+                    "delivery": 1,
+                    "mobility": 1,
+                    "instagram": 13,
+                    "schedules": 5,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "40"
+            },
+            "qtdFavoritados": 1,
+            "valorInvestido": null,
+            "estabelecimento": "Cine Bar Restaurante"
+        },
+        {
+            "cliques": {
+                "pessoas": 77,
+                "diasAtivos": 157,
                 "quantidade": 105,
                 "cliquesPorDia": 0.70,
                 "pessoasPorDia": 0.51,
@@ -2250,8 +2295,8 @@
                 "quantidadePessoas": 4
             },
             "impressao": {
-                "pessoas": 3235,
-                "impressoes": 7538
+                "pessoas": 3252,
+                "impressoes": 7576
             },
             "interacoes": {
                 "acao": {
@@ -2278,58 +2323,13 @@
         },
         {
             "cliques": {
-                "pessoas": 74,
-                "diasAtivos": 42,
-                "quantidade": 97,
-                "cliquesPorDia": 6.47,
-                "pessoasPorDia": 4.93,
-                "pessoasUltimos7dias": 24,
-                "quantidadeUltimos7dias": 30
-            },
-            "reviews": {
-                "estrelas": 5.00,
-                "quantidade": 1,
-                "comentarios": [
-                    "5 - Espaço super legal, comida muito bem servida e com preço bem justo. Fui muito bem atendida! Recomendo "
-                ]
-            },
-            "reservas": null,
-            "impressao": {
-                "pessoas": 923,
-                "impressoes": 2164
-            },
-            "interacoes": {
-                "acao": {
-                    "maps": 2,
-                    "menu": 0,
-                    "tour": 10,
-                    "share": 1,
-                    "prices": 0,
-                    "contact": 2,
-                    "website": 0,
-                    "birthday": 4,
-                    "delivery": 1,
-                    "mobility": 0,
-                    "instagram": 13,
-                    "schedules": 5,
-                    "callToAction": 0,
-                    "table_booking": 0
-                },
-                "total": "38"
-            },
-            "qtdFavoritados": 1,
-            "valorInvestido": null,
-            "estabelecimento": "Cine Bar Restaurante"
-        },
-        {
-            "cliques": {
                 "pessoas": 66,
-                "diasAtivos": 39,
+                "diasAtivos": 40,
                 "quantidade": 79,
                 "cliquesPorDia": 2.03,
                 "pessoasPorDia": 1.69,
-                "pessoasUltimos7dias": 15,
-                "quantidadeUltimos7dias": 16
+                "pessoasUltimos7dias": 14,
+                "quantidadeUltimos7dias": 15
             },
             "reviews": {
                 "estrelas": 5.00,
@@ -2340,8 +2340,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 1310,
-                "impressoes": 3450
+                "pessoas": 1335,
+                "impressoes": 3529
             },
             "interacoes": {
                 "acao": {
@@ -2369,7 +2369,7 @@
         {
             "cliques": {
                 "pessoas": 46,
-                "diasAtivos": 102,
+                "diasAtivos": 103,
                 "quantidade": 53,
                 "cliquesPorDia": 0.52,
                 "pessoasPorDia": 0.46,
@@ -2385,8 +2385,8 @@
             },
             "reservas": null,
             "impressao": {
-                "pessoas": 1714,
-                "impressoes": 3922
+                "pessoas": 1732,
+                "impressoes": 3957
             },
             "interacoes": {
                 "acao": {
@@ -2413,38 +2413,38 @@
         },
         {
             "cliques": {
-                "pessoas": 38,
-                "diasAtivos": 28,
-                "quantidade": 55,
-                "cliquesPorDia": 2.12,
-                "pessoasPorDia": 1.46,
-                "pessoasUltimos7dias": 11,
-                "quantidadeUltimos7dias": 13
+                "pessoas": 39,
+                "diasAtivos": 29,
+                "quantidade": 56,
+                "cliquesPorDia": 2.00,
+                "pessoasPorDia": 1.39,
+                "pessoasUltimos7dias": 9,
+                "quantidadeUltimos7dias": 11
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 1130,
-                "impressoes": 2657
+                "pessoas": 1161,
+                "impressoes": 2762
             },
             "interacoes": {
                 "acao": {
                     "maps": 1,
                     "menu": 0,
-                    "tour": 2,
+                    "tour": 3,
                     "share": 0,
                     "prices": 0,
                     "contact": 2,
                     "website": 0,
-                    "birthday": 4,
+                    "birthday": 5,
                     "delivery": 0,
                     "mobility": 0,
                     "instagram": 18,
-                    "schedules": 2,
+                    "schedules": 3,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "29"
+                "total": "32"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
@@ -2453,7 +2453,7 @@
         {
             "cliques": {
                 "pessoas": 31,
-                "diasAtivos": 74,
+                "diasAtivos": 75,
                 "quantidade": 38,
                 "cliquesPorDia": 0.53,
                 "pessoasPorDia": 0.43,
@@ -2463,8 +2463,8 @@
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 1234,
-                "impressoes": 2668
+                "pessoas": 1253,
+                "impressoes": 2704
             },
             "interacoes": {
                 "acao": {
@@ -2492,18 +2492,18 @@
         {
             "cliques": {
                 "pessoas": 18,
-                "diasAtivos": 16,
+                "diasAtivos": 17,
                 "quantidade": 21,
                 "cliquesPorDia": 1.62,
                 "pessoasPorDia": 1.38,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
+                "pessoasUltimos7dias": 2,
+                "quantidadeUltimos7dias": 2
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 367,
-                "impressoes": 599
+                "pessoas": 387,
+                "impressoes": 637
             },
             "interacoes": {
                 "acao": {
@@ -2530,19 +2530,19 @@
         },
         {
             "cliques": {
-                "pessoas": 14,
-                "diasAtivos": 45,
-                "quantidade": 15,
-                "cliquesPorDia": 0.37,
-                "pessoasPorDia": 0.34,
-                "pessoasUltimos7dias": 2,
-                "quantidadeUltimos7dias": 2
+                "pessoas": 15,
+                "diasAtivos": 46,
+                "quantidade": 16,
+                "cliquesPorDia": 0.35,
+                "pessoasPorDia": 0.33,
+                "pessoasUltimos7dias": 3,
+                "quantidadeUltimos7dias": 3
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 749,
-                "impressoes": 1295
+                "pessoas": 770,
+                "impressoes": 1333
             },
             "interacoes": {
                 "acao": {
@@ -2569,8 +2569,47 @@
         },
         {
             "cliques": {
+                "pessoas": 15,
+                "diasAtivos": 264,
+                "quantidade": 20,
+                "cliquesPorDia": 2.00,
+                "pessoasPorDia": 1.50,
+                "pessoasUltimos7dias": 11,
+                "quantidadeUltimos7dias": 15
+            },
+            "reviews": null,
+            "reservas": null,
+            "impressao": {
+                "pessoas": 369,
+                "impressoes": 773
+            },
+            "interacoes": {
+                "acao": {
+                    "maps": 0,
+                    "menu": 8,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 1,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 1,
+                    "schedules": 2,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "12"
+            },
+            "qtdFavoritados": 1,
+            "valorInvestido": null,
+            "estabelecimento": "Ambô Cozinha"
+        },
+        {
+            "cliques": {
                 "pessoas": 14,
-                "diasAtivos": 26,
+                "diasAtivos": 27,
                 "quantidade": 17,
                 "cliquesPorDia": 0.77,
                 "pessoasPorDia": 0.64,
@@ -2580,8 +2619,8 @@
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 636,
-                "impressoes": 1145
+                "pessoas": 659,
+                "impressoes": 1193
             },
             "interacoes": {
                 "acao": {
@@ -2609,57 +2648,57 @@
         {
             "cliques": {
                 "pessoas": 12,
-                "diasAtivos": 263,
+                "diasAtivos": 264,
                 "quantidade": 16,
-                "cliquesPorDia": 1.78,
-                "pessoasPorDia": 1.33,
-                "pessoasUltimos7dias": 8,
-                "quantidadeUltimos7dias": 11
+                "cliquesPorDia": 0.06,
+                "pessoasPorDia": 0.05,
+                "pessoasUltimos7dias": 3,
+                "quantidadeUltimos7dias": 5
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 335,
-                "impressoes": 664
+                "pessoas": 156,
+                "impressoes": 254
             },
             "interacoes": {
                 "acao": {
-                    "maps": 0,
-                    "menu": 6,
+                    "maps": 1,
+                    "menu": 0,
                     "tour": 0,
                     "share": 0,
                     "prices": 0,
-                    "contact": 1,
+                    "contact": 2,
                     "website": 0,
                     "birthday": 0,
                     "delivery": 0,
                     "mobility": 0,
-                    "instagram": 1,
-                    "schedules": 2,
+                    "instagram": 5,
+                    "schedules": 3,
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "10"
+                "total": "11"
             },
             "qtdFavoritados": 1,
             "valorInvestido": null,
-            "estabelecimento": "Ambô Cozinha"
+            "estabelecimento": "Aruna Beach Club"
         },
         {
             "cliques": {
-                "pessoas": 10,
-                "diasAtivos": 10,
-                "quantidade": 13,
-                "cliquesPorDia": 1.44,
-                "pessoasPorDia": 1.11,
-                "pessoasUltimos7dias": 6,
-                "quantidadeUltimos7dias": 8
+                "pessoas": 11,
+                "diasAtivos": 11,
+                "quantidade": 14,
+                "cliquesPorDia": 1.40,
+                "pessoasPorDia": 1.10,
+                "pessoasUltimos7dias": 5,
+                "quantidadeUltimos7dias": 5
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 181,
-                "impressoes": 282
+                "pessoas": 206,
+                "impressoes": 321
             },
             "interacoes": {
                 "acao": {
@@ -2686,40 +2725,97 @@
         },
         {
             "cliques": {
-                "pessoas": 6,
-                "diasAtivos": 10,
-                "quantidade": 6,
-                "cliquesPorDia": 0.67,
-                "pessoasPorDia": 0.67,
-                "pessoasUltimos7dias": 4,
-                "quantidadeUltimos7dias": 4
+                "pessoas": 10,
+                "diasAtivos": 11,
+                "quantidade": 10,
+                "cliquesPorDia": 1.00,
+                "pessoasPorDia": 1.00,
+                "pessoasUltimos7dias": 7,
+                "quantidadeUltimos7dias": 7
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 237,
-                "impressoes": 360
+                "pessoas": 263,
+                "impressoes": 406
             },
-            "interacoes": null,
+            "interacoes": {
+                "acao": {
+                    "maps": 1,
+                    "menu": 0,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 1,
+                    "schedules": 0,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "2"
+            },
             "qtdFavoritados": 0,
             "valorInvestido": null,
             "estabelecimento": "Beco do Corvo"
         },
         {
             "cliques": {
-                "pessoas": 5,
-                "diasAtivos": 10,
-                "quantidade": 5,
-                "cliquesPorDia": 0.63,
-                "pessoasPorDia": 0.63,
+                "pessoas": 7,
+                "diasAtivos": 6,
+                "quantidade": 7,
+                "cliquesPorDia": 1.40,
+                "pessoasPorDia": 1.40,
+                "pessoasUltimos7dias": 7,
+                "quantidadeUltimos7dias": 7
+            },
+            "reviews": null,
+            "reservas": null,
+            "impressao": {
+                "pessoas": 99,
+                "impressoes": 151
+            },
+            "interacoes": {
+                "acao": {
+                    "maps": 1,
+                    "menu": 6,
+                    "tour": 0,
+                    "share": 0,
+                    "prices": 0,
+                    "contact": 0,
+                    "website": 0,
+                    "birthday": 0,
+                    "delivery": 0,
+                    "mobility": 0,
+                    "instagram": 1,
+                    "schedules": 1,
+                    "callToAction": 0,
+                    "table_booking": 0
+                },
+                "total": "9"
+            },
+            "qtdFavoritados": 0,
+            "valorInvestido": null,
+            "estabelecimento": "Let´s Mex"
+        },
+        {
+            "cliques": {
+                "pessoas": 6,
+                "diasAtivos": 11,
+                "quantidade": 6,
+                "cliquesPorDia": 0.60,
+                "pessoasPorDia": 0.60,
                 "pessoasUltimos7dias": 4,
                 "quantidadeUltimos7dias": 4
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 201,
-                "impressoes": 303
+                "pessoas": 227,
+                "impressoes": 347
             },
             "interacoes": {
                 "acao": {
@@ -2742,67 +2838,28 @@
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
-            "estabelecimento": "Bertol Craft Beer"
-        },
-        {
-            "cliques": {
-                "pessoas": 5,
-                "diasAtivos": 5,
-                "quantidade": 5,
-                "cliquesPorDia": 1.25,
-                "pessoasPorDia": 1.25,
-                "pessoasUltimos7dias": 5,
-                "quantidadeUltimos7dias": 5
-            },
-            "reviews": null,
-            "reservas": null,
-            "impressao": {
-                "pessoas": 74,
-                "impressoes": 116
-            },
-            "interacoes": {
-                "acao": {
-                    "maps": 1,
-                    "menu": 6,
-                    "tour": 0,
-                    "share": 0,
-                    "prices": 0,
-                    "contact": 0,
-                    "website": 0,
-                    "birthday": 0,
-                    "delivery": 0,
-                    "mobility": 0,
-                    "instagram": 0,
-                    "schedules": 1,
-                    "callToAction": 0,
-                    "table_booking": 0
-                },
-                "total": "8"
-            },
-            "qtdFavoritados": 0,
-            "valorInvestido": null,
-            "estabelecimento": "Let´s Mex"
+            "estabelecimento": "Bertol Craft Beer Bar da Fábrica"
         },
         {
             "cliques": {
                 "pessoas": 2,
-                "diasAtivos": 2,
-                "quantidade": 22,
-                "cliquesPorDia": 11.00,
+                "diasAtivos": 3,
+                "quantidade": 23,
+                "cliquesPorDia": 11.50,
                 "pessoasPorDia": 1.00,
                 "pessoasUltimos7dias": 2,
-                "quantidadeUltimos7dias": 22
+                "quantidadeUltimos7dias": 23
             },
             "reviews": null,
             "reservas": null,
             "impressao": {
-                "pessoas": 59,
-                "impressoes": 102
+                "pessoas": 79,
+                "impressoes": 133
             },
             "interacoes": {
                 "acao": {
                     "maps": 0,
-                    "menu": 1,
+                    "menu": 2,
                     "tour": 3,
                     "share": 1,
                     "prices": 0,
@@ -2816,7 +2873,7 @@
                     "callToAction": 0,
                     "table_booking": 0
                 },
-                "total": "19"
+                "total": "20"
             },
             "qtdFavoritados": 0,
             "valorInvestido": null,
